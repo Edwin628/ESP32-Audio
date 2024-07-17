@@ -1,0 +1,1044 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 12 allocated 6196 min_free 0
+    largest_free_block 4 alloc_blocks 43 free_blocks 1 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 4876 allocated 10400 min_free 0
+    largest_free_block 4852 alloc_blocks 39 free_blocks 1 total_blocks 40
+  At 0x3ffca710 len 88304 free 78356 allocated 8920 min_free 78356
+    largest_free_block 77812 alloc_blocks 9 free_blocks 1 total_blocks 10
+  At 0x3ffe0440 len 15072 free 14644 allocated 0 min_free 14644
+    largest_free_block 14324 alloc_blocks 0 free_blocks 1 total_blocks 1
+  At 0x3ffe4350 len 113840 free 112956 allocated 0 min_free 112956
+    largest_free_block 110580 alloc_blocks 0 free_blocks 1 total_blocks 1
+  Totals:
+    free 210852 allocated 25520 min_free 205964 largest_free_block 110580
+FFT initialization success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ets Jul 29 2019 12:21:46
+
+rst:0x7 (TG0WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 12 allocated 6196 min_free 0
+    largest_free_block 4 alloc_blocks 43 free_blocks 1 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 4876 allocated 10400 min_free 0
+    largest_free_block 4852 alloc_blocks 39 free_blocks 1 total_blocks 40
+  At 0x3ffca710 len 88304 free 78356 allocated 8920 min_free 78356
+    largest_free_block 77812 alloc_blocks 9 free_blocks 1 total_blocks 10
+  At 0x3ffe0440 len 15072 free 14644 allocated 0 min_free 14644
+    largest_free_block 14324 alloc_blocks 0 free_blocks 1 total_blocks 1
+  At 0x3ffe4350 len 113840 free 112956 allocated 0 min_free 112956
+    largest_free_block 110580 alloc_blocks 0 free_blocks 1 total_blocks 1
+  Totals:
+    free 210852 allocated 25520 min_free 205964 largest_free_block 110580
+FFT initialization success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ets Jul 29 2019 12:21:46
+
+rst:0x7 (TG0WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 12 allocated 6196 min_free 0
+    largest_free_block 4 alloc_blocks 43 free_blocks 1 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 4876 allocated 10400 min_free 0
+    largest_free_block 4852 alloc_blocks 39 free_blocks 1 total_blocks 40
+  At 0x3ffca710 len 88304 free 78356 allocated 8920 min_free 78356
+    largest_free_block 77812 alloc_blocks 9 free_blocks 1 total_blocks 10
+  At 0x3ffe0440 len 15072 free 14644 allocated 0 min_free 14644
+    largest_free_block 14324 alloc_blocks 0 free_blocks 1 total_blocks 1
+  At 0x3ffe4350 len 113840 free 112956 allocated 0 min_free 112956
+    largest_free_block 110580 alloc_blocks 0 free_blocks 1 total_blocks 1
+  Totals:
+    free 210852 allocated 25520 min_free 205964 largest_free_block 110580
+FFT initialization success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ets Jul 29 2019 12:21:46
+
+rst:0x7 (TG0WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 12 allocated 6196 min_free 0
+    largest_free_block 4 alloc_blocks 43 free_blocks 1 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 4876 allocated 10400 min_free 0
+    largest_free_block 4852 alloc_blocks 39 free_blocks 1 total_blocks 40
+  At 0x3ffca710 len 88304 free 78356 allocated 8920 min_free 78356
+    largest_free_block 77812 alloc_blocks 9 free_blocks 1 total_blocks 10
+  At 0x3ffe0440 len 15072 free 14644 allocated 0 min_free 14644
+    largest_free_block 14324 alloc_blocks 0 free_blocks 1 total_blocks 1
+  At 0x3ffe4350 len 113840 free 112956 allocated 0 min_free 112956
+    largest_free_block 110580 alloc_blocks 0 free_blocks 1 total_blocks 1
+  Totals:
+    free 210852 allocated 25520 min_free 205964 largest_free_block 110580
+FFT initialization success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ets Jul 29 2019 12:21:46
+
+rst:0x7 (TG0WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 12 allocated 6196 min_free 0
+    largest_free_block 4 alloc_blocks 43 free_blocks 1 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 4876 allocated 10400 min_free 0
+    largest_free_block 4852 alloc_blocks 39 free_blocks 1 total_blocks 40
+  At 0x3ffca710 len 88304 free 78356 allocated 8920 min_free 78356
+    largest_free_block 77812 alloc_blocks 9 free_blocks 1 total_blocks 10
+  At 0x3ffe0440 len 15072 free 14644 allocated 0 min_free 14644
+    largest_free_block 14324 alloc_blocks 0 free_blocks 1 total_blocks 1
+  At 0x3ffe4350 len 113840 free 112956 allocated 0 min_free 112956
+    largest_free_block 110580 alloc_blocks 0 free_blocks 1 total_blocks 1
+  Totals:
+    free 210852 allocated 25520 min_free 205964 largest_free_block 110580
+FFT initialization success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ets Jul 29 2019 12:21:46
+
+rst:0x7 (TG0WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 12 allocated 6196 min_free 0
+    largest_free_block 4 alloc_blocks 43 free_blocks 1 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 4876 allocated 10400 min_free 0
+    largest_free_block 4852 alloc_blocks 39 free_blocks 1 total_blocks 40
+  At 0x3ffca710 len 88304 free 78356 allocated 8920 min_free 78356
+    largest_free_block 77812 alloc_blocks 9 free_blocks 1 total_blocks 10
+  At 0x3ffe0440 len 15072 free 14644 allocated 0 min_free 14644
+    largest_free_block 14324 alloc_blocks 0 free_blocks 1 total_blocks 1
+  At 0x3ffe4350 len 113840 free 112956 allocated 0 min_free 112956
+    largest_free_block 110580 alloc_blocks 0 free_blocks 1 total_blocks 1
+  Totals:
+    free 210852 allocated 25520 min_free 205964 largest_free_block 110580
+FFT initialization success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ets Jul 29 2019 12:21:46
+
+rst:0x7 (TG0WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 12 allocated 6196 min_free 0
+    largest_free_block 4 alloc_blocks 43 free_blocks 1 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 4876 allocated 10400 min_free 0
+    largest_free_block 4852 alloc_blocks 39 free_blocks 1 total_blocks 40
+  At 0x3ffca710 len 88304 free 78356 allocated 8920 min_free 78356
+    largest_free_block 77812 alloc_blocks 9 free_blocks 1 total_blocks 10
+  At 0x3ffe0440 len 15072 free 14644 allocated 0 min_free 14644
+    largest_free_block 14324 alloc_blocks 0 free_blocks 1 total_blocks 1
+  At 0x3ffe4350 len 113840 free 112956 allocated 0 min_free 112956
+    largest_free_block 110580 alloc_blocks 0 free_blocks 1 total_blocks 1
+  Totals:
+    free 210852 allocated 25520 min_free 205964 largest_free_block 110580
+FFT initialization success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ets Jul 29 2019 12:21:46
+
+rst:0x7 (TG0WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 12 allocated 6196 min_free 0
+    largest_free_block 4 alloc_blocks 43 free_blocks 1 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 4876 allocated 10400 min_free 0
+    largest_free_block 4852 alloc_blocks 39 free_blocks 1 total_blocks 40
+  At 0x3ffca710 len 88304 free 78356 allocated 8920 min_free 78356
+    largest_free_block 77812 alloc_blocks 9 free_blocks 1 total_blocks 10
+  At 0x3ffe0440 len 15072 free 14644 allocated 0 min_free 14644
+    largest_free_block 14324 alloc_blocks 0 free_blocks 1 total_blocks 1
+  At 0x3ffe4350 len 113840 free 112956 allocated 0 min_free 112956
+    largest_free_block 110580 alloc_blocks 0 free_blocks 1 total_blocks 1
+  Totals:
+    free 210852 allocated 25520 min_free 205964 largest_free_block 110580
+FFT initialization success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ets Jul 29 2019 12:21:46
+
+rst:0x7 (TG0WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 12 allocated 6196 min_free 0
+    largest_free_block 4 alloc_blocks 43 free_blocks 1 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 4876 allocated 10400 min_free 0
+    largest_free_block 4852 alloc_blocks 39 free_blocks 1 total_blocks 40
+  At 0x3ffca710 len 88304 free 78356 allocated 8920 min_free 78356
+    largest_free_block 77812 alloc_blocks 9 free_blocks 1 total_blocks 10
+  At 0x3ffe0440 len 15072 free 14644 allocated 0 min_free 14644
+    largest_free_block 14324 alloc_blocks 0 free_blocks 1 total_blocks 1
+  At 0x3ffe4350 len 113840 free 112956 allocated 0 min_free 112956
+    largest_free_block 110580 alloc_blocks 0 free_blocks 1 total_blocks 1
+  Totals:
+    free 210852 allocated 25520 min_free 205964 largest_free_block 110580
+FFT initialization success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ets Jul 29 2019 12:21:46
+
+rst:0x7 (TG0WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 12 allocated 6196 min_free 0
+    largest_free_block 4 alloc_blocks 43 free_blocks 1 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 4876 allocated 10400 min_free 0
+    largest_free_block 4852 alloc_blocks 39 free_blocks 1 total_blocks 40
+  At 0x3ffca710 len 88304 free 78356 allocated 8920 min_free 78356
+    largest_free_block 77812 alloc_blocks 9 free_blocks 1 total_blocks 10
+  At 0x3ffe0440 len 15072 free 14644 allocated 0 min_free 14644
+    largest_free_block 14324 alloc_blocks 0 free_blocks 1 total_blocks 1
+  At 0x3ffe4350 len 113840 free 112956 allocated 0 min_free 112956
+    largest_free_block 110580 alloc_blocks 0 free_blocks 1 total_blocks 1
+  Totals:
+    free 210852 allocated 25520 min_free 205964 largest_free_block 110580
+FFT initialization success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ets Jul 29 2019 12:21:46
+
+rst:0x7 (TG0WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 12 allocated 6196 min_free 0
+    largest_free_block 4 alloc_blocks 43 free_blocks 1 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 4876 allocated 10400 min_free 0
+    largest_free_block 4852 alloc_blocks 39 free_blocks 1 total_blocks 40
+  At 0x3ffca710 len 88304 free 78356 allocated 8920 min_free 78356
+    largest_free_block 77812 alloc_blocks 9 free_blocks 1 total_blocks 10
+  At 0x3ffe0440 len 15072 free 14644 allocated 0 min_free 14644
+    largest_free_block 14324 alloc_blocks 0 free_blocks 1 total_blocks 1
+  At 0x3ffe4350 len 113840 free 112956 allocated 0 min_free 112956
+    largest_free_block 110580 alloc_blocks 0 free_blocks 1 total_blocks 1
+  Totals:
+    free 210852 allocated 25520 min_free 205964 largest_free_block 110580
+FFT initialization success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ets Jul 29 2019 12:21:46
+
+rst:0x7 (TG0WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 12 allocated 6196 min_free 0
+    largest_free_block 4 alloc_blocks 43 free_blocks 1 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 4876 allocated 10400 min_free 0
+    largest_free_block 4852 alloc_blocks 39 free_blocks 1 total_blocks 40
+  At 0x3ffca710 len 88304 free 78356 allocated 8920 min_free 78356
+    largest_free_block 77812 alloc_blocks 9 free_blocks 1 total_blocks 10
+  At 0x3ffe0440 len 15072 free 14644 allocated 0 min_free 14644
+    largest_free_block 14324 alloc_blocks 0 free_blocks 1 total_blocks 1
+  At 0x3ffe4350 len 113840 free 112956 allocated 0 min_free 112956
+    largest_free_block 110580 alloc_blocks 0 free_blocks 1 total_blocks 1
+  Totals:
+    free 210852 allocated 25520 min_free 205964 largest_free_block 110580
+FFT initialization success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ets Jul 29 2019 12:21:46
+
+rst:0x7 (TG0WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 12 allocated 6196 min_free 0
+    largest_free_block 4 alloc_blocks 43 free_blocks 1 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 4876 allocated 10400 min_free 0
+    largest_free_block 4852 alloc_blocks 39 free_blocks 1 total_blocks 40
+  At 0x3ffca710 len 88304 free 78356 allocated 8920 min_free 78356
+    largest_free_block 77812 alloc_blocks 9 free_blocks 1 total_blocks 10
+  At 0x3ffe0440 len 15072 free 14644 allocated 0 min_free 14644
+    largest_free_block 14324 alloc_blocks 0 free_blocks 1 total_blocks 1
+  At 0x3ffe4350 len 113840 free 112956 allocated 0 min_free 112956
+    largest_free_block 110580 alloc_blocks 0 free_blocks 1 total_blocks 1
+  Totals:
+    free 210852 allocated 25520 min_free 205964 largest_free_block 110580
+FFT initialization success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ets Jul 29 2019 12:21:46
+
+rst:0x7 (TG0WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 12 allocated 6196 min_free 0
+    largest_free_block 4 alloc_blocks 43 free_blocks 1 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 4876 allocated 10400 min_free 0
+    largest_free_block 4852 alloc_blocks 39 free_blocks 1 total_blocks 40
+  At 0x3ffca710 len 88304 free 78356 allocated 8920 min_free 78356
+    largest_free_block 77812 alloc_blocks 9 free_blocks 1 total_blocks 10
+  At 0x3ffe0440 len 15072 free 14644 allocated 0 min_free 14644
+    largest_free_block 14324 alloc_blocks 0 free_blocks 1 total_blocks 1
+  At 0x3ffe4350 len 113840 free 112956 allocated 0 min_free 112956
+    largest_free_block 110580 alloc_blocks 0 free_blocks 1 total_blocks 1
+  Totals:
+    free 210852 allocated 25520 min_free 205964 largest_free_block 110580
+FFT initialization success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ets Jul 29 2019 12:21:46
+
+rst:0x7 (TG0WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 12 allocated 6196 min_free 0
+    largest_free_block 4 alloc_blocks 43 free_blocks 1 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 4876 allocated 10400 min_free 0
+    largest_free_block 4852 alloc_blocks 39 free_blocks 1 total_blocks 40
+  At 0x3ffca710 len 88304 free 78356 allocated 8920 min_free 78356
+    largest_free_block 77812 alloc_blocks 9 free_blocks 1 total_blocks 10
+  At 0x3ffe0440 len 15072 free 14644 allocated 0 min_free 14644
+    largest_free_block 14324 alloc_blocks 0 free_blocks 1 total_blocks 1
+  At 0x3ffe4350 len 113840 free 112956 allocated 0 min_free 112956
+    largest_free_block 110580 alloc_blocks 0 free_blocks 1 total_blocks 1
+  Totals:
+    free 210852 allocated 25520 min_free 205964 largest_free_block 110580
+FFT initialization success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

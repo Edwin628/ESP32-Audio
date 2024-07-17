@@ -1,0 +1,12702 @@
+ets Jul 29 2019 12:21:46
+
+
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+
+configsip: 0, SPIWP:0xee
+
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+
+mode:DIO, clock div:2
+
+load:0x3fff0030,len:1184
+
+load:0x40078000,len:13232
+
+load:0x40080400,len:3028
+
+entry 0x400805e4
+
+Successfully initialize I2S!
+
+AVRC metadata rsp: attribute id 0x1, 
+AVRC metadata rsp: attribute id 0x2, 
+AVRC metadata rsp: attribute id 0x4, 
+AVRC metadata rsp: attribute id 0x8, 0
+stream received
+
+Stream received:
+
+Sample 0: 0
+
+Sample 1: 0
+
+Sample 2: 0
+
+Sample 3: 0
+
+Sample 4: 0
+
+Sample 5: 0
+
+Sample 6: 0
+
+Sample 7: 0
+
+Sample 8: 0
+
+Sample 9: 0
+
+Sample 10: 0
+
+Sample 11: 0
+
+Sample 12: 0
+
+Sample 13: 0
+
+Sample 14: 0
+
+Sample 15: 0
+
+Sample 16: 0
+
+Sample 17: 0
+
+Sample 18: 0
+
+Sample 19: 0
+
+Sample 20: 0
+
+Sample 21: 0
+
+Sample 22: 0
+
+Sample 23: 0
+
+Sample 24: 0
+
+Sample 25: 0
+
+Sample 26: 0
+
+Sample 27: 0
+
+Sample 28: 0
+
+Sample 29: 0
+
+Sample 30: 0
+
+Sample 31: 0
+
+Sample 32: 0
+
+Sample 33: 0
+
+Sample 34: 0
+
+Sample 35: 0
+
+Sample 36: 0
+
+Sample 37: 0
+
+Sample 38: 0
+
+Sample 39: 0
+
+Sample 40: 0
+
+Sample 41: 0
+
+Sample 42: 0
+
+Sample 43: 0
+
+Sample 44: 0
+
+Sample 45: 0
+
+Sample 46: 0
+
+Sample 47: 0
+
+Sample 48: 0
+
+Sample 49: 0
+
+Sample 50: 0
+
+Sample 51: 0
+
+Sample 52: 0
+
+Sample 53: 0
+
+Sample 54: 0
+
+Sample 55: 0
+
+Sample 56: 0
+
+Sample 57: 0
+
+Sample 58: 0
+
+Sample 59: 0
+
+Sample 60: 0
+
+Sample 61: 0
+
+Sample 62: 0
+
+Sample 63: 0
+
+Sample 64: 0
+
+Sample 65: 0
+
+Sample 66: 0
+
+Sample 67: 0
+
+Sample 68: 0
+
+Sample 69: 0
+
+Sample 70: 0
+
+Sample 71: 0
+
+Sample 72: 0
+
+Sample 73: 0
+
+Sample 74: 0
+
+Sample 75: 0
+
+Sample 76: 0
+
+Sample 77: 0
+
+Sample 78: 0
+
+Sample 79: 0
+
+Sample 80: 0
+
+Sample 81: 0
+
+Sample 82: 0
+
+Sample 83: 0
+
+Sample 84: 0
+
+Sample 85: 0
+
+Sample 86: 0
+
+Sample 87: 0
+
+Sample 88: 0
+
+Sample 89: 0
+
+Sample 90: 0
+
+Sample 91: 0
+
+Sample 92: 0
+
+Sample 93: 0
+
+Sample 94: 0
+
+Sample 95: 0
+
+Sample 96: 0
+
+Sample 97: 0
+
+Sample 98: 0
+
+Sample 99: 0
+
+Sample 100: 0
+
+Sample 101: 0
+
+Sample 102: 0
+
+Sample 103: 0
+
+Sample 104: 0
+
+Sample 105: 0
+
+Sample 106: 0
+
+Sample 107: 0
+
+Sample 108: 0
+
+Sample 109: 0
+
+Sample 110: 0
+
+Sample 111: 0
+
+Sample 112: 0
+
+Sample 113: 0
+
+Sample 114: 0
+
+Sample 115: 0
+
+Sample 116: 0
+
+Sample 117: 0
+
+Sample 118: 0
+
+Sample 119: 0
+
+Sample 120: 0
+
+Sample 121: 0
+
+Sample 122: 0
+
+Sample 123: 0
+
+Sample 124: 0
+
+Sample 125: 0
+
+Sample 126: 0
+
+Sample 127: 0
+
+Sample 128: 0
+
+Sample 129: 0
+
+Sample 130: 0
+
+Sample 131: 0
+
+Sample 132: 0
+
+Sample 133: 0
+
+Sample 134: 0
+
+Sample 135: 0
+
+Sample 136: 0
+
+Sample 137: 0
+
+Sample 138: 0
+
+Sample 139: 0
+
+Sample 140: 0
+
+Sample 141: 0
+
+Sample 142: 0
+
+Sample 143: 0
+
+Sample 144: 0
+
+Sample 145: 0
+
+Sample 146: 0
+
+Sample 147: 0
+
+Sample 148: 0
+
+Sample 149: 0
+
+Sample 150: 0
+
+Sample 151: 0
+
+Sample 152: 0
+
+Sample 153: 0
+
+Sample 154: 0
+
+Sample 155: 0
+
+Sample 156: 0
+
+Sample 157: 0
+
+Sample 158: 0
+
+Sample 159: 0
+
+Sample 160: 0
+
+Sample 161: 0
+
+Sample 162: 0
+
+Sample 163: 0
+
+Sample 164: 0
+
+Sample 165: 0
+
+Sample 166: 0
+
+Sample 167: 0
+
+Sample 168: 0
+
+Sample 169: 0
+
+Sample 170: 0
+
+Sample 171: 0
+
+Sample 172: 0
+
+Sample 173: 0
+
+Sample 174: 0
+
+Sample 175: 0
+
+Sample 176: 0
+
+Sample 177: 0
+
+Sample 178: 0
+
+Sample 179: 0
+
+Sample 180: 0
+
+Sample 181: 0
+
+Sample 182: 0
+
+Sample 183: 0
+
+Sample 184: 0
+
+Sample 185: 0
+
+Sample 186: 0
+
+Sample 187: 0
+
+Sample 188: 0
+
+Sample 189: 0
+
+Sample 190: 0
+
+Sample 191: 0
+
+Sample 192: 0
+
+Sample 193: 0
+
+Sample 194: 0
+
+Sample 195: 0
+
+Sample 196: 0
+
+Sample 197: 0
+
+Sample 198: 0
+
+Sample 199: 0
+
+Sample 200: 0
+
+Sample 201: 0
+
+Sample 202: 0
+
+Sample 203: 0
+
+Sample 204: 0
+
+Sample 205: 0
+
+Sample 206: 0
+
+Sample 207: 0
+
+Sample 208: 0
+
+Sample 209: 0
+
+Sample 210: 0
+
+Sample 211: 0
+
+Sample 212: 0
+
+Sample 213: 0
+
+Sample 214: 0
+
+Sample 215: 0
+
+Sample 216: 0
+
+Sample 217: 0
+
+Sample 218: 0
+
+Sample 219: 0
+
+Sample 220: 0
+
+Sample 221: 0
+
+Sample 222: 0
+
+Sample 223: 0
+
+Sample 224: 0
+
+Sample 225: 0
+
+Sample 226: 0
+
+Sample 227: 0
+
+Sample 228: 0
+
+Sample 229: 0
+
+Sample 230: 0
+
+Sample 231: 0
+
+Sample 232: 0
+
+Sample 233: 0
+
+Sample 234: 0
+
+Sample 235: 0
+
+Sample 236: 0
+
+Sample 237: 0
+
+Sample 238: 0
+
+Sample 239: 0
+
+Sample 240: 0
+
+Sample 241: 0
+
+Sample 242: 0
+
+Sample 243: 0
+
+Sample 244: 0
+
+Sample 245: 0
+
+Sample 246: 0
+
+Sample 247: 0
+
+Sample 248: 0
+
+Sample 249: 0
+
+Sample 250: 0
+
+Sample 251: 0
+
+Sample 252: 0
+
+Sample 253: 0
+
+Sample 254: 0
+
+Sample 255: 0
+
+Sample 256: 0
+
+Sample 257: 0
+
+Sample 258: 0
+
+Sample 259: 0
+
+Sample 260: 0
+
+Sample 261: 0
+
+Sample 262: 0
+
+Sample 263: 0
+
+Sample 264: 0
+
+Sample 265: 0
+
+Sample 266: 0
+
+Sample 267: 0
+
+Sample 268: 0
+
+Sample 269: 0
+
+Sample 270: 0
+
+Sample 271: 0
+
+Sample 272: 0
+
+Sample 273: 0
+
+Sample 274: 0
+
+Sample 275: 0
+
+Sample 276: 0
+
+Sample 277: 0
+
+Sample 278: 0
+
+Sample 279: 0
+
+Sample 280: 0
+
+Sample 281: 0
+
+Sample 282: 0
+
+Sample 283: 0
+
+Sample 284: 0
+
+Sample 285: 0
+
+Sample 286: 0
+
+Sample 287: 0
+
+Sample 288: 0
+
+Sample 289: 0
+
+Sample 290: 0
+
+Sample 291: 0
+
+Sample 292: 0
+
+Sample 293: 0
+
+Sample 294: 0
+
+Sample 295: 0
+
+Sample 296: 0
+
+Sample 297: 0
+
+Sample 298: 0
+
+Sample 299: 0
+
+Sample 300: 0
+
+Sample 301: 0
+
+Sample 302: 0
+
+Sample 303: 0
+
+Sample 304: 0
+
+Sample 305: 0
+
+Sample 306: 0
+
+Sample 307: 0
+
+Sample 308: 0
+
+Sample 309: 0
+
+Sample 310: 0
+
+Sample 311: 0
+
+Sample 312: 0
+
+Sample 313: 0
+
+Sample 314: 0
+
+Sample 315: 0
+
+Sample 316: 0
+
+Sample 317: 0
+
+Sample 318: 0
+
+Sample 319: 0
+
+Sample 320: 0
+
+Sample 321: 0
+
+Sample 322: 0
+
+Sample 323: 0
+
+Sample 324: 0
+
+Sample 325: 0
+
+Sample 326: 0
+
+Sample 327: 0
+
+Sample 328: 0
+
+Sample 329: 0
+
+Sample 330: 0
+
+Sample 331: 0
+
+Sample 332: 0
+
+Sample 333: 0
+
+Sample 334: 0
+
+Sample 335: 0
+
+Sample 336: 0
+
+Sample 337: 0
+
+Sample 338: 0
+
+Sample 339: 0
+
+Sample 340: 0
+
+Sample 341: 0
+
+Sample 342: 0
+
+Sample 343: 0
+
+Sample 344: 0
+
+Sample 345: 0
+
+Sample 346: 0
+
+Sample 347: 0
+
+Sample 348: 0
+
+Sample 349: 0
+
+Sample 350: 0
+
+Sample 351: 0
+
+Sample 352: 0
+
+Sample 353: 0
+
+Sample 354: 0
+
+Sample 355: 0
+
+Sample 356: 0
+
+Sample 357: 0
+
+Sample 358: 0
+
+Sample 359: 0
+
+Sample 360: 0
+
+Sample 361: 0
+
+Sample 362: 0
+
+Sample 363: 0
+
+Sample 364: 0
+
+Sample 365: 0
+
+Sample 366: 0
+
+Sample 367: 0
+
+Sample 368: 0
+
+Sample 369: 0
+
+Sample 370: 0
+
+Sample 371: 0
+
+Sample 372: 0
+
+Sample 373: 0
+
+Sample 374: 0
+
+Sample 375: 0
+
+Sample 376: 0
+
+Sample 377: 0
+
+Sample 378: 0
+
+Sample 379: 0
+
+Sample 380: 0
+
+Sample 381: 0
+
+Sample 382: 0
+
+Sample 383: 0
+
+Sample 384: 0
+
+Sample 385: 0
+
+Sample 386: 0
+
+Sample 387: 0
+
+Sample 388: 0
+
+Sample 389: 0
+
+Sample 390: 0
+
+Sample 391: 0
+
+Sample 392: 0
+
+Sample 393: 0
+
+Sample 394: 0
+
+Sample 395: 0
+
+Sample 396: 0
+
+Sample 397: 0
+
+Sample 398: 0
+
+Sample 399: 0
+
+Sample 400: 0
+
+Sample 401: 0
+
+Sample 402: 0
+
+Sample 403: 0
+
+Sample 404: 0
+
+Sample 405: 0
+
+Sample 406: 0
+
+Sample 407: 0
+
+Sample 408: 0
+
+Sample 409: 0
+
+Sample 410: 0
+
+Sample 411: 0
+
+Sample 412: 0
+
+Sample 413: 0
+
+Sample 414: 0
+
+Sample 415: 0
+
+Sample 416: 0
+
+Sample 417: 0
+
+Sample 418: 0
+
+Sample 419: 0
+
+Sample 420: 0
+
+Sample 421: 0
+
+Sample 422: 0
+
+Sample 423: 0
+
+Sample 424: 0
+
+Sample 425: 0
+
+Sample 426: 0
+
+Sample 427: 0
+
+Sample 428: 0
+
+Sample 429: 0
+
+Sample 430: 0
+
+Sample 431: 0
+
+Sample 432: 0
+
+Sample 433: 0
+
+Sample 434: 0
+
+Sample 435: 0
+
+Sample 436: 0
+
+Sample 437: 0
+
+Sample 438: 0
+
+Sample 439: 0
+
+Sample 440: 0
+
+Sample 441: 0
+
+Sample 442: 0
+
+Sample 443: 0
+
+Sample 444: 0
+
+Sample 445: 0
+
+Sample 446: 0
+
+Sample 447: 0
+
+Sample 448: 0
+
+Sample 449: 0
+
+Sample 450: 0
+
+Sample 451: 0
+
+Sample 452: 0
+
+Sample 453: 0
+
+Sample 454: 0
+
+Sample 455: 0
+
+Sample 456: 0
+
+Sample 457: 0
+
+Sample 458: 0
+
+Sample 459: 0
+
+Sample 460: 0
+
+Sample 461: 0
+
+Sample 462: 0
+
+Sample 463: 0
+
+Sample 464: 0
+
+Sample 465: 0
+
+Sample 466: 0
+
+Sample 467: 0
+
+Sample 468: 0
+
+Sample 469: 0
+
+Sample 470: 0
+
+Sample 471: 0
+
+Sample 472: 0
+
+Sample 473: 0
+
+Sample 474: 0
+
+Sample 475: 0
+
+Sample 476: 0
+
+Sample 477: 0
+
+Sample 478: 0
+
+Sample 479: 0
+
+Sample 480: 0
+
+Sample 481: 0
+
+Sample 482: 0
+
+Sample 483: 0
+
+Sample 484: 0
+
+Sample 485: 0
+
+Sample 486: 0
+
+Sample 487: 0
+
+Sample 488: 0
+
+Sample 489: 0
+
+Sample 490: 0
+
+Sample 491: 0
+
+Sample 492: 0
+
+Sample 493: 0
+
+Sample 494: 0
+
+Sample 495: 0
+
+Sample 496: 0
+
+Sample 497: 0
+
+Sample 498: 0
+
+Sample 499: 0
+
+Sample 500: 0
+
+Sample 501: 0
+
+Sample 502: 0
+
+Sample 503: 0
+
+Sample 504: 0
+
+Sample 505: 0
+
+Sample 506: 0
+
+Sample 507: 0
+
+Sample 508: 0
+
+Sample 509: 0
+
+Sample 510: 0
+
+Sample 511: 0
+
+Sample 512: 0
+
+Sample 513: 0
+
+Sample 514: 0
+
+Sample 515: 0
+
+Sample 516: 0
+
+Sample 517: 0
+
+Sample 518: 0
+
+Sample 519: 0
+
+Sample 520: 0
+
+Sample 521: 0
+
+Sample 522: 0
+
+Sample 523: 0
+
+Sample 524: 0
+
+Sample 525: 0
+
+Sample 526: 0
+
+Sample 527: 0
+
+Sample 528: 0
+
+Sample 529: 0
+
+Sample 530: 0
+
+Sample 531: 0
+
+Sample 532: 0
+
+Sample 533: 0
+
+Sample 534: 0
+
+Sample 535: 0
+
+Sample 536: 0
+
+Sample 537: 0
+
+Sample 538: 0
+
+Sample 539: 0
+
+Sample 540: 0
+
+Sample 541: 0
+
+Sample 542: 0
+
+Sample 543: 0
+
+Sample 544: 0
+
+Sample 545: 0
+
+Sample 546: 0
+
+Sample 547: 0
+
+Sample 548: 0
+
+Sample 549: 0
+
+Sample 550: 0
+
+Sample 551: 0
+
+Sample 552: 0
+
+Sample 553: 0
+
+Sample 554: 0
+
+Sample 555: 0
+
+Sample 556: 0
+
+Sample 557: 0
+
+Sample 558: 0
+
+Sample 559: 0
+
+Sample 560: 0
+
+Sample 561: 0
+
+Sample 562: 0
+
+Sample 563: 0
+
+Sample 564: 0
+
+Sample 565: 0
+
+Sample 566: 0
+
+Sample 567: 0
+
+Sample 568: 0
+
+Sample 569: 0
+
+Sample 570: 0
+
+Sample 571: 0
+
+Sample 572: 0
+
+Sample 573: 0
+
+Sample 574: 0
+
+Sample 575: 0
+
+Sample 576: 0
+
+Sample 577: 0
+
+Sample 578: 0
+
+Sample 579: 0
+
+Sample 580: 0
+
+Sample 581: 0
+
+Sample 582: 0
+
+Sample 583: 0
+
+Sample 584: 0
+
+Sample 585: 0
+
+Sample 586: 0
+
+Sample 587: 0
+
+Sample 588: 0
+
+Sample 589: 0
+
+Sample 590: 0
+
+Sample 591: 0
+
+Sample 592: 0
+
+Sample 593: 0
+
+Sample 594: 0
+
+Sample 595: 0
+
+Sample 596: 0
+
+Sample 597: 0
+
+Sample 598: 0
+
+Sample 599: 0
+
+Sample 600: 0
+
+Sample 601: 0
+
+Sample 602: 0
+
+Sample 603: 0
+
+Sample 604: 0
+
+Sample 605: 0
+
+Sample 606: 0
+
+Sample 607: 0
+
+Sample 608: 0
+
+Sample 609: 0
+
+Sample 610: 0
+
+Sample 611: 0
+
+Sample 612: 0
+
+Sample 613: 0
+
+Sample 614: 0
+
+Sample 615: 0
+
+Sample 616: 0
+
+Sample 617: 0
+
+Sample 618: 0
+
+Sample 619: 0
+
+Sample 620: 0
+
+Sample 621: 0
+
+Sample 622: 0
+
+Sample 623: 0
+
+Sample 624: 0
+
+Sample 625: 0
+
+Sample 626: 0
+
+Sample 627: 0
+
+Sample 628: 0
+
+Sample 629: 0
+
+Sample 630: 0
+
+Sample 631: 0
+
+Sample 632: 0
+
+Sample 633: 0
+
+Sample 634: 0
+
+Sample 635: 0
+
+Sample 636: 0
+
+Sample 637: 0
+
+Sample 638: 0
+
+Sample 639: 0
+
+Sample 640: 0
+
+Sample 641: 0
+
+Sample 642: 0
+
+Sample 643: 0
+
+Sample 644: 0
+
+Sample 645: 0
+
+Sample 646: 0
+
+Sample 647: 0
+
+Sample 648: 0
+
+Sample 649: 0
+
+Sample 650: 0
+
+Sample 651: 0
+
+Sample 652: 0
+
+Sample 653: 0
+
+Sample 654: 0
+
+Sample 655: 0
+
+Sample 656: 0
+
+Sample 657: 0
+
+Sample 658: 0
+
+Sample 659: 0
+
+Sample 660: 0
+
+Sample 661: 0
+
+Sample 662: 0
+
+Sample 663: 0
+
+Sample 664: 0
+
+Sample 665: 0
+
+Sample 666: 0
+
+Sample 667: 0
+
+Sample 668: 0
+
+Sample 669: 0
+
+Sample 670: 0
+
+Sample 671: 0
+
+Sample 672: 0
+
+Sample 673: 0
+
+Sample 674: 0
+
+Sample 675: 0
+
+Sample 676: 0
+
+Sample 677: 0
+
+Sample 678: 0
+
+Sample 679: 0
+
+Sample 680: 0
+
+Sample 681: 0
+
+Sample 682: 0
+
+Sample 683: 0
+
+Sample 684: 0
+
+Sample 685: 0
+
+Sample 686: 0
+
+Sample 687: 0
+
+Sample 688: 0
+
+Sample 689: 0
+
+Sample 690: 0
+
+Sample 691: 0
+
+Sample 692: 0
+
+Sample 693: 0
+
+Sample 694: 0
+
+Sample 695: 0
+
+Sample 696: 0
+
+Sample 697: 0
+
+Sample 698: 0
+
+Sample 699: 0
+
+Sample 700: 0
+
+Sample 701: 0
+
+Sample 702: 0
+
+Sample 703: 0
+
+Sample 704: 0
+
+Sample 705: 0
+
+Sample 706: 0
+
+Sample 707: 0
+
+Sample 708: 0
+
+Sample 709: 0
+
+Sample 710: 0
+
+Sample 711: 0
+
+Sample 712: 0
+
+Sample 713: 0
+
+Sample 714: 0
+
+Sample 715: 0
+
+Sample 716: 0
+
+Sample 717: 0
+
+Sample 718: 0
+
+Sample 719: 0
+
+Sample 720: 0
+
+Sample 721: 0
+
+Sample 722: 0
+
+Sample 723: 0
+
+Sample 724: 0
+
+Sample 725: 0
+
+Sample 726: 0
+
+Sample 727: 0
+
+Sample 728: 0
+
+Sample 729: 0
+
+Sample 730: 0
+
+Sample 731: 0
+
+Sample 732: 0
+
+Sample 733: 0
+
+Sample 734: 0
+
+Sample 735: 0
+
+Sample 736: 0
+
+Sample 737: 0
+
+Sample 738: 0
+
+Sample 739: 0
+
+Sample 740: 0
+
+Sample 741: 0
+
+Sample 742: 0
+
+Sample 743: 0
+
+Sample 744: 0
+
+Sample 745: 0
+
+Sample 746: 0
+
+Sample 747: 0
+
+Sample 748: 0
+
+Sample 749: 0
+
+Sample 750: 0
+
+Sample 751: 0
+
+Sample 752: 0
+
+Sample 753: 0
+
+Sample 754: 0
+
+Sample 755: 0
+
+Sample 756: 0
+
+Sample 757: 0
+
+Sample 758: 0
+
+Sample 759: 0
+
+Sample 760: 0
+
+Sample 761: 0
+
+Sample 762: 0
+
+Sample 763: 0
+
+Sample 764: 0
+
+Sample 765: 0
+
+Sample 766: 0
+
+Sample 767: 0
+
+Sample 768: 0
+
+Sample 769: 0
+
+Sample 770: 0
+
+Sample 771: 0
+
+Sample 772: 0
+
+Sample 773: 0
+
+Sample 774: 0
+
+Sample 775: 0
+
+Sample 776: 0
+
+Sample 777: 0
+
+Sample 778: 0
+
+Sample 779: 0
+
+Sample 780: 0
+
+Sample 781: 0
+
+Sample 782: 0
+
+Sample 783: 0
+
+Sample 784: 0
+
+Sample 785: 0
+
+Sample 786: 0
+
+Sample 787: 0
+
+Sample 788: 0
+
+Sample 789: 0
+
+Sample 790: 0
+
+Sample 791: 0
+
+Sample 792: 0
+
+Sample 793: 0
+
+Sample 794: 0
+
+Sample 795: 0
+
+Sample 796: 0
+
+Sample 797: 0
+
+Sample 798: 0
+
+Sample 799: 0
+
+Sample 800: 0
+
+Sample 801: 0
+
+Sample 802: 0
+
+Sample 803: 0
+
+Sample 804: 0
+
+Sample 805: 0
+
+Sample 806: 0
+
+Sample 807: 0
+
+Sample 808: 0
+
+Sample 809: 0
+
+Sample 810: 0
+
+Sample 811: 0
+
+Sample 812: 0
+
+Sample 813: 0
+
+Sample 814: 0
+
+Sample 815: 0
+
+Sample 816: 0
+
+Sample 817: 0
+
+Sample 818: 0
+
+Sample 819: 0
+
+Sample 820: 0
+
+Sample 821: 0
+
+Sample 822: 0
+
+Sample 823: 0
+
+Sample 824: 0
+
+Sample 825: 0
+
+Sample 826: 0
+
+Sample 827: 0
+
+Sample 828: 0
+
+Sample 829: 0
+
+Sample 830: 0
+
+Sample 831: 0
+
+Sample 832: 0
+
+Sample 833: 0
+
+Sample 834: 0
+
+Sample 835: 0
+
+Sample 836: 0
+
+Sample 837: 0
+
+Sample 838: 0
+
+Sample 839: 0
+
+Sample 840: 0
+
+Sample 841: 0
+
+Sample 842: 0
+
+Sample 843: 0
+
+Sample 844: 0
+
+Sample 845: 0
+
+Sample 846: 0
+
+Sample 847: 0
+
+Sample 848: 0
+
+Sample 849: 0
+
+Sample 850: 0
+
+Sample 851: 0
+
+Sample 852: 0
+
+Sample 853: 0
+
+Sample 854: 0
+
+Sample 855: 0
+
+Sample 856: 0
+
+Sample 857: 0
+
+Sample 858: 0
+
+Sample 859: 0
+
+Sample 860: 0
+
+Sample 861: 0
+
+Sample 862: 0
+
+Sample 863: 0
+
+Sample 864: 0
+
+Sample 865: 0
+
+Sample 866: 0
+
+Sample 867: 0
+
+Sample 868: 0
+
+Sample 869: 0
+
+Sample 870: 0
+
+Sample 871: 0
+
+Sample 872: 0
+
+Sample 873: 0
+
+Sample 874: 0
+
+Sample 875: 0
+
+Sample 876: 0
+
+Sample 877: 0
+
+Sample 878: 0
+
+Sample 879: 0
+
+Sample 880: 0
+
+Sample 881: 0
+
+Sample 882: 0
+
+Sample 883: 0
+
+Sample 884: 0
+
+Sample 885: 0
+
+Sample 886: 0
+
+Sample 887: 0
+
+Sample 888: 0
+
+Sample 889: 0
+
+Sample 890: 0
+
+Sample 891: 0
+
+Sample 892: 0
+
+Sample 893: 0
+
+Sample 894: 0
+
+Sample 895: 0
+
+Sample 896: 0
+
+Sample 897: 0
+
+Sample 898: 0
+
+Sample 899: 0
+
+Sample 900: 0
+
+Sample 901: 0
+
+Sample 902: 0
+
+Sample 903: 0
+
+Sample 904: 0
+
+Sample 905: 0
+
+Sample 906: 0
+
+Sample 907: 0
+
+Sample 908: 0
+
+Sample 909: 0
+
+Sample 910: 0
+
+Sample 911: 0
+
+Sample 912: 0
+
+Sample 913: 0
+
+Sample 914: 0
+
+Sample 915: 0
+
+Sample 916: 0
+
+Sample 917: 0
+
+Sample 918: 0
+
+Sample 919: 0
+
+Sample 920: 0
+
+Sample 921: 0
+
+Sample 922: 0
+
+Sample 923: 0
+
+Sample 924: 0
+
+Sample 925: 0
+
+Sample 926: 0
+
+Sample 927: 0
+
+Sample 928: 0
+
+Sample 929: 0
+
+Sample 930: 0
+
+Sample 931: 0
+
+Sample 932: 0
+
+Sample 933: 0
+
+Sample 934: 0
+
+Sample 935: 0
+
+Sample 936: 0
+
+Sample 937: 0
+
+Sample 938: 0
+
+Sample 939: 0
+
+Sample 940: 0
+
+Sample 941: 0
+
+Sample 942: 0
+
+Sample 943: 0
+
+Sample 944: 0
+
+Sample 945: 0
+
+Sample 946: 0
+
+Sample 947: 0
+
+Sample 948: 0
+
+Sample 949: 0
+
+Sample 950: 0
+
+Sample 951: 0
+
+Sample 952: 0
+
+Sample 953: 0
+
+Sample 954: 0
+
+Sample 955: 0
+
+Sample 956: 0
+
+Sample 957: 0
+
+Sample 958: 0
+
+Sample 959: 0
+
+Sample 960: 0
+
+Sample 961: 0
+
+Sample 962: 0
+
+Sample 963: 0
+
+Sample 964: 0
+
+Sample 965: 0
+
+Sample 966: 0
+
+Sample 967: 0
+
+Sample 968: 0
+
+Sample 969: 0
+
+Sample 970: 0
+
+Sample 971: 0
+
+Sample 972: 0
+
+Sample 973: 0
+
+Sample 974: 0
+
+Sample 975: 0
+
+Sample 976: 0
+
+Sample 977: 0
+
+Sample 978: 0
+
+Sample 979: 0
+
+Sample 980: 0
+
+Sample 981: 0
+
+Sample 982: 0
+
+Sample 983: 0
+
+Sample 984: 0
+
+Sample 985: 0
+
+Sample 986: 0
+
+Sample 987: 0
+
+Sample 988: 0
+
+Sample 989: 0
+
+Sample 990: 0
+
+Sample 991: 0
+
+Sample 992: 0
+
+Sample 993: 0
+
+Sample 994: 0
+
+Sample 995: 0
+
+Sample 996: 0
+
+Sample 997: 0
+
+Sample 998: 0
+
+Sample 999: 0
+
+Sample 1000: 0
+
+Sample 1001: 0
+
+Sample 1002: 0
+
+Sample 1003: 0
+
+Sample 1004: 0
+
+Sample 1005: 0
+
+Sample 1006: 0
+
+Sample 1007: 0
+
+Sample 1008: 0
+
+Sample 1009: 0
+
+Sample 1010: 0
+
+Sample 1011: 0
+
+Sample 1012: 0
+
+Sample 1013: 0
+
+Sample 1014: 0
+
+Sample 1015: 0
+
+Sample 1016: 0
+
+Sample 1017: 0
+
+Sample 1018: 0
+
+Sample 1019: 0
+
+Sample 1020: 0
+
+Sample 1021: 0
+
+Sample 1022: 0
+
+Sample 1023: 0
+
+Sample 1024: 0
+
+Sample 1025: 0
+
+Sample 1026: 0
+
+Sample 1027: 0
+
+Sample 1028: 0
+
+Sample 1029: 0
+
+Sample 1030: 0
+
+Sample 1031: 0
+
+Sample 1032: 0
+
+Sample 1033: 0
+
+Sample 1034: 0
+
+Sample 1035: 0
+
+Sample 1036: 0
+
+Sample 1037: 0
+
+Sample 1038: 0
+
+Sample 1039: 0
+
+Sample 1040: 0
+
+Sample 1041: 0
+
+Sample 1042: 0
+
+Sample 1043: 0
+
+Sample 1044: 0
+
+Sample 1045: 0
+
+Sample 1046: 0
+
+Sample 1047: 0
+
+Sample 1048: 0
+
+Sample 1049: 0
+
+Sample 1050: 0
+
+Sample 1051: 0
+
+Sample 1052: 0
+
+Sample 1053: 0
+
+Sample 1054: 0
+
+Sample 1055: 0
+
+Sample 1056: 0
+
+Sample 1057: 0
+
+Sample 1058: 0
+
+Sample 1059: 0
+
+Sample 1060: 0
+
+Sample 1061: 0
+
+Sample 1062: 0
+
+Sample 1063: 0
+
+Sample 1064: 0
+
+Sample 1065: 0
+
+Sample 1066: 0
+
+Sample 1067: 0
+
+Sample 1068: 0
+
+Sample 1069: 0
+
+Sample 1070: 0
+
+Sample 1071: 0
+
+Sample 1072: 0
+
+Sample 1073: 0
+
+Sample 1074: 0
+
+Sample 1075: 0
+
+Sample 1076: 0
+
+Sample 1077: 0
+
+Sample 1078: 0
+
+Sample 1079: 0
+
+Sample 1080: 0
+
+Sample 1081: 0
+
+Sample 1082: 0
+
+Sample 1083: 0
+
+Sample 1084: 0
+
+Sample 1085: 0
+
+Sample 1086: 0
+
+Sample 1087: 0
+
+Sample 1088: 0
+
+Sample 1089: 0
+
+Sample 1090: 0
+
+Sample 1091: 0
+
+Sample 1092: 0
+
+Sample 1093: 0
+
+Sample 1094: 0
+
+Sample 1095: 0
+
+Sample 1096: 0
+
+Sample 1097: 0
+
+Sample 1098: 0
+
+Sample 1099: 0
+
+Sample 1100: 0
+
+Sample 1101: 0
+
+Sample 1102: 0
+
+Sample 1103: 0
+
+Sample 1104: 0
+
+Sample 1105: 0
+
+Sample 1106: 0
+
+Sample 1107: 0
+
+Sample 1108: 0
+
+Sample 1109: 0
+
+Sample 1110: 0
+
+Sample 1111: 0
+
+Sample 1112: 0
+
+Sample 1113: 0
+
+Sample 1114: 0
+
+Sample 1115: 0
+
+Sample 1116: 0
+
+Sample 1117: 0
+
+Sample 1118: 0
+
+Sample 1119: 0
+
+Sample 1120: 0
+
+Sample 1121: 0
+
+Sample 1122: 0
+
+Sample 1123: 0
+
+Sample 1124: 0
+
+Sample 1125: 0
+
+Sample 1126: 0
+
+Sample 1127: 0
+
+Sample 1128: 0
+
+Sample 1129: 0
+
+Sample 1130: 0
+
+Sample 1131: 0
+
+Sample 1132: 0
+
+Sample 1133: 0
+
+Sample 1134: 0
+
+Sample 1135: 0
+
+Sample 1136: 0
+
+Sample 1137: 0
+
+Sample 1138: 0
+
+Sample 1139: 0
+
+Sample 1140: 0
+
+Sample 1141: 0
+
+Sample 1142: 0
+
+Sample 1143: 0
+
+Sample 1144: 0
+
+Sample 1145: 0
+
+Sample 1146: 0
+
+Sample 1147: 0
+
+Sample 1148: 0
+
+Sample 1149: 0
+
+Sample 1150: 0
+
+Sample 1151: 0
+
+Sample 1152: 0
+
+Sample 1153: 0
+
+Sample 1154: 0
+
+Sample 1155: 0
+
+Sample 1156: 0
+
+Sample 1157: 0
+
+Sample 1158: 0
+
+Sample 1159: 0
+
+Sample 1160: 0
+
+Sample 1161: 0
+
+Sample 1162: 0
+
+Sample 1163: 0
+
+Sample 1164: 0
+
+Sample 1165: 0
+
+Sample 1166: 0
+
+Sample 1167: 0
+
+Sample 1168: 0
+
+Sample 1169: 0
+
+Sample 1170: 0
+
+Sample 1171: 0
+
+Sample 1172: 0
+
+Sample 1173: 0
+
+Sample 1174: 0
+
+Sample 1175: 0
+
+Sample 1176: 0
+
+Sample 1177: 0
+
+Sample 1178: 0
+
+Sample 1179: 0
+
+Sample 1180: 0
+
+Sample 1181: 0
+
+Sample 1182: 0
+
+Sample 1183: 0
+
+Sample 1184: 0
+
+Sample 1185: 0
+
+Sample 1186: 0
+
+Sample 1187: 0
+
+Sample 1188: 0
+
+Sample 1189: 0
+
+Sample 1190: 0
+
+Sample 1191: 0
+
+Sample 1192: 0
+
+Sample 1193: 0
+
+Sample 1194: 0
+
+Sample 1195: 0
+
+Sample 1196: 0
+
+Sample 1197: 0
+
+Sample 1198: 0
+
+Sample 1199: 0
+
+Sample 1200: 0
+
+Sample 1201: 0
+
+Sample 1202: 0
+
+Sample 1203: 0
+
+Sample 1204: 0
+
+Sample 1205: 0
+
+Sample 1206: 0
+
+Sample 1207: 0
+
+Sample 1208: 0
+
+Sample 1209: 0
+
+Sample 1210: 0
+
+Sample 1211: 0
+
+Sample 1212: 0
+
+Sample 1213: 0
+
+Sample 1214: 0
+
+Sample 1215: 0
+
+Sample 1216: 0
+
+Sample 1217: 0
+
+Sample 1218: 0
+
+Sample 1219: 0
+
+Sample 1220: 0
+
+Sample 1221: 0
+
+Sample 1222: -1
+
+Sample 1223: 0
+
+Sample 1224: 0
+
+Sample 1225: 0
+
+Sample 1226: 1
+
+Sample 1227: 0
+
+Sample 1228: 0
+
+Sample 1229: 0
+
+Sample 1230: 0
+
+Sample 1231: 0
+
+Sample 1232: 0
+
+Sample 1233: 0
+
+Sample 1234: -1
+
+Sample 1235: 1
+
+Sample 1236: 0
+
+Sample 1237: 0
+
+Sample 1238: 0
+
+Sample 1239: 0
+
+Sample 1240: 0
+
+Sample 1241: 0
+
+Sample 1242: 0
+
+Sample 1243: 0
+
+Sample 1244: 0
+
+Sample 1245: 0
+
+Sample 1246: -1
+
+Sample 1247: 1
+
+Sample 1248: 0
+
+Sample 1249: 0
+
+Sample 1250: 0
+
+Sample 1251: 0
+
+Sample 1252: 0
+
+Sample 1253: -1
+
+Sample 1254: 0
+
+Sample 1255: 0
+
+Sample 1256: 0
+
+Sample 1257: 0
+
+Sample 1258: 0
+
+Sample 1259: 0
+
+Sample 1260: 0
+
+Sample 1261: 1
+
+Sample 1262: 0
+
+Sample 1263: 0
+
+Sample 1264: 0
+
+Sample 1265: -1
+
+Sample 1266: 0
+
+Sample 1267: 0
+
+Sample 1268: 0
+
+Sample 1269: 1
+
+Sample 1270: 0
+
+Sample 1271: 0
+
+Sample 1272: 0
+
+Sample 1273: 0
+
+Sample 1274: 0
+
+Sample 1275: 0
+
+Sample 1276: 0
+
+Sample 1277: 1
+
+Sample 1278: 0
+
+Sample 1279: 0
+
+stream received
+
+Stream received:
+
+Sample 0: 0
+
+Sample 1: 2
+
+Sample 2: 0
+
+Sample 3: 0
+
+Sample 4: 0
+
+Sample 5: 2
+
+Sample 6: 0
+
+Sample 7: -1
+
+Sample 8: 0
+
+Sample 9: -2
+
+Sample 10: 0
+
+Sample 11: -1
+
+Sample 12: 0
+
+Sample 13: 1
+
+Sample 14: 0
+
+Sample 15: 0
+
+Sample 16: 0
+
+Sample 17: 1
+
+Sample 18: 0
+
+Sample 19: 0
+
+Sample 20: 0
+
+Sample 21: 0
+
+Sample 22: 0
+
+Sample 23: 0
+
+Sample 24: 0
+
+Sample 25: 0
+
+Sample 26: 0
+
+Sample 27: 0
+
+Sample 28: 0
+
+Sample 29: 0
+
+Sample 30: 0
+
+Sample 31: 0
+
+Sample 32: 0
+
+Sample 33: 0
+
+Sample 34: 0
+
+Sample 35: 0
+
+Sample 36: 0
+
+Sample 37: -1
+
+Sample 38: 0
+
+Sample 39: 0
+
+Sample 40: 0
+
+Sample 41: 0
+
+Sample 42: 0
+
+Sample 43: 0
+
+Sample 44: 0
+
+Sample 45: -1
+
+Sample 46: 0
+
+Sample 47: 0
+
+Sample 48: 0
+
+Sample 49: 0
+
+Sample 50: 0
+
+Sample 51: 0
+
+Sample 52: 0
+
+Sample 53: 0
+
+Sample 54: 0
+
+Sample 55: 0
+
+Sample 56: 0
+
+Sample 57: 0
+
+Sample 58: 0
+
+Sample 59: 0
+
+Sample 60: 0
+
+Sample 61: 0
+
+Sample 62: 0
+
+Sample 63: 0
+
+Sample 64: 0
+
+Sample 65: 0
+
+Sample 66: 0
+
+Sample 67: 0
+
+Sample 68: 0
+
+Sample 69: 0
+
+Sample 70: 0
+
+Sample 71: 0
+
+Sample 72: 0
+
+Sample 73: 0
+
+Sample 74: 0
+
+Sample 75: 0
+
+Sample 76: 0
+
+Sample 77: 0
+
+Sample 78: 0
+
+Sample 79: 0
+
+Sample 80: 0
+
+Sample 81: 0
+
+Sample 82: 0
+
+Sample 83: 0
+
+Sample 84: 0
+
+Sample 85: 0
+
+Sample 86: 0
+
+Sample 87: 0
+
+Sample 88: 0
+
+Sample 89: 0
+
+Sample 90: 0
+
+Sample 91: 0
+
+Sample 92: 0
+
+Sample 93: 0
+
+Sample 94: 0
+
+Sample 95: 0
+
+Sample 96: 0
+
+Sample 97: 0
+
+Sample 98: 0
+
+Sample 99: 0
+
+Sample 100: 0
+
+Sample 101: 0
+
+Sample 102: 0
+
+Sample 103: 0
+
+Sample 104: 0
+
+Sample 105: 0
+
+Sample 106: 0
+
+Sample 107: 0
+
+Sample 108: 0
+
+Sample 109: 0
+
+Sample 110: 0
+
+Sample 111: 0
+
+Sample 112: 0
+
+Sample 113: 0
+
+Sample 114: 0
+
+Sample 115: 0
+
+Sample 116: 0
+
+Sample 117: 0
+
+Sample 118: 0
+
+Sample 119: -1
+
+Sample 120: 0
+
+Sample 121: 0
+
+Sample 122: 0
+
+Sample 123: -1
+
+Sample 124: 0
+
+Sample 125: 0
+
+Sample 126: 0
+
+Sample 127: 0
+
+Sample 128: 0
+
+Sample 129: 0
+
+Sample 130: 0
+
+Sample 131: 0
+
+Sample 132: 0
+
+Sample 133: 0
+
+Sample 134: 0
+
+Sample 135: 0
+
+Sample 136: 0
+
+Sample 137: 0
+
+Sample 138: 0
+
+Sample 139: 0
+
+Sample 140: 0
+
+Sample 141: 0
+
+Sample 142: 0
+
+Sample 143: 0
+
+Sample 144: 0
+
+Sample 145: 0
+
+Sample 146: 0
+
+Sample 147: 0
+
+Sample 148: 0
+
+Sample 149: 0
+
+Sample 150: 0
+
+Sample 151: 0
+
+Sample 152: 0
+
+Sample 153: 0
+
+Sample 154: 0
+
+Sample 155: 0
+
+Sample 156: 0
+
+Sample 157: 0
+
+Sample 158: 0
+
+Sample 159: 0
+
+Sample 160: 0
+
+Sample 161: 0
+
+Sample 162: 0
+
+Sample 163: 0
+
+Sample 164: 0
+
+Sample 165: 0
+
+Sample 166: 0
+
+Sample 167: 0
+
+Sample 168: 0
+
+Sample 169: 0
+
+Sample 170: 0
+
+Sample 171: 0
+
+Sample 172: 0
+
+Sample 173: 0
+
+Sample 174: 0
+
+Sample 175: 0
+
+Sample 176: 0
+
+Sample 177: 0
+
+Sample 178: 0
+
+Sample 179: 0
+
+Sample 180: 0
+
+Sample 181: 0
+
+Sample 182: 0
+
+Sample 183: 0
+
+Sample 184: 0
+
+Sample 185: 0
+
+Sample 186: 0
+
+Sample 187: 0
+
+Sample 188: 0
+
+Sample 189: 0
+
+Sample 190: 0
+
+Sample 191: 0
+
+Sample 192: 0
+
+Sample 193: 0
+
+Sample 194: 0
+
+Sample 195: 0
+
+Sample 196: -1
+
+Sample 197: 0
+
+Sample 198: 0
+
+Sample 199: 0
+
+Sample 200: 0
+
+Sample 201: 0
+
+Sample 202: 0
+
+Sample 203: 0
+
+Sample 204: 2
+
+Sample 205: 0
+
+Sample 206: 0
+
+Sample 207: 0
+
+Sample 208: 0
+
+Sample 209: 0
+
+Sample 210: 1
+
+Sample 211: 0
+
+Sample 212: 1
+
+Sample 213: 0
+
+Sample 214: 0
+
+Sample 215: 0
+
+Sample 216: 0
+
+Sample 217: 0
+
+Sample 218: 0
+
+Sample 219: 0
+
+Sample 220: 1
+
+Sample 221: 0
+
+Sample 222: 1
+
+Sample 223: 0
+
+Sample 224: 0
+
+Sample 225: 0
+
+Sample 226: 0
+
+Sample 227: -1
+
+Sample 228: 0
+
+Sample 229: 0
+
+Sample 230: -3
+
+Sample 231: 0
+
+Sample 232: 0
+
+Sample 233: 0
+
+Sample 234: 0
+
+Sample 235: 0
+
+Sample 236: 0
+
+Sample 237: 0
+
+Sample 238: 0
+
+Sample 239: -1
+
+Sample 240: 0
+
+Sample 241: 0
+
+Sample 242: 0
+
+Sample 243: 0
+
+Sample 244: 0
+
+Sample 245: 0
+
+Sample 246: 0
+
+Sample 247: 0
+
+Sample 248: 0
+
+Sample 249: 0
+
+Sample 250: 0
+
+Sample 251: 0
+
+Sample 252: 0
+
+Sample 253: 0
+
+Sample 254: 0
+
+Sample 255: 0
+
+Sample 256: 0
+
+Sample 257: 0
+
+Sample 258: 0
+
+Sample 259: 0
+
+Sample 260: 0
+
+Sample 261: 0
+
+Sample 262: 0
+
+Sample 263: 0
+
+Sample 264: 0
+
+Sample 265: 0
+
+Sample 266: 0
+
+Sample 267: 0
+
+Sample 268: 0
+
+Sample 269: 0
+
+Sample 270: 0
+
+Sample 271: 0
+
+Sample 272: 0
+
+Sample 273: 0
+
+Sample 274: 0
+
+Sample 275: 0
+
+Sample 276: 0
+
+Sample 277: 0
+
+Sample 278: 0
+
+Sample 279: 0
+
+Sample 280: 0
+
+Sample 281: 0
+
+Sample 282: 0
+
+Sample 283: 0
+
+Sample 284: 0
+
+Sample 285: 0
+
+Sample 286: 0
+
+Sample 287: 0
+
+Sample 288: 0
+
+Sample 289: 0
+
+Sample 290: 1
+
+Sample 291: 0
+
+Sample 292: 0
+
+Sample 293: 0
+
+Sample 294: -1
+
+Sample 295: 0
+
+Sample 296: 0
+
+Sample 297: 0
+
+Sample 298: -1
+
+Sample 299: 0
+
+Sample 300: 0
+
+Sample 301: 0
+
+Sample 302: 1
+
+Sample 303: 0
+
+Sample 304: 0
+
+Sample 305: 0
+
+Sample 306: 0
+
+Sample 307: 0
+
+Sample 308: 0
+
+Sample 309: 0
+
+Sample 310: 0
+
+Sample 311: 0
+
+Sample 312: 0
+
+Sample 313: 0
+
+Sample 314: 0
+
+Sample 315: 0
+
+Sample 316: 0
+
+Sample 317: 0
+
+Sample 318: 0
+
+Sample 319: 0
+
+Sample 320: 0
+
+Sample 321: -1
+
+Sample 322: 0
+
+Sample 323: 0
+
+Sample 324: 0
+
+Sample 325: 0
+
+Sample 326: 0
+
+Sample 327: 0
+
+Sample 328: 0
+
+Sample 329: 0
+
+Sample 330: 0
+
+Sample 331: 0
+
+Sample 332: 0
+
+Sample 333: 0
+
+Sample 334: 0
+
+Sample 335: 0
+
+Sample 336: 0
+
+Sample 337: 2
+
+Sample 338: 0
+
+Sample 339: 1
+
+Sample 340: 0
+
+Sample 341: 0
+
+Sample 342: 0
+
+Sample 343: 0
+
+Sample 344: 0
+
+Sample 345: 0
+
+Sample 346: 0
+
+Sample 347: 0
+
+Sample 348: 0
+
+Sample 349: 0
+
+Sample 350: 0
+
+Sample 351: 1
+
+Sample 352: 0
+
+Sample 353: 0
+
+Sample 354: 0
+
+Sample 355: 0
+
+Sample 356: 0
+
+Sample 357: 0
+
+Sample 358: 0
+
+Sample 359: 0
+
+Sample 360: 0
+
+Sample 361: 0
+
+Sample 362: 0
+
+Sample 363: 0
+
+Sample 364: 0
+
+Sample 365: 0
+
+Sample 366: 0
+
+Sample 367: 0
+
+Sample 368: 0
+
+Sample 369: 0
+
+Sample 370: 0
+
+Sample 371: 0
+
+Sample 372: 0
+
+Sample 373: 0
+
+Sample 374: 0
+
+Sample 375: 0
+
+Sample 376: 0
+
+Sample 377: 0
+
+Sample 378: 0
+
+Sample 379: 0
+
+Sample 380: 0
+
+Sample 381: 0
+
+Sample 382: 0
+
+Sample 383: 0
+
+Sample 384: 0
+
+Sample 385: -1
+
+Sample 386: 0
+
+Sample 387: 0
+
+Sample 388: 0
+
+Sample 389: 0
+
+Sample 390: 0
+
+Sample 391: 0
+
+Sample 392: 0
+
+Sample 393: 0
+
+Sample 394: 0
+
+Sample 395: 0
+
+Sample 396: 0
+
+Sample 397: 0
+
+Sample 398: 0
+
+Sample 399: 0
+
+Sample 400: 0
+
+Sample 401: 2
+
+Sample 402: 0
+
+Sample 403: 0
+
+Sample 404: 0
+
+Sample 405: 0
+
+Sample 406: 0
+
+Sample 407: -1
+
+Sample 408: 0
+
+Sample 409: 0
+
+Sample 410: 0
+
+Sample 411: -1
+
+Sample 412: 0
+
+Sample 413: 0
+
+Sample 414: 0
+
+Sample 415: 0
+
+Sample 416: 0
+
+Sample 417: 0
+
+Sample 418: 0
+
+Sample 419: 0
+
+Sample 420: 0
+
+Sample 421: 0
+
+Sample 422: 0
+
+Sample 423: 1
+
+Sample 424: 0
+
+Sample 425: 0
+
+Sample 426: 0
+
+Sample 427: 0
+
+Sample 428: 0
+
+Sample 429: 0
+
+Sample 430: 0
+
+Sample 431: 0
+
+Sample 432: 0
+
+Sample 433: 1
+
+Sample 434: 0
+
+Sample 435: 0
+
+Sample 436: 0
+
+Sample 437: 0
+
+Sample 438: 0
+
+Sample 439: 0
+
+Sample 440: 0
+
+Sample 441: 0
+
+Sample 442: 0
+
+Sample 443: 0
+
+Sample 444: 0
+
+Sample 445: 0
+
+Sample 446: 0
+
+Sample 447: 0
+
+Sample 448: 0
+
+Sample 449: -2
+
+Sample 450: 0
+
+Sample 451: 0
+
+Sample 452: 1
+
+Sample 453: 1
+
+Sample 454: 0
+
+Sample 455: 1
+
+Sample 456: 0
+
+Sample 457: 0
+
+Sample 458: 0
+
+Sample 459: 1
+
+Sample 460: -2
+
+Sample 461: 1
+
+Sample 462: 0
+
+Sample 463: 0
+
+Sample 464: 0
+
+Sample 465: -1
+
+Sample 466: 0
+
+Sample 467: 0
+
+Sample 468: 0
+
+Sample 469: 0
+
+Sample 470: 0
+
+Sample 471: 0
+
+Sample 472: 0
+
+Sample 473: 0
+
+Sample 474: 0
+
+Sample 475: 0
+
+Sample 476: 0
+
+Sample 477: 0
+
+Sample 478: 0
+
+Sample 479: 0
+
+Sample 480: 0
+
+Sample 481: 0
+
+Sample 482: 0
+
+Sample 483: 0
+
+Sample 484: 0
+
+Sample 485: 0
+
+Sample 486: 0
+
+Sample 487: 0
+
+Sample 488: 0
+
+Sample 489: 0
+
+Sample 490: 0
+
+Sample 491: 0
+
+Sample 492: 0
+
+Sample 493: 0
+
+Sample 494: 0
+
+Sample 495: 0
+
+Sample 496: 0
+
+Sample 497: 0
+
+Sample 498: 0
+
+Sample 499: 0
+
+Sample 500: 0
+
+Sample 501: 0
+
+Sample 502: -1
+
+Sample 503: 1
+
+Sample 504: 0
+
+Sample 505: 0
+
+Sample 506: -1
+
+Sample 507: -1
+
+Sample 508: 0
+
+Sample 509: 0
+
+Sample 510: 0
+
+Sample 511: 0
+
+Sample 512: 0
+
+Sample 513: 0
+
+Sample 514: 0
+
+Sample 515: -1
+
+Sample 516: 0
+
+Sample 517: 0
+
+Sample 518: 0
+
+Sample 519: 0
+
+Sample 520: 0
+
+Sample 521: 0
+
+Sample 522: 0
+
+Sample 523: 0
+
+Sample 524: 0
+
+Sample 525: 0
+
+Sample 526: 0
+
+Sample 527: -1
+
+Sample 528: 0
+
+Sample 529: 0
+
+Sample 530: 0
+
+Sample 531: 0
+
+Sample 532: 0
+
+Sample 533: 0
+
+Sample 534: 0
+
+Sample 535: 0
+
+Sample 536: 0
+
+Sample 537: 0
+
+Sample 538: 0
+
+Sample 539: 0
+
+Sample 540: 0
+
+Sample 541: 0
+
+Sample 542: 0
+
+Sample 543: 0
+
+Sample 544: 0
+
+Sample 545: 0
+
+Sample 546: 0
+
+Sample 547: 0
+
+Sample 548: -1
+
+Sample 549: 0
+
+Sample 550: 0
+
+Sample 551: 0
+
+Sample 552: 0
+
+Sample 553: 0
+
+Sample 554: 0
+
+Sample 555: 0
+
+Sample 556: -1
+
+Sample 557: 0
+
+Sample 558: 0
+
+Sample 559: 0
+
+Sample 560: 0
+
+Sample 561: 0
+
+Sample 562: 0
+
+Sample 563: 0
+
+Sample 564: 0
+
+Sample 565: 0
+
+Sample 566: 0
+
+Sample 567: 0
+
+Sample 568: 0
+
+Sample 569: 0
+
+Sample 570: 0
+
+Sample 571: 0
+
+Sample 572: 0
+
+Sample 573: 0
+
+Sample 574: 0
+
+Sample 575: 0
+
+Sample 576: 0
+
+Sample 577: 0
+
+Sample 578: 0
+
+Sample 579: 0
+
+Sample 580: 0
+
+Sample 581: 0
+
+Sample 582: 0
+
+Sample 583: 0
+
+Sample 584: 0
+
+Sample 585: 0
+
+Sample 586: 0
+
+Sample 587: 0
+
+Sample 588: 0
+
+Sample 589: 0
+
+Sample 590: 0
+
+Sample 591: 0
+
+Sample 592: 0
+
+Sample 593: 0
+
+Sample 594: 0
+
+Sample 595: 0
+
+Sample 596: 0
+
+Sample 597: 0
+
+Sample 598: 0
+
+Sample 599: 0
+
+Sample 600: 0
+
+Sample 601: 0
+
+Sample 602: 0
+
+Sample 603: 0
+
+Sample 604: 0
+
+Sample 605: 0
+
+Sample 606: 0
+
+Sample 607: 0
+
+Sample 608: -1
+
+Sample 609: 0
+
+Sample 610: 0
+
+Sample 611: 0
+
+Sample 612: 0
+
+Sample 613: 0
+
+Sample 614: 0
+
+Sample 615: 0
+
+Sample 616: 0
+
+Sample 617: 0
+
+Sample 618: 0
+
+Sample 619: 0
+
+Sample 620: 0
+
+Sample 621: 0
+
+Sample 622: 0
+
+Sample 623: 0
+
+Sample 624: 2
+
+Sample 625: 0
+
+Sample 626: 0
+
+Sample 627: 0
+
+Sample 628: 0
+
+Sample 629: 0
+
+Sample 630: 0
+
+Sample 631: 0
+
+Sample 632: -2
+
+Sample 633: 0
+
+Sample 634: 0
+
+Sample 635: 0
+
+Sample 636: 0
+
+Sample 637: 0
+
+Sample 638: 0
+
+Sample 639: 0
+
+Sample 640: 1
+
+Sample 641: 0
+
+Sample 642: 0
+
+Sample 643: 0
+
+Sample 644: 0
+
+Sample 645: 0
+
+Sample 646: 0
+
+Sample 647: 0
+
+Sample 648: 0
+
+Sample 649: 0
+
+Sample 650: 0
+
+Sample 651: 0
+
+Sample 652: 0
+
+Sample 653: 0
+
+Sample 654: 0
+
+Sample 655: 0
+
+Sample 656: 0
+
+Sample 657: 0
+
+Sample 658: 0
+
+Sample 659: 0
+
+Sample 660: 0
+
+Sample 661: 0
+
+Sample 662: 0
+
+Sample 663: 0
+
+Sample 664: 0
+
+Sample 665: 0
+
+Sample 666: 0
+
+Sample 667: 0
+
+Sample 668: 0
+
+Sample 669: 0
+
+Sample 670: 0
+
+Sample 671: 0
+
+Sample 672: 0
+
+Sample 673: 0
+
+Sample 674: 0
+
+Sample 675: 0
+
+Sample 676: 0
+
+Sample 677: 0
+
+Sample 678: 0
+
+Sample 679: 0
+
+Sample 680: 0
+
+Sample 681: 0
+
+Sample 682: 0
+
+Sample 683: 0
+
+Sample 684: 0
+
+Sample 685: 0
+
+Sample 686: 0
+
+Sample 687: 0
+
+Sample 688: 0
+
+Sample 689: 0
+
+Sample 690: -1
+
+Sample 691: 0
+
+Sample 692: 0
+
+Sample 693: 0
+
+Sample 694: 0
+
+Sample 695: 0
+
+Sample 696: 0
+
+Sample 697: 0
+
+Sample 698: 0
+
+Sample 699: 0
+
+Sample 700: 0
+
+Sample 701: 0
+
+Sample 702: -1
+
+Sample 703: 0
+
+Sample 704: 0
+
+Sample 705: 0
+
+Sample 706: 0
+
+Sample 707: 0
+
+Sample 708: 0
+
+Sample 709: 0
+
+Sample 710: 0
+
+Sample 711: 0
+
+Sample 712: 0
+
+Sample 713: 0
+
+Sample 714: 0
+
+Sample 715: 0
+
+Sample 716: 0
+
+Sample 717: 0
+
+Sample 718: 0
+
+Sample 719: 0
+
+Sample 720: 0
+
+Sample 721: 0
+
+Sample 722: 0
+
+Sample 723: 0
+
+Sample 724: 0
+
+Sample 725: 0
+
+Sample 726: 1
+
+Sample 727: 0
+
+Sample 728: 0
+
+Sample 729: 0
+
+Sample 730: 1
+
+Sample 731: 0
+
+Sample 732: 0
+
+Sample 733: 0
+
+Sample 734: 0
+
+Sample 735: 0
+
+Sample 736: 0
+
+Sample 737: 0
+
+Sample 738: 0
+
+Sample 739: 0
+
+Sample 740: 0
+
+Sample 741: 0
+
+Sample 742: 0
+
+Sample 743: 0
+
+Sample 744: 0
+
+Sample 745: 0
+
+Sample 746: 0
+
+Sample 747: 0
+
+Sample 748: 0
+
+Sample 749: 0
+
+Sample 750: 0
+
+Sample 751: 0
+
+Sample 752: 0
+
+Sample 753: 0
+
+Sample 754: 0
+
+Sample 755: 0
+
+Sample 756: 0
+
+Sample 757: 0
+
+Sample 758: 0
+
+Sample 759: 0
+
+Sample 760: 0
+
+Sample 761: 0
+
+Sample 762: 0
+
+Sample 763: 0
+
+Sample 764: 0
+
+Sample 765: 0
+
+Sample 766: 0
+
+Sample 767: 0
+
+Sample 768: 0
+
+Sample 769: 0
+
+Sample 770: 0
+
+Sample 771: 0
+
+Sample 772: 0
+
+Sample 773: 0
+
+Sample 774: 0
+
+Sample 775: 0
+
+Sample 776: 0
+
+Sample 777: 0
+
+Sample 778: 0
+
+Sample 779: 0
+
+Sample 780: 0
+
+Sample 781: 0
+
+Sample 782: 0
+
+Sample 783: 0
+
+Sample 784: 0
+
+Sample 785: 0
+
+Sample 786: 0
+
+Sample 787: 0
+
+Sample 788: 0
+
+Sample 789: 0
+
+Sample 790: 0
+
+Sample 791: 0
+
+Sample 792: 0
+
+Sample 793: 0
+
+Sample 794: 0
+
+Sample 795: 0
+
+Sample 796: 0
+
+Sample 797: 0
+
+Sample 798: 0
+
+Sample 799: 0
+
+Sample 800: 0
+
+Sample 801: 0
+
+Sample 802: 0
+
+Sample 803: 0
+
+Sample 804: 0
+
+Sample 805: 0
+
+Sample 806: 0
+
+Sample 807: 0
+
+Sample 808: 0
+
+Sample 809: 0
+
+Sample 810: 0
+
+Sample 811: 0
+
+Sample 812: 0
+
+Sample 813: 0
+
+Sample 814: 0
+
+Sample 815: 0
+
+Sample 816: 0
+
+Sample 817: 0
+
+Sample 818: 0
+
+Sample 819: 0
+
+Sample 820: 0
+
+Sample 821: 0
+
+Sample 822: 0
+
+Sample 823: 0
+
+Sample 824: 0
+
+Sample 825: 0
+
+Sample 826: 0
+
+Sample 827: 0
+
+Sample 828: 0
+
+Sample 829: 0
+
+Sample 830: 0
+
+Sample 831: 0
+
+Sample 832: 0
+
+Sample 833: 0
+
+Sample 834: 0
+
+Sample 835: 0
+
+Sample 836: 0
+
+Sample 837: 0
+
+Sample 838: 0
+
+Sample 839: 0
+
+Sample 840: 0
+
+Sample 841: 0
+
+Sample 842: 0
+
+Sample 843: 0
+
+Sample 844: 0
+
+Sample 845: 0
+
+Sample 846: 0
+
+Sample 847: 0
+
+Sample 848: 0
+
+Sample 849: 0
+
+Sample 850: 0
+
+Sample 851: 0
+
+Sample 852: 0
+
+Sample 853: 0
+
+Sample 854: 0
+
+Sample 855: 0
+
+Sample 856: 0
+
+Sample 857: 0
+
+Sample 858: 0
+
+Sample 859: 0
+
+Sample 860: 0
+
+Sample 861: 0
+
+Sample 862: 0
+
+Sample 863: 0
+
+Sample 864: 0
+
+Sample 865: 0
+
+Sample 866: 0
+
+Sample 867: 0
+
+Sample 868: 0
+
+Sample 869: 0
+
+Sample 870: 0
+
+Sample 871: 0
+
+Sample 872: 0
+
+Sample 873: 0
+
+Sample 874: 0
+
+Sample 875: 0
+
+Sample 876: 0
+
+Sample 877: 0
+
+Sample 878: 0
+
+Sample 879: 0
+
+Sample 880: 0
+
+Sample 881: 0
+
+Sample 882: 0
+
+Sample 883: 0
+
+Sample 884: 0
+
+Sample 885: 0
+
+Sample 886: 0
+
+Sample 887: 0
+
+Sample 888: 0
+
+Sample 889: 0
+
+Sample 890: 0
+
+Sample 891: 0
+
+Sample 892: 0
+
+Sample 893: 0
+
+Sample 894: 0
+
+Sample 895: 0
+
+Sample 896: 0
+
+Sample 897: 0
+
+Sample 898: 0
+
+Sample 899: 0
+
+Sample 900: 0
+
+Sample 901: 0
+
+Sample 902: 0
+
+Sample 903: 0
+
+Sample 904: 0
+
+Sample 905: 0
+
+Sample 906: 0
+
+Sample 907: 0
+
+Sample 908: 0
+
+Sample 909: 0
+
+Sample 910: 0
+
+Sample 911: 0
+
+Sample 912: 0
+
+Sample 913: 0
+
+Sample 914: 0
+
+Sample 915: 0
+
+Sample 916: 0
+
+Sample 917: 0
+
+Sample 918: 0
+
+Sample 919: 0
+
+Sample 920: 0
+
+Sample 921: 0
+
+Sample 922: 0
+
+Sample 923: 0
+
+Sample 924: 0
+
+Sample 925: 0
+
+Sample 926: 0
+
+Sample 927: 0
+
+Sample 928: 0
+
+Sample 929: 0
+
+Sample 930: 0
+
+Sample 931: 0
+
+Sample 932: 0
+
+Sample 933: 0
+
+Sample 934: 0
+
+Sample 935: 0
+
+Sample 936: 0
+
+Sample 937: 0
+
+Sample 938: 0
+
+Sample 939: 0
+
+Sample 940: 0
+
+Sample 941: 0
+
+Sample 942: 0
+
+Sample 943: 0
+
+Sample 944: 0
+
+Sample 945: 0
+
+Sample 946: 0
+
+Sample 947: 0
+
+Sample 948: 0
+
+Sample 949: 0
+
+Sample 950: 0
+
+Sample 951: 0
+
+Sample 952: 0
+
+Sample 953: 0
+
+Sample 954: 0
+
+Sample 955: 0
+
+Sample 956: 0
+
+Sample 957: 0
+
+Sample 958: 0
+
+Sample 959: 0
+
+Sample 960: 0
+
+Sample 961: 0
+
+Sample 962: 0
+
+Sample 963: 0
+
+Sample 964: 0
+
+Sample 965: 0
+
+Sample 966: 0
+
+Sample 967: 0
+
+Sample 968: 0
+
+Sample 969: 0
+
+Sample 970: 0
+
+Sample 971: 0
+
+Sample 972: 0
+
+Sample 973: 0
+
+Sample 974: 0
+
+Sample 975: 0
+
+Sample 976: 0
+
+Sample 977: 0
+
+Sample 978: 0
+
+Sample 979: 0
+
+Sample 980: 0
+
+Sample 981: 0
+
+Sample 982: 0
+
+Sample 983: 0
+
+Sample 984: 0
+
+Sample 985: 0
+
+Sample 986: 0
+
+Sample 987: 0
+
+Sample 988: 0
+
+Sample 989: 0
+
+Sample 990: 0
+
+Sample 991: 0
+
+Sample 992: 0
+
+Sample 993: 0
+
+Sample 994: 0
+
+Sample 995: 0
+
+Sample 996: 0
+
+Sample 997: 0
+
+Sample 998: 0
+
+Sample 999: 0
+
+Sample 1000: 0
+
+Sample 1001: 0
+
+Sample 1002: 0
+
+Sample 1003: 0
+
+Sample 1004: 0
+
+Sample 1005: 0
+
+Sample 1006: 0
+
+Sample 1007: 0
+
+Sample 1008: 0
+
+Sample 1009: 0
+
+Sample 1010: 0
+
+Sample 1011: 0
+
+Sample 1012: 0
+
+Sample 1013: 0
+
+Sample 1014: 0
+
+Sample 1015: 0
+
+Sample 1016: 0
+
+Sample 1017: 0
+
+Sample 1018: 0
+
+Sample 1019: 0
+
+Sample 1020: 0
+
+Sample 1021: 0
+
+Sample 1022: 0
+
+Sample 1023: 0
+
+Sample 1024: 0
+
+Sample 1025: 0
+
+Sample 1026: 0
+
+Sample 1027: 0
+
+Sample 1028: 0
+
+Sample 1029: 0
+
+Sample 1030: 0
+
+Sample 1031: 0
+
+Sample 1032: 0
+
+Sample 1033: 0
+
+Sample 1034: 0
+
+Sample 1035: 0
+
+Sample 1036: 0
+
+Sample 1037: 0
+
+Sample 1038: 0
+
+Sample 1039: 0
+
+Sample 1040: 0
+
+Sample 1041: 0
+
+Sample 1042: 0
+
+Sample 1043: 0
+
+Sample 1044: 0
+
+Sample 1045: 0
+
+Sample 1046: 0
+
+Sample 1047: 0
+
+Sample 1048: 0
+
+Sample 1049: 0
+
+Sample 1050: 0
+
+Sample 1051: 0
+
+Sample 1052: 0
+
+Sample 1053: 0
+
+Sample 1054: 0
+
+Sample 1055: 0
+
+Sample 1056: 0
+
+Sample 1057: 0
+
+Sample 1058: 0
+
+Sample 1059: 0
+
+Sample 1060: 0
+
+Sample 1061: 0
+
+Sample 1062: 0
+
+Sample 1063: 0
+
+Sample 1064: 0
+
+Sample 1065: 0
+
+Sample 1066: 0
+
+Sample 1067: 0
+
+Sample 1068: 0
+
+Sample 1069: 0
+
+Sample 1070: 0
+
+Sample 1071: 0
+
+Sample 1072: 0
+
+Sample 1073: 0
+
+Sample 1074: 0
+
+Sample 1075: 0
+
+Sample 1076: 0
+
+Sample 1077: 0
+
+Sample 1078: 0
+
+Sample 1079: 0
+
+Sample 1080: 0
+
+Sample 1081: 0
+
+Sample 1082: 0
+
+Sample 1083: 0
+
+Sample 1084: 0
+
+Sample 1085: 0
+
+Sample 1086: 0
+
+Sample 1087: 0
+
+Sample 1088: -1
+
+Sample 1089: 0
+
+Sample 1090: 0
+
+Sample 1091: 0
+
+Sample 1092: 0
+
+Sample 1093: 0
+
+Sample 1094: 0
+
+Sample 1095: 0
+
+Sample 1096: 0
+
+Sample 1097: 0
+
+Sample 1098: 0
+
+Sample 1099: 0
+
+Sample 1100: 0
+
+Sample 1101: 0
+
+Sample 1102: 0
+
+Sample 1103: 0
+
+Sample 1104: 2
+
+Sample 1105: 0
+
+Sample 1106: -1
+
+Sample 1107: 0
+
+Sample 1108: 0
+
+Sample 1109: 0
+
+Sample 1110: 0
+
+Sample 1111: 0
+
+Sample 1112: 0
+
+Sample 1113: 0
+
+Sample 1114: 0
+
+Sample 1115: 0
+
+Sample 1116: 0
+
+Sample 1117: 0
+
+Sample 1118: -1
+
+Sample 1119: 0
+
+Sample 1120: 1
+
+Sample 1121: 0
+
+Sample 1122: 0
+
+Sample 1123: 0
+
+Sample 1124: 0
+
+Sample 1125: 0
+
+Sample 1126: 0
+
+Sample 1127: 0
+
+Sample 1128: 0
+
+Sample 1129: 0
+
+Sample 1130: 0
+
+Sample 1131: 0
+
+Sample 1132: 0
+
+Sample 1133: 0
+
+Sample 1134: 0
+
+Sample 1135: 0
+
+Sample 1136: 0
+
+Sample 1137: 0
+
+Sample 1138: 0
+
+Sample 1139: 0
+
+Sample 1140: 0
+
+Sample 1141: 0
+
+Sample 1142: 0
+
+Sample 1143: 0
+
+Sample 1144: 0
+
+Sample 1145: 0
+
+Sample 1146: 0
+
+Sample 1147: 0
+
+Sample 1148: 0
+
+Sample 1149: 0
+
+Sample 1150: 0
+
+Sample 1151: 0
+
+Sample 1152: 0
+
+Sample 1153: 0
+
+Sample 1154: 0
+
+Sample 1155: 0
+
+Sample 1156: 0
+
+Sample 1157: 0
+
+Sample 1158: 0
+
+Sample 1159: 0
+
+Sample 1160: 0
+
+Sample 1161: 0
+
+Sample 1162: 0
+
+Sample 1163: 0
+
+Sample 1164: 0
+
+Sample 1165: 0
+
+Sample 1166: 0
+
+Sample 1167: 0
+
+Sample 1168: 0
+
+Sample 1169: 0
+
+Sample 1170: 0
+
+Sample 1171: 0
+
+Sample 1172: 0
+
+Sample 1173: 0
+
+Sample 1174: 0
+
+Sample 1175: 0
+
+Sample 1176: 0
+
+Sample 1177: 0
+
+Sample 1178: 0
+
+Sample 1179: 0
+
+Sample 1180: 0
+
+Sample 1181: 0
+
+Sample 1182: 0
+
+Sample 1183: 0
+
+Sample 1184: 0
+
+Sample 1185: 0
+
+Sample 1186: 0
+
+Sample 1187: 0
+
+Sample 1188: 0
+
+Sample 1189: 0
+
+Sample 1190: 0
+
+Sample 1191: 0
+
+Sample 1192: 0
+
+Sample 1193: 0
+
+Sample 1194: 0
+
+Sample 1195: 0
+
+Sample 1196: 0
+
+Sample 1197: 0
+
+Sample 1198: 0
+
+Sample 1199: 0
+
+Sample 1200: 0
+
+Sample 1201: 0
+
+Sample 1202: 0
+
+Sample 1203: 0
+
+Sample 1204: 0
+
+Sample 1205: 0
+
+Sample 1206: 0
+
+Sample 1207: 0
+
+Sample 1208: 0
+
+Sample 1209: 0
+
+Sample 1210: 0
+
+Sample 1211: 0
+
+Sample 1212: 0
+
+Sample 1213: 0
+
+Sample 1214: 0
+
+Sample 1215: 0
+
+Sample 1216: 0
+
+Sample 1217: 0
+
+Sample 1218: 0
+
+Sample 1219: 0
+
+Sample 1220: 0
+
+Sample 1221: 0
+
+Sample 1222: 0
+
+Sample 1223: 0
+
+Sample 1224: 0
+
+Sample 1225: 0
+
+Sample 1226: 0
+
+Sample 1227: 0
+
+Sample 1228: 0
+
+Sample 1229: 0
+
+Sample 1230: 0
+
+Sample 1231: 0
+
+Sample 1232: 0
+
+Sample 1233: 0
+
+Sample 1234: 0
+
+Sample 1235: 0
+
+Sample 1236: 0
+
+Sample 1237: 0
+
+Sample 1238: 0
+
+Sample 1239: 0
+
+Sample 1240: 0
+
+Sample 1241: 0
+
+Sample 1242: 0
+
+Sample 1243: 0
+
+Sample 1244: 0
+
+Sample 1245: 0
+
+Sample 1246: 0
+
+Sample 1247: 0
+
+Sample 1248: 0
+
+Sample 1249: 0
+
+Sample 1250: 0
+
+Sample 1251: 0
+
+Sample 1252: 0
+
+Sample 1253: 0
+
+Sample 1254: 0
+
+Sample 1255: 0
+
+Sample 1256: 0
+
+Sample 1257: 0
+
+Sample 1258: 0
+
+Sample 1259: 0
+
+Sample 1260: 0
+
+Sample 1261: 0
+
+Sample 1262: 0
+
+Sample 1263: 0
+
+Sample 1264: 0
+
+Sample 1265: 0
+
+Sample 1266: 0
+
+Sample 1267: 0
+
+Sample 1268: 0
+
+Sample 1269: 1
+
+Sample 1270: 0
+
+Sample 1271: 0
+
+Sample 1272: 0
+
+Sample 1273: 0
+
+Sample 1274: 0
+
+Sample 1275: 0
+
+Sample 1276: 0
+
+Sample 1277: 1
+
+Sample 1278: 0
+
+Sample 1279: 0
+
+stream received
+
+Stream received:
+
+Sample 0: 0
+
+Sample 1: 0
+
+Sample 2: 0
+
+Sample 3: 0
+
+Sample 4: -1
+
+Sample 5: 0
+
+Sample 6: 0
+
+Sample 7: 0
+
+Sample 8: 0
+
+Sample 9: 0
+
+Sample 10: 0
+
+Sample 11: 0
+
+Sample 12: -1
+
+Sample 13: 0
+
+Sample 14: 0
+
+Sample 15: 0
+
+Sample 16: 0
+
+Sample 17: 0
+
+Sample 18: 0
+
+Sample 19: 0
+
+Sample 20: 0
+
+Sample 21: 0
+
+Sample 22: 0
+
+Sample 23: 0
+
+Sample 24: 0
+
+Sample 25: 0
+
+Sample 26: 0
+
+Sample 27: 0
+
+Sample 28: 0
+
+Sample 29: 0
+
+Sample 30: 0
+
+Sample 31: 0
+
+Sample 32: 0
+
+Sample 33: 0
+
+Sample 34: 0
+
+Sample 35: 0
+
+Sample 36: 0
+
+Sample 37: 0
+
+Sample 38: 0
+
+Sample 39: 0
+
+Sample 40: 0
+
+Sample 41: 0
+
+Sample 42: 0
+
+Sample 43: 0
+
+Sample 44: 0
+
+Sample 45: 0
+
+Sample 46: 0
+
+Sample 47: 0
+
+Sample 48: 0
+
+Sample 49: 0
+
+Sample 50: 0
+
+Sample 51: 0
+
+Sample 52: 0
+
+Sample 53: -1
+
+Sample 54: 0
+
+Sample 55: 0
+
+Sample 56: 0
+
+Sample 57: 0
+
+Sample 58: 0
+
+Sample 59: 0
+
+Sample 60: 0
+
+Sample 61: 2
+
+Sample 62: 0
+
+Sample 63: 0
+
+Sample 64: 0
+
+Sample 65: 0
+
+Sample 66: 0
+
+Sample 67: -1
+
+Sample 68: 0
+
+Sample 69: 0
+
+Sample 70: 0
+
+Sample 71: 0
+
+Sample 72: 0
+
+Sample 73: 0
+
+Sample 74: 0
+
+Sample 75: 0
+
+Sample 76: 0
+
+Sample 77: 0
+
+Sample 78: 0
+
+Sample 79: -1
+
+Sample 80: 0
+
+Sample 81: 0
+
+Sample 82: 0
+
+Sample 83: 0
+
+Sample 84: 0
+
+Sample 85: 0
+
+Sample 86: 0
+
+Sample 87: 0
+
+Sample 88: 0
+
+Sample 89: 0
+
+Sample 90: 0
+
+Sample 91: 0
+
+Sample 92: 0
+
+Sample 93: 0
+
+Sample 94: 0
+
+Sample 95: 0
+
+Sample 96: 0
+
+Sample 97: 0
+
+Sample 98: 0
+
+Sample 99: 0
+
+Sample 100: 0
+
+Sample 101: 0
+
+Sample 102: 0
+
+Sample 103: 0
+
+Sample 104: 0
+
+Sample 105: 0
+
+Sample 106: 0
+
+Sample 107: 0
+
+Sample 108: 0
+
+Sample 109: 0
+
+Sample 110: 0
+
+Sample 111: 0
+
+Sample 112: 0
+
+Sample 113: 0
+
+Sample 114: 0
+
+Sample 115: 0
+
+Sample 116: 0
+
+Sample 117: 0
+
+Sample 118: 0
+
+Sample 119: 0
+
+Sample 120: 0
+
+Sample 121: 0
+
+Sample 122: 0
+
+Sample 123: 0
+
+Sample 124: 0
+
+Sample 125: 0
+
+Sample 126: 0
+
+Sample 127: 0
+
+Sample 128: 0
+
+Sample 129: 0
+
+Sample 130: 0
+
+Sample 131: 0
+
+Sample 132: 0
+
+Sample 133: 0
+
+Sample 134: 0
+
+Sample 135: 0
+
+Sample 136: 0
+
+Sample 137: 0
+
+Sample 138: 0
+
+Sample 139: 0
+
+Sample 140: 0
+
+Sample 141: 0
+
+Sample 142: 0
+
+Sample 143: 0
+
+Sample 144: 0
+
+Sample 145: 0
+
+Sample 146: 0
+
+Sample 147: 0
+
+Sample 148: 1
+
+Sample 149: 0
+
+Sample 150: 0
+
+Sample 151: -1
+
+Sample 152: 0
+
+Sample 153: 0
+
+Sample 154: 0
+
+Sample 155: -1
+
+Sample 156: 1
+
+Sample 157: 0
+
+Sample 158: 0
+
+Sample 159: 0
+
+Sample 160: 0
+
+Sample 161: 0
+
+Sample 162: 0
+
+Sample 163: 0
+
+Sample 164: 0
+
+Sample 165: 0
+
+Sample 166: 0
+
+Sample 167: 0
+
+Sample 168: 0
+
+Sample 169: 0
+
+Sample 170: 0
+
+Sample 171: 0
+
+Sample 172: 0
+
+Sample 173: 0
+
+Sample 174: 0
+
+Sample 175: 0
+
+Sample 176: 0
+
+Sample 177: 0
+
+Sample 178: 0
+
+Sample 179: 0
+
+Sample 180: 0
+
+Sample 181: 0
+
+Sample 182: 0
+
+Sample 183: 0
+
+Sample 184: 0
+
+Sample 185: 0
+
+Sample 186: 0
+
+Sample 187: 0
+
+Sample 188: 0
+
+Sample 189: 0
+
+Sample 190: 0
+
+Sample 191: 0
+
+Sample 192: 0
+
+Sample 193: 0
+
+Sample 194: 0
+
+Sample 195: 0
+
+Sample 196: 0
+
+Sample 197: 0
+
+Sample 198: 0
+
+Sample 199: 0
+
+Sample 200: 0
+
+Sample 201: 0
+
+Sample 202: 0
+
+Sample 203: 0
+
+Sample 204: 0
+
+Sample 205: 0
+
+Sample 206: 0
+
+Sample 207: 0
+
+Sample 208: 0
+
+Sample 209: 0
+
+Sample 210: 0
+
+Sample 211: 0
+
+Sample 212: 0
+
+Sample 213: 0
+
+Sample 214: -1
+
+Sample 215: 0
+
+Sample 216: 0
+
+Sample 217: 0
+
+Sample 218: 1
+
+Sample 219: 0
+
+Sample 220: 0
+
+Sample 221: 0
+
+Sample 222: 0
+
+Sample 223: 0
+
+Sample 224: 0
+
+Sample 225: 0
+
+Sample 226: 0
+
+Sample 227: 0
+
+Sample 228: 1
+
+Sample 229: 0
+
+Sample 230: 0
+
+Sample 231: 0
+
+Sample 232: 0
+
+Sample 233: 0
+
+Sample 234: 0
+
+Sample 235: 0
+
+Sample 236: 1
+
+Sample 237: 0
+
+Sample 238: 0
+
+Sample 239: 0
+
+Sample 240: 0
+
+Sample 241: 0
+
+Sample 242: 0
+
+Sample 243: 0
+
+Sample 244: 0
+
+Sample 245: 0
+
+Sample 246: 0
+
+Sample 247: 0
+
+Sample 248: 0
+
+Sample 249: 0
+
+Sample 250: 0
+
+Sample 251: 0
+
+Sample 252: 0
+
+Sample 253: 0
+
+Sample 254: 0
+
+Sample 255: 0
+
+Sample 256: 0
+
+Sample 257: 0
+
+Sample 258: 0
+
+Sample 259: 0
+
+Sample 260: 0
+
+Sample 261: 0
+
+Sample 262: 0
+
+Sample 263: 0
+
+Sample 264: 0
+
+Sample 265: 0
+
+Sample 266: 0
+
+Sample 267: 0
+
+Sample 268: 0
+
+Sample 269: 0
+
+Sample 270: 0
+
+Sample 271: 0
+
+Sample 272: 0
+
+Sample 273: 0
+
+Sample 274: 0
+
+Sample 275: 0
+
+Sample 276: -1
+
+Sample 277: 0
+
+Sample 278: 0
+
+Sample 279: 0
+
+Sample 280: 0
+
+Sample 281: 0
+
+Sample 282: 0
+
+Sample 283: 0
+
+Sample 284: -1
+
+Sample 285: 0
+
+Sample 286: 0
+
+Sample 287: 0
+
+Sample 288: 0
+
+Sample 289: 0
+
+Sample 290: 0
+
+Sample 291: 0
+
+Sample 292: 0
+
+Sample 293: 0
+
+Sample 294: 1
+
+Sample 295: 0
+
+Sample 296: 0
+
+Sample 297: 0
+
+Sample 298: -1
+
+Sample 299: 0
+
+Sample 300: 0
+
+Sample 301: 0
+
+Sample 302: 0
+
+Sample 303: 0
+
+Sample 304: 0
+
+Sample 305: 0
+
+Sample 306: 0
+
+Sample 307: 0
+
+Sample 308: 0
+
+Sample 309: 0
+
+Sample 310: 0
+
+Sample 311: 0
+
+Sample 312: 0
+
+Sample 313: 0
+
+Sample 314: 0
+
+Sample 315: 0
+
+Sample 316: 0
+
+Sample 317: 0
+
+Sample 318: 0
+
+Sample 319: 0
+
+Sample 320: 0
+
+Sample 321: 0
+
+Sample 322: 0
+
+Sample 323: 0
+
+Sample 324: 0
+
+Sample 325: 0
+
+Sample 326: 0
+
+Sample 327: 0
+
+Sample 328: 0
+
+Sample 329: 0
+
+Sample 330: 0
+
+Sample 331: 0
+
+Sample 332: 0
+
+Sample 333: 0
+
+Sample 334: 0
+
+Sample 335: 0
+
+Sample 336: 0
+
+Sample 337: 0
+
+Sample 338: 0
+
+Sample 339: 0
+
+Sample 340: 0
+
+Sample 341: 0
+
+Sample 342: 0
+
+Sample 343: 0
+
+Sample 344: 0
+
+Sample 345: 0
+
+Sample 346: 0
+
+Sample 347: 0
+
+Sample 348: 0
+
+Sample 349: 0
+
+Sample 350: 0
+
+Sample 351: 0
+
+Sample 352: 0
+
+Sample 353: 0
+
+Sample 354: 0
+
+Sample 355: 0
+
+Sample 356: 0
+
+Sample 357: 0
+
+Sample 358: 0
+
+Sample 359: -1
+
+Sample 360: 0
+
+Sample 361: 0
+
+Sample 362: 0
+
+Sample 363: -1
+
+Sample 364: 0
+
+Sample 365: 0
+
+Sample 366: 0
+
+Sample 367: 0
+
+Sample 368: 0
+
+Sample 369: 0
+
+Sample 370: 0
+
+Sample 371: 0
+
+Sample 372: 0
+
+Sample 373: 0
+
+Sample 374: 0
+
+Sample 375: 0
+
+Sample 376: 0
+
+Sample 377: 0
+
+Sample 378: 0
+
+Sample 379: 0
+
+Sample 380: 0
+
+Sample 381: 0
+
+Sample 382: 0
+
+Sample 383: 0
+
+Sample 384: 0
+
+Sample 385: 0
+
+Sample 386: 0
+
+Sample 387: 0
+
+Sample 388: 0
+
+Sample 389: -1
+
+Sample 390: 0
+
+Sample 391: 0
+
+Sample 392: 0
+
+Sample 393: 0
+
+Sample 394: 0
+
+Sample 395: 0
+
+Sample 396: 0
+
+Sample 397: -1
+
+Sample 398: 0
+
+Sample 399: 0
+
+Sample 400: 0
+
+Sample 401: 0
+
+Sample 402: 0
+
+Sample 403: 0
+
+Sample 404: 0
+
+Sample 405: -1
+
+Sample 406: 0
+
+Sample 407: 0
+
+Sample 408: 0
+
+Sample 409: 0
+
+Sample 410: 0
+
+Sample 411: 0
+
+Sample 412: 0
+
+Sample 413: -1
+
+Sample 414: 0
+
+Sample 415: 0
+
+Sample 416: 0
+
+Sample 417: 0
+
+Sample 418: 0
+
+Sample 419: 0
+
+Sample 420: 0
+
+Sample 421: 0
+
+Sample 422: -1
+
+Sample 423: 0
+
+Sample 424: 0
+
+Sample 425: 0
+
+Sample 426: 1
+
+Sample 427: 0
+
+Sample 428: 0
+
+Sample 429: 0
+
+Sample 430: 0
+
+Sample 431: 0
+
+Sample 432: 0
+
+Sample 433: 0
+
+Sample 434: 1
+
+Sample 435: 0
+
+Sample 436: 0
+
+Sample 437: 0
+
+Sample 438: 0
+
+Sample 439: 0
+
+Sample 440: -2
+
+Sample 441: 0
+
+Sample 442: 0
+
+Sample 443: 0
+
+Sample 444: 0
+
+Sample 445: 0
+
+Sample 446: 1
+
+Sample 447: 0
+
+Sample 448: 0
+
+Sample 449: 0
+
+Sample 450: 0
+
+Sample 451: 0
+
+Sample 452: 0
+
+Sample 453: 0
+
+Sample 454: 0
+
+Sample 455: 0
+
+Sample 456: 0
+
+Sample 457: 0
+
+Sample 458: 0
+
+Sample 459: 0
+
+Sample 460: 0
+
+Sample 461: 0
+
+Sample 462: 0
+
+Sample 463: 0
+
+Sample 464: 0
+
+Sample 465: 0
+
+Sample 466: 0
+
+Sample 467: 0
+
+Sample 468: 0
+
+Sample 469: 0
+
+Sample 470: 0
+
+Sample 471: 0
+
+Sample 472: 0
+
+Sample 473: 0
+
+Sample 474: 0
+
+Sample 475: 0
+
+Sample 476: 0
+
+Sample 477: 0
+
+Sample 478: 0
+
+Sample 479: 0
+
+Sample 480: 0
+
+Sample 481: 0
+
+Sample 482: 0
+
+Sample 483: 0
+
+Sample 484: 0
+
+Sample 485: 0
+
+Sample 486: 0
+
+Sample 487: 0
+
+Sample 488: 0
+
+Sample 489: 0
+
+Sample 490: 0
+
+Sample 491: 0
+
+Sample 492: 0
+
+Sample 493: 0
+
+Sample 494: 0
+
+Sample 495: 0
+
+Sample 496: 0
+
+Sample 497: 0
+
+Sample 498: 0
+
+Sample 499: 0
+
+Sample 500: 0
+
+Sample 501: 0
+
+Sample 502: 0
+
+Sample 503: 0
+
+Sample 504: 0
+
+Sample 505: 0
+
+Sample 506: 0
+
+Sample 507: 0
+
+Sample 508: 0
+
+Sample 509: 0
+
+Sample 510: 0
+
+Sample 511: 0
+
+Sample 512: 0
+
+Sample 513: 0
+
+Sample 514: 0
+
+Sample 515: 0
+
+Sample 516: 0
+
+Sample 517: 0
+
+Sample 518: 0
+
+Sample 519: 0
+
+Sample 520: 0
+
+Sample 521: 0
+
+Sample 522: 0
+
+Sample 523: 0
+
+Sample 524: 0
+
+Sample 525: 0
+
+Sample 526: 0
+
+Sample 527: 0
+
+Sample 528: 0
+
+Sample 529: 0
+
+Sample 530: 0
+
+Sample 531: 0
+
+Sample 532: -1
+
+Sample 533: 0
+
+Sample 534: 0
+
+Sample 535: 0
+
+Sample 536: 0
+
+Sample 537: 0
+
+Sample 538: 0
+
+Sample 539: 0
+
+Sample 540: -1
+
+Sample 541: 0
+
+Sample 542: 0
+
+Sample 543: 0
+
+Sample 544: 0
+
+Sample 545: 0
+
+Sample 546: 0
+
+Sample 547: 0
+
+Sample 548: 0
+
+Sample 549: 0
+
+Sample 550: 0
+
+Sample 551: 0
+
+Sample 552: 0
+
+Sample 553: 0
+
+Sample 554: 0
+
+Sample 555: 0
+
+Sample 556: 0
+
+Sample 557: 0
+
+Sample 558: 0
+
+Sample 559: 0
+
+Sample 560: 0
+
+Sample 561: 0
+
+Sample 562: 0
+
+Sample 563: 0
+
+Sample 564: 0
+
+Sample 565: 0
+
+Sample 566: 0
+
+Sample 567: 0
+
+Sample 568: 0
+
+Sample 569: 0
+
+Sample 570: 0
+
+Sample 571: 0
+
+Sample 572: 0
+
+Sample 573: 0
+
+Sample 574: 0
+
+Sample 575: 0
+
+Sample 576: 0
+
+Sample 577: 0
+
+Sample 578: 0
+
+Sample 579: 0
+
+Sample 580: 0
+
+Sample 581: 0
+
+Sample 582: -1
+
+Sample 583: 0
+
+Sample 584: 0
+
+Sample 585: 0
+
+Sample 586: -1
+
+Sample 587: 0
+
+Sample 588: 0
+
+Sample 589: 0
+
+Sample 590: 0
+
+Sample 591: 0
+
+Sample 592: 0
+
+Sample 593: 0
+
+Sample 594: 0
+
+Sample 595: 0
+
+Sample 596: 0
+
+Sample 597: 0
+
+Sample 598: 0
+
+Sample 599: 0
+
+Sample 600: 0
+
+Sample 601: 0
+
+Sample 602: 0
+
+Sample 603: 0
+
+Sample 604: 0
+
+Sample 605: 0
+
+Sample 606: 0
+
+Sample 607: 0
+
+Sample 608: 0
+
+Sample 609: 0
+
+Sample 610: 0
+
+Sample 611: 0
+
+Sample 612: 0
+
+Sample 613: 0
+
+Sample 614: 0
+
+Sample 615: 0
+
+Sample 616: 0
+
+Sample 617: 0
+
+Sample 618: 0
+
+Sample 619: 0
+
+Sample 620: 0
+
+Sample 621: 0
+
+Sample 622: 0
+
+Sample 623: 0
+
+Sample 624: 0
+
+Sample 625: 0
+
+Sample 626: 0
+
+Sample 627: 0
+
+Sample 628: 0
+
+Sample 629: 0
+
+Sample 630: 0
+
+Sample 631: 0
+
+Sample 632: 0
+
+Sample 633: 0
+
+Sample 634: 0
+
+Sample 635: 0
+
+Sample 636: 0
+
+Sample 637: 0
+
+Sample 638: 0
+
+Sample 639: 0
+
+Sample 640: 0
+
+Sample 641: 0
+
+Sample 642: 0
+
+Sample 643: 0
+
+Sample 644: 0
+
+Sample 645: 0
+
+Sample 646: 0
+
+Sample 647: 0
+
+Sample 648: 0
+
+Sample 649: 0
+
+Sample 650: 0
+
+Sample 651: 0
+
+Sample 652: 0
+
+Sample 653: -3
+
+Sample 654: 7
+
+Sample 655: -11
+
+Sample 656: 19
+
+Sample 657: -25
+
+Sample 658: 33
+
+Sample 659: -38
+
+Sample 660: 43
+
+Sample 661: -40
+
+Sample 662: 33
+
+Sample 663: -39
+
+Sample 664: 28
+
+Sample 665: -32
+
+Sample 666: 23
+
+Sample 667: -24
+
+Sample 668: -17
+
+Sample 669: -19
+
+Sample 670: -32
+
+Sample 671: 17
+
+Sample 672: -5
+
+Sample 673: 36
+
+Sample 674: 4
+
+Sample 675: 8
+
+Sample 676: 32
+
+Sample 677: -9
+
+Sample 678: 49
+
+Sample 679: -24
+
+Sample 680: 24
+
+Sample 681: -32
+
+Sample 682: -1
+
+Sample 683: -32
+
+Sample 684: 28
+
+Sample 685: -65
+
+Sample 686: 103
+
+Sample 687: -130
+
+Sample 688: 175
+
+Sample 689: -259
+
+Sample 690: 246
+
+Sample 691: -141
+
+Sample 692: 91
+
+Sample 693: -131
+
+Sample 694: -23
+
+Sample 695: 88
+
+Sample 696: -208
+
+Sample 697: 252
+
+Sample 698: -367
+
+Sample 699: 461
+
+Sample 700: -631
+
+Sample 701: 691
+
+Sample 702: -713
+
+Sample 703: 626
+
+Sample 704: -392
+
+Sample 705: 679
+
+Sample 706: -125
+
+Sample 707: 334
+
+Sample 708: 98
+
+Sample 709: 108
+
+Sample 710: 217
+
+Sample 711: 101
+
+Sample 712: -144
+
+Sample 713: 262
+
+Sample 714: -698
+
+Sample 715: 227
+
+Sample 716: -606
+
+Sample 717: 212
+
+Sample 718: -296
+
+Sample 719: 37
+
+Sample 720: -51
+
+Sample 721: -833
+
+Sample 722: 974
+
+Sample 723: -72
+
+Sample 724: 790
+
+Sample 725: 149
+
+Sample 726: -509
+
+Sample 727: -103
+
+Sample 728: 32
+
+Sample 729: -262
+
+Sample 730: -181
+
+Sample 731: -817
+
+Sample 732: 2452
+
+Sample 733: 452
+
+Sample 734: 116
+
+Sample 735: -3092
+
+Sample 736: 473
+
+Sample 737: 393
+
+Sample 738: -345
+
+Sample 739: -21
+
+Sample 740: -27
+
+Sample 741: 730
+
+Sample 742: 1370
+
+Sample 743: 955
+
+Sample 744: -502
+
+Sample 745: -401
+
+Sample 746: -2140
+
+Sample 747: -109
+
+Sample 748: -1054
+
+Sample 749: 779
+
+Sample 750: -1233
+
+Sample 751: 1
+
+Sample 752: 675
+
+Sample 753: 117
+
+Sample 754: 1730
+
+Sample 755: -946
+
+Sample 756: 741
+
+Sample 757: -32140
+
+Sample 758: 32767
+
+Sample 759: -31791
+
+Sample 760: 31201
+
+Sample 761: -32768
+
+Sample 762: 32767
+
+Sample 763: -29427
+
+Sample 764: 30084
+
+Sample 765: -32676
+
+Sample 766: 32034
+
+Sample 767: -32768
+
+Sample 768: 32366
+
+Sample 769: -32768
+
+Sample 770: 32767
+
+Sample 771: -31367
+
+Sample 772: 32767
+
+Sample 773: -32768
+
+Sample 774: 32682
+
+Sample 775: -32372
+
+Sample 776: 30916
+
+Sample 777: -32699
+
+Sample 778: 32321
+
+Sample 779: -31581
+
+Sample 780: 31967
+
+Sample 781: -32172
+
+Sample 782: 32541
+
+Sample 783: -31006
+
+Sample 784: 31978
+
+Sample 785: -32768
+
+Sample 786: 32339
+
+Sample 787: -32768
+
+Sample 788: 32371
+
+Sample 789: -31446
+
+Sample 790: 32140
+
+Sample 791: -31583
+
+Sample 792: 32193
+
+Sample 793: -32486
+
+Sample 794: 32253
+
+Sample 795: -32060
+
+Sample 796: 30400
+
+Sample 797: -31802
+
+Sample 798: 30870
+
+Sample 799: -30959
+
+Sample 800: 31152
+
+Sample 801: -31306
+
+Sample 802: 31619
+
+Sample 803: -31336
+
+Sample 804: 31854
+
+Sample 805: -31893
+
+Sample 806: 32145
+
+Sample 807: -32057
+
+Sample 808: 32102
+
+Sample 809: -32306
+
+Sample 810: 32308
+
+Sample 811: -32265
+
+Sample 812: 32245
+
+Sample 813: -32276
+
+Sample 814: 32197
+
+Sample 815: -32046
+
+Sample 816: 32031
+
+Sample 817: -32103
+
+Sample 818: 31972
+
+Sample 819: -32001
+
+Sample 820: 31906
+
+Sample 821: -31986
+
+Sample 822: 32017
+
+Sample 823: -31993
+
+Sample 824: 31987
+
+Sample 825: -32003
+
+Sample 826: 31948
+
+Sample 827: -31921
+
+Sample 828: 32011
+
+Sample 829: -31887
+
+Sample 830: 31983
+
+Sample 831: -32005
+
+Sample 832: 31960
+
+Sample 833: -31983
+
+Sample 834: 31971
+
+Sample 835: -31937
+
+Sample 836: 31961
+
+Sample 837: -31964
+
+Sample 838: 31975
+
+Sample 839: -31968
+
+Sample 840: 31978
+
+Sample 841: -31989
+
+Sample 842: 32015
+
+Sample 843: -32012
+
+Sample 844: 32049
+
+Sample 845: -32049
+
+Sample 846: 32091
+
+Sample 847: -32088
+
+Sample 848: 32130
+
+Sample 849: -32131
+
+Sample 850: 32179
+
+Sample 851: -32179
+
+Sample 852: 32211
+
+Sample 853: -32211
+
+Sample 854: 32231
+
+Sample 855: -32231
+
+Sample 856: 32242
+
+Sample 857: -32242
+
+Sample 858: 32253
+
+Sample 859: -32253
+
+Sample 860: 32264
+
+Sample 861: -32264
+
+Sample 862: 32270
+
+Sample 863: -32270
+
+Sample 864: 32269
+
+Sample 865: -32269
+
+Sample 866: 32265
+
+Sample 867: -32265
+
+Sample 868: 32253
+
+Sample 869: -32253
+
+Sample 870: 32245
+
+Sample 871: -32245
+
+Sample 872: 32242
+
+Sample 873: -32242
+
+Sample 874: 32253
+
+Sample 875: -32253
+
+Sample 876: 32268
+
+Sample 877: -32267
+
+Sample 878: 32283
+
+Sample 879: -32283
+
+Sample 880: 32291
+
+Sample 881: -32292
+
+Sample 882: 32295
+
+Sample 883: -32296
+
+Sample 884: 32288
+
+Sample 885: -32288
+
+Sample 886: 32281
+
+Sample 887: -32279
+
+Sample 888: 32275
+
+Sample 889: -32275
+
+Sample 890: 32281
+
+Sample 891: -32283
+
+Sample 892: 32290
+
+Sample 893: -32290
+
+Sample 894: 32299
+
+Sample 895: -32296
+
+Sample 896: 32301
+
+Sample 897: -32298
+
+Sample 898: 32299
+
+Sample 899: -32299
+
+Sample 900: 32289
+
+Sample 901: -32291
+
+Sample 902: 32281
+
+Sample 903: -32280
+
+Sample 904: 32275
+
+Sample 905: -32275
+
+Sample 906: 32282
+
+Sample 907: -32281
+
+Sample 908: 32292
+
+Sample 909: -32293
+
+Sample 910: 32302
+
+Sample 911: -32302
+
+Sample 912: 32304
+
+Sample 913: -32303
+
+Sample 914: 32303
+
+Sample 915: -32302
+
+Sample 916: 32293
+
+Sample 917: -32293
+
+Sample 918: 32284
+
+Sample 919: -32284
+
+Sample 920: 32277
+
+Sample 921: -32277
+
+Sample 922: 32283
+
+Sample 923: -32283
+
+Sample 924: 32293
+
+Sample 925: -32293
+
+Sample 926: 32302
+
+Sample 927: -32302
+
+Sample 928: 32304
+
+Sample 929: -32304
+
+Sample 930: 32303
+
+Sample 931: -32303
+
+Sample 932: 32293
+
+Sample 933: -32293
+
+Sample 934: 32284
+
+Sample 935: -32283
+
+Sample 936: 32277
+
+Sample 937: -32277
+
+Sample 938: 32283
+
+Sample 939: -32283
+
+Sample 940: 32293
+
+Sample 941: -32293
+
+Sample 942: 32302
+
+Sample 943: -32302
+
+Sample 944: 32304
+
+Sample 945: -32304
+
+Sample 946: 32303
+
+Sample 947: -32303
+
+Sample 948: 32293
+
+Sample 949: -32293
+
+Sample 950: 32284
+
+Sample 951: -32284
+
+Sample 952: 32277
+
+Sample 953: -32277
+
+Sample 954: 32283
+
+Sample 955: -32284
+
+Sample 956: 32293
+
+Sample 957: -32292
+
+Sample 958: 32302
+
+Sample 959: -32302
+
+Sample 960: 32304
+
+Sample 961: -32305
+
+Sample 962: 32303
+
+Sample 963: -32304
+
+Sample 964: 32293
+
+Sample 965: -32293
+
+Sample 966: 32284
+
+Sample 967: -32282
+
+Sample 968: 32277
+
+Sample 969: -32277
+
+Sample 970: 32283
+
+Sample 971: -32285
+
+Sample 972: 32293
+
+Sample 973: -32293
+
+Sample 974: 32302
+
+Sample 975: -32299
+
+Sample 976: 32304
+
+Sample 977: -32302
+
+Sample 978: 32303
+
+Sample 979: -32303
+
+Sample 980: 32293
+
+Sample 981: -32294
+
+Sample 982: 32284
+
+Sample 983: -32282
+
+Sample 984: 32277
+
+Sample 985: -32277
+
+Sample 986: 32283
+
+Sample 987: -32282
+
+Sample 988: 32293
+
+Sample 989: -32294
+
+Sample 990: 32302
+
+Sample 991: -32302
+
+Sample 992: 32304
+
+Sample 993: -32303
+
+Sample 994: 32303
+
+Sample 995: -32302
+
+Sample 996: 32293
+
+Sample 997: -32293
+
+Sample 998: 32284
+
+Sample 999: -32284
+
+Sample 1000: 32277
+
+Sample 1001: -32277
+
+Sample 1002: 32283
+
+Sample 1003: -32283
+
+Sample 1004: 32293
+
+Sample 1005: -32293
+
+Sample 1006: 32302
+
+Sample 1007: -32302
+
+Sample 1008: 32304
+
+Sample 1009: -32304
+
+Sample 1010: 32303
+
+Sample 1011: -32303
+
+Sample 1012: 32293
+
+Sample 1013: -32293
+
+Sample 1014: 32282
+
+Sample 1015: -32282
+
+Sample 1016: 32277
+
+Sample 1017: -32277
+
+Sample 1018: 32282
+
+Sample 1019: -32282
+
+Sample 1020: 32293
+
+Sample 1021: -32293
+
+Sample 1022: 32302
+
+Sample 1023: -32302
+
+Sample 1024: 32304
+
+Sample 1025: -32304
+
+Sample 1026: 32303
+
+Sample 1027: -32303
+
+Sample 1028: 32292
+
+Sample 1029: -32293
+
+Sample 1030: 32284
+
+Sample 1031: -32284
+
+Sample 1032: 32277
+
+Sample 1033: -32277
+
+Sample 1034: 32283
+
+Sample 1035: -32284
+
+Sample 1036: 32293
+
+Sample 1037: -32293
+
+Sample 1038: 32302
+
+Sample 1039: -32302
+
+Sample 1040: 32304
+
+Sample 1041: -32304
+
+Sample 1042: 32303
+
+Sample 1043: -32303
+
+Sample 1044: 32293
+
+Sample 1045: -32293
+
+Sample 1046: 32282
+
+Sample 1047: -32282
+
+Sample 1048: 32277
+
+Sample 1049: -32277
+
+Sample 1050: 32282
+
+Sample 1051: -32282
+
+Sample 1052: 32293
+
+Sample 1053: -32293
+
+Sample 1054: 32302
+
+Sample 1055: -32302
+
+Sample 1056: 32304
+
+Sample 1057: -32304
+
+Sample 1058: 32303
+
+Sample 1059: -32303
+
+Sample 1060: 32292
+
+Sample 1061: -32292
+
+Sample 1062: 32282
+
+Sample 1063: -32282
+
+Sample 1064: 32277
+
+Sample 1065: -32277
+
+Sample 1066: 32282
+
+Sample 1067: -32282
+
+Sample 1068: 32293
+
+Sample 1069: -32293
+
+Sample 1070: 32303
+
+Sample 1071: -32302
+
+Sample 1072: 32304
+
+Sample 1073: -32304
+
+Sample 1074: 32303
+
+Sample 1075: -32303
+
+Sample 1076: 32293
+
+Sample 1077: -32293
+
+Sample 1078: 32282
+
+Sample 1079: -32282
+
+Sample 1080: 32277
+
+Sample 1081: -32277
+
+Sample 1082: 32282
+
+Sample 1083: -32282
+
+Sample 1084: 32293
+
+Sample 1085: -32293
+
+Sample 1086: 32302
+
+Sample 1087: -32302
+
+Sample 1088: 32304
+
+Sample 1089: -32304
+
+Sample 1090: 32301
+
+Sample 1091: -32303
+
+Sample 1092: 32291
+
+Sample 1093: -32292
+
+Sample 1094: 32282
+
+Sample 1095: -32283
+
+Sample 1096: 32277
+
+Sample 1097: -32280
+
+Sample 1098: 32282
+
+Sample 1099: -32283
+
+Sample 1100: 32291
+
+Sample 1101: -32293
+
+Sample 1102: 32301
+
+Sample 1103: -32303
+
+Sample 1104: 32304
+
+Sample 1105: -32304
+
+Sample 1106: 32303
+
+Sample 1107: -32303
+
+Sample 1108: 32293
+
+Sample 1109: -32293
+
+Sample 1110: 32283
+
+Sample 1111: -32283
+
+Sample 1112: 32277
+
+Sample 1113: -32277
+
+Sample 1114: 32283
+
+Sample 1115: -32283
+
+Sample 1116: 32293
+
+Sample 1117: -32293
+
+Sample 1118: 32302
+
+Sample 1119: -32302
+
+Sample 1120: 32304
+
+Sample 1121: -32304
+
+Sample 1122: 32303
+
+Sample 1123: -32301
+
+Sample 1124: 32292
+
+Sample 1125: -32291
+
+Sample 1126: 32283
+
+Sample 1127: -32282
+
+Sample 1128: 32280
+
+Sample 1129: -32278
+
+Sample 1130: 32283
+
+Sample 1131: -32282
+
+Sample 1132: 32293
+
+Sample 1133: -32291
+
+Sample 1134: 32302
+
+Sample 1135: -32301
+
+Sample 1136: 32304
+
+Sample 1137: -32305
+
+Sample 1138: 32303
+
+Sample 1139: -32304
+
+Sample 1140: 32293
+
+Sample 1141: -32293
+
+Sample 1142: 32284
+
+Sample 1143: -32282
+
+Sample 1144: 32277
+
+Sample 1145: -32277
+
+Sample 1146: 32283
+
+Sample 1147: -32285
+
+Sample 1148: 32293
+
+Sample 1149: -32293
+
+Sample 1150: 32302
+
+Sample 1151: -32299
+
+Sample 1152: 32304
+
+Sample 1153: -32302
+
+Sample 1154: 32303
+
+Sample 1155: -32303
+
+Sample 1156: 32292
+
+Sample 1157: -32294
+
+Sample 1158: 32284
+
+Sample 1159: -32282
+
+Sample 1160: 32278
+
+Sample 1161: -32277
+
+Sample 1162: 32283
+
+Sample 1163: -32282
+
+Sample 1164: 32293
+
+Sample 1165: -32294
+
+Sample 1166: 32302
+
+Sample 1167: -32302
+
+Sample 1168: 32304
+
+Sample 1169: -32303
+
+Sample 1170: 32303
+
+Sample 1171: -32302
+
+Sample 1172: 32293
+
+Sample 1173: -32293
+
+Sample 1174: 32284
+
+Sample 1175: -32284
+
+Sample 1176: 32277
+
+Sample 1177: -32277
+
+Sample 1178: 32283
+
+Sample 1179: -32283
+
+Sample 1180: 32293
+
+Sample 1181: -32293
+
+Sample 1182: 32302
+
+Sample 1183: -32302
+
+Sample 1184: 32304
+
+Sample 1185: -32304
+
+Sample 1186: 32303
+
+Sample 1187: -32303
+
+Sample 1188: 32293
+
+Sample 1189: -32293
+
+Sample 1190: 32284
+
+Sample 1191: -32283
+
+Sample 1192: 32277
+
+Sample 1193: -32277
+
+Sample 1194: 32283
+
+Sample 1195: -32283
+
+Sample 1196: 32293
+
+Sample 1197: -32293
+
+Sample 1198: 32302
+
+Sample 1199: -32302
+
+Sample 1200: 32304
+
+Sample 1201: -32304
+
+Sample 1202: 32303
+
+Sample 1203: -32303
+
+Sample 1204: 32293
+
+Sample 1205: -32293
+
+Sample 1206: 32284
+
+Sample 1207: -32284
+
+Sample 1208: 32277
+
+Sample 1209: -32277
+
+Sample 1210: 32283
+
+Sample 1211: -32283
+
+Sample 1212: 32292
+
+Sample 1213: -32293
+
+Sample 1214: 32303
+
+Sample 1215: -32302
+
+Sample 1216: 32305
+
+Sample 1217: -32304
+
+Sample 1218: 32303
+
+Sample 1219: -32303
+
+Sample 1220: 32293
+
+Sample 1221: -32293
+
+Sample 1222: 32284
+
+Sample 1223: -32282
+
+Sample 1224: 32277
+
+Sample 1225: -32277
+
+Sample 1226: 32280
+
+Sample 1227: -32282
+
+Sample 1228: 32293
+
+Sample 1229: -32293
+
+Sample 1230: 32302
+
+Sample 1231: -32302
+
+Sample 1232: 32302
+
+Sample 1233: -32304
+
+Sample 1234: 32301
+
+Sample 1235: -32303
+
+Sample 1236: 32294
+
+Sample 1237: -32293
+
+Sample 1238: 32284
+
+Sample 1239: -32284
+
+Sample 1240: 32277
+
+Sample 1241: -32277
+
+Sample 1242: 32283
+
+Sample 1243: -32283
+
+Sample 1244: 32294
+
+Sample 1245: -32292
+
+Sample 1246: 32301
+
+Sample 1247: -32302
+
+Sample 1248: 32303
+
+Sample 1249: -32304
+
+Sample 1250: 32303
+
+Sample 1251: -32304
+
+Sample 1252: 32293
+
+Sample 1253: -32293
+
+Sample 1254: 32283
+
+Sample 1255: -32282
+
+Sample 1256: 32277
+
+Sample 1257: -32277
+
+Sample 1258: 32283
+
+Sample 1259: -32285
+
+Sample 1260: 32293
+
+Sample 1261: -32293
+
+Sample 1262: 32302
+
+Sample 1263: -32299
+
+Sample 1264: 32304
+
+Sample 1265: -32304
+
+Sample 1266: 32303
+
+Sample 1267: -32303
+
+Sample 1268: 32293
+
+Sample 1269: -32294
+
+Sample 1270: 32284
+
+Sample 1271: -32282
+
+Sample 1272: 32277
+
+Sample 1273: -32277
+
+Sample 1274: 32283
+
+Sample 1275: -32282
+
+Sample 1276: 32293
+
+Sample 1277: -32294
+
+Sample 1278: 32302
+
+Sample 1279: -32302
+
+stream received
+
+Stream received:
+
+Sample 0: 32304
+
+Sample 1: -32304
+
+Sample 2: 32303
+
+Sample 3: -32302
+
+Sample 4: 32293
+
+Sample 5: -32293
+
+Sample 6: 32282
+
+Sample 7: -32283
+
+Sample 8: 32277
+
+Sample 9: -32277
+
+Sample 10: 32282
+
+Sample 11: -32282
+
+Sample 12: 32293
+
+Sample 13: -32293
+
+Sample 14: 32302
+
+Sample 15: -32302
+
+Sample 16: 32304
+
+Sample 17: -32304
+
+Sample 18: 32303
+
+Sample 19: -32303
+
+Sample 20: 32293
+
+Sample 21: -32293
+
+Sample 22: 32284
+
+Sample 23: -32283
+
+Sample 24: 32277
+
+Sample 25: -32277
+
+Sample 26: 32283
+
+Sample 27: -32283
+
+Sample 28: 32293
+
+Sample 29: -32293
+
+Sample 30: 32302
+
+Sample 31: -32302
+
+Sample 32: 32304
+
+Sample 33: -32304
+
+Sample 34: 32303
+
+Sample 35: -32303
+
+Sample 36: 32293
+
+Sample 37: -32293
+
+Sample 38: 32282
+
+Sample 39: -32282
+
+Sample 40: 32277
+
+Sample 41: -32277
+
+Sample 42: 32282
+
+Sample 43: -32282
+
+Sample 44: 32293
+
+Sample 45: -32293
+
+Sample 46: 32302
+
+Sample 47: -32302
+
+Sample 48: 32304
+
+Sample 49: -32304
+
+Sample 50: 32303
+
+Sample 51: -32303
+
+Sample 52: 32293
+
+Sample 53: -32293
+
+Sample 54: 32282
+
+Sample 55: -32282
+
+Sample 56: 32277
+
+Sample 57: -32277
+
+Sample 58: 32282
+
+Sample 59: -32282
+
+Sample 60: 32293
+
+Sample 61: -32293
+
+Sample 62: 32302
+
+Sample 63: -32302
+
+Sample 64: 32304
+
+Sample 65: -32304
+
+Sample 66: 32303
+
+Sample 67: -32303
+
+Sample 68: 32293
+
+Sample 69: -32293
+
+Sample 70: 32283
+
+Sample 71: -32283
+
+Sample 72: 32277
+
+Sample 73: -32277
+
+Sample 74: 32283
+
+Sample 75: -32283
+
+Sample 76: 32293
+
+Sample 77: -32293
+
+Sample 78: 32302
+
+Sample 79: -32302
+
+Sample 80: 32304
+
+Sample 81: -32304
+
+Sample 82: 32303
+
+Sample 83: -32303
+
+Sample 84: 32293
+
+Sample 85: -32293
+
+Sample 86: 32283
+
+Sample 87: -32283
+
+Sample 88: 32277
+
+Sample 89: -32277
+
+Sample 90: 32283
+
+Sample 91: -32283
+
+Sample 92: 32293
+
+Sample 93: -32293
+
+Sample 94: 32302
+
+Sample 95: -32302
+
+Sample 96: 32304
+
+Sample 97: -32304
+
+Sample 98: 32303
+
+Sample 99: -32303
+
+Sample 100: 32293
+
+Sample 101: -32293
+
+Sample 102: 32282
+
+Sample 103: -32282
+
+Sample 104: 32277
+
+Sample 105: -32277
+
+Sample 106: 32282
+
+Sample 107: -32282
+
+Sample 108: 32293
+
+Sample 109: -32293
+
+Sample 110: 32302
+
+Sample 111: -32302
+
+Sample 112: 32304
+
+Sample 113: -32304
+
+Sample 114: 32303
+
+Sample 115: -32303
+
+Sample 116: 32293
+
+Sample 117: -32293
+
+Sample 118: 32284
+
+Sample 119: -32284
+
+Sample 120: 32277
+
+Sample 121: -32277
+
+Sample 122: 32283
+
+Sample 123: -32283
+
+Sample 124: 32293
+
+Sample 125: -32293
+
+Sample 126: 32302
+
+Sample 127: -32302
+
+Sample 128: 32304
+
+Sample 129: -32304
+
+Sample 130: 32303
+
+Sample 131: -32303
+
+Sample 132: 32293
+
+Sample 133: -32293
+
+Sample 134: 32282
+
+Sample 135: -32282
+
+Sample 136: 32277
+
+Sample 137: -32277
+
+Sample 138: 32282
+
+Sample 139: -32282
+
+Sample 140: 32293
+
+Sample 141: -32293
+
+Sample 142: 32302
+
+Sample 143: -32302
+
+Sample 144: 32304
+
+Sample 145: -32304
+
+Sample 146: 32303
+
+Sample 147: -32303
+
+Sample 148: 32293
+
+Sample 149: -32293
+
+Sample 150: 32284
+
+Sample 151: -32284
+
+Sample 152: 32277
+
+Sample 153: -32277
+
+Sample 154: 32283
+
+Sample 155: -32283
+
+Sample 156: 32293
+
+Sample 157: -32293
+
+Sample 158: 32302
+
+Sample 159: -32302
+
+Sample 160: 32304
+
+Sample 161: -32304
+
+Sample 162: 32303
+
+Sample 163: -32303
+
+Sample 164: 32293
+
+Sample 165: -32293
+
+Sample 166: 32282
+
+Sample 167: -32282
+
+Sample 168: 32277
+
+Sample 169: -32277
+
+Sample 170: 32282
+
+Sample 171: -32282
+
+Sample 172: 32292
+
+Sample 173: -32293
+
+Sample 174: 32302
+
+Sample 175: -32302
+
+Sample 176: 32304
+
+Sample 177: -32304
+
+Sample 178: 32303
+
+Sample 179: -32303
+
+Sample 180: 32293
+
+Sample 181: -32293
+
+Sample 182: 32282
+
+Sample 183: -32282
+
+Sample 184: 32277
+
+Sample 185: -32277
+
+Sample 186: 32282
+
+Sample 187: -32282
+
+Sample 188: 32293
+
+Sample 189: -32293
+
+Sample 190: 32302
+
+Sample 191: -32302
+
+Sample 192: 32304
+
+Sample 193: -32304
+
+Sample 194: 32303
+
+Sample 195: -32303
+
+Sample 196: 32294
+
+Sample 197: -32293
+
+Sample 198: 32282
+
+Sample 199: -32283
+
+Sample 200: 32277
+
+Sample 201: -32277
+
+Sample 202: 32285
+
+Sample 203: -32283
+
+Sample 204: 32291
+
+Sample 205: -32293
+
+Sample 206: 32302
+
+Sample 207: -32302
+
+Sample 208: 32304
+
+Sample 209: -32304
+
+Sample 210: 32303
+
+Sample 211: -32303
+
+Sample 212: 32293
+
+Sample 213: -32293
+
+Sample 214: 32282
+
+Sample 215: -32283
+
+Sample 216: 32280
+
+Sample 217: -32277
+
+Sample 218: 32282
+
+Sample 219: -32283
+
+Sample 220: 32293
+
+Sample 221: -32293
+
+Sample 222: 32302
+
+Sample 223: -32302
+
+Sample 224: 32304
+
+Sample 225: -32304
+
+Sample 226: 32303
+
+Sample 227: -32303
+
+Sample 228: 32292
+
+Sample 229: -32292
+
+Sample 230: 32284
+
+Sample 231: -32283
+
+Sample 232: 32277
+
+Sample 233: -32277
+
+Sample 234: 32283
+
+Sample 235: -32283
+
+Sample 236: 32293
+
+Sample 237: -32293
+
+Sample 238: 32302
+
+Sample 239: -32302
+
+Sample 240: 32304
+
+Sample 241: -32304
+
+Sample 242: 32303
+
+Sample 243: -32303
+
+Sample 244: 32293
+
+Sample 245: -32293
+
+Sample 246: 32283
+
+Sample 247: -32284
+
+Sample 248: 32277
+
+Sample 249: -32277
+
+Sample 250: 32283
+
+Sample 251: -32283
+
+Sample 252: 32293
+
+Sample 253: -32292
+
+Sample 254: 32302
+
+Sample 255: -32302
+
+Sample 256: 32304
+
+Sample 257: -32304
+
+Sample 258: 32303
+
+Sample 259: -32303
+
+Sample 260: 32292
+
+Sample 261: -32291
+
+Sample 262: 32283
+
+Sample 263: -32282
+
+Sample 264: 32277
+
+Sample 265: -32277
+
+Sample 266: 32284
+
+Sample 267: -32285
+
+Sample 268: 32293
+
+Sample 269: -32295
+
+Sample 270: 32303
+
+Sample 271: -32303
+
+Sample 272: 32305
+
+Sample 273: -32305
+
+Sample 274: 32305
+
+Sample 275: -32307
+
+Sample 276: 32295
+
+Sample 277: -32297
+
+Sample 278: 32286
+
+Sample 279: -32286
+
+Sample 280: 32281
+
+Sample 281: -32278
+
+Sample 282: 32283
+
+Sample 283: -32282
+
+Sample 284: 32290
+
+Sample 285: -32291
+
+Sample 286: 32298
+
+Sample 287: -32299
+
+Sample 288: 32301
+
+Sample 289: -32300
+
+Sample 290: 32300
+
+Sample 291: -32298
+
+Sample 292: 32290
+
+Sample 293: -32289
+
+Sample 294: 32282
+
+Sample 295: -32282
+
+Sample 296: 32279
+
+Sample 297: -32279
+
+Sample 298: 32287
+
+Sample 299: -32287
+
+Sample 300: 32297
+
+Sample 301: -32299
+
+Sample 302: 32306
+
+Sample 303: -32308
+
+Sample 304: 32307
+
+Sample 305: -32309
+
+Sample 306: 32302
+
+Sample 307: -32304
+
+Sample 308: 32286
+
+Sample 309: -32286
+
+Sample 310: 32270
+
+Sample 311: -32270
+
+Sample 312: 32257
+
+Sample 313: -32256
+
+Sample 314: 32250
+
+Sample 315: -32253
+
+Sample 316: 32255
+
+Sample 317: -32255
+
+Sample 318: 32261
+
+Sample 319: -32262
+
+Sample 320: 32263
+
+Sample 321: -32264
+
+Sample 322: 32264
+
+Sample 323: -32267
+
+Sample 324: 32258
+
+Sample 325: -32261
+
+Sample 326: 32260
+
+Sample 327: -32260
+
+Sample 328: 32270
+
+Sample 329: -32270
+
+Sample 330: 32294
+
+Sample 331: -32293
+
+Sample 332: 32326
+
+Sample 333: -32325
+
+Sample 334: 32359
+
+Sample 335: -32356
+
+Sample 336: 32387
+
+Sample 337: -32381
+
+Sample 338: 32414
+
+Sample 339: -32409
+
+Sample 340: 32438
+
+Sample 341: -32440
+
+Sample 342: 32480
+
+Sample 343: -32475
+
+Sample 344: 32517
+
+Sample 345: -32513
+
+Sample 346: 32556
+
+Sample 347: -32555
+
+Sample 348: 32628
+
+Sample 349: -32591
+
+Sample 350: 32665
+
+Sample 351: -32650
+
+Sample 352: 32649
+
+Sample 353: -32680
+
+Sample 354: 32636
+
+Sample 355: -32649
+
+Sample 356: 32586
+
+Sample 357: -32610
+
+Sample 358: 32537
+
+Sample 359: -32562
+
+Sample 360: 32519
+
+Sample 361: -32511
+
+Sample 362: 32499
+
+Sample 363: -32465
+
+Sample 364: 32419
+
+Sample 365: -32382
+
+Sample 366: 32283
+
+Sample 367: -32256
+
+Sample 368: 32139
+
+Sample 369: -32056
+
+Sample 370: 31988
+
+Sample 371: -32093
+
+Sample 372: 32047
+
+Sample 373: -32007
+
+Sample 374: 32062
+
+Sample 375: -32126
+
+Sample 376: 32143
+
+Sample 377: -32187
+
+Sample 378: 32214
+
+Sample 379: -32308
+
+Sample 380: 32408
+
+Sample 381: -32468
+
+Sample 382: 32442
+
+Sample 383: -32356
+
+Sample 384: 32103
+
+Sample 385: -32389
+
+Sample 386: 31857
+
+Sample 387: -32068
+
+Sample 388: 31686
+
+Sample 389: -31892
+
+Sample 390: 31657
+
+Sample 391: -31976
+
+Sample 392: 32143
+
+Sample 393: -32261
+
+Sample 394: 32767
+
+Sample 395: -32385
+
+Sample 396: 32767
+
+Sample 397: -32545
+
+Sample 398: 32767
+
+Sample 399: -32543
+
+Sample 400: 32722
+
+Sample 401: -31840
+
+Sample 402: 31838
+
+Sample 403: -32740
+
+Sample 404: 32125
+
+Sample 405: -32768
+
+Sample 406: 32767
+
+Sample 407: -32768
+
+Sample 408: 32767
+
+Sample 409: -32752
+
+Sample 410: 32767
+
+Sample 411: -32200
+
+Sample 412: 30543
+
+Sample 413: -32768
+
+Sample 414: 32767
+
+Sample 415: -29856
+
+Sample 416: 32405
+
+Sample 417: -32768
+
+Sample 418: 32767
+
+Sample 419: -32768
+
+Sample 420: 32710
+
+Sample 421: -32768
+
+Sample 422: 31195
+
+Sample 423: -32768
+
+Sample 424: 32767
+
+Sample 425: -32046
+
+Sample 426: 32767
+
+Sample 427: -32224
+
+Sample 428: 32767
+
+Sample 429: -32768
+
+Sample 430: 32767
+
+Sample 431: -32147
+
+Sample 432: 31406
+
+Sample 433: -32199
+
+Sample 434: 30318
+
+Sample 435: -31101
+
+Sample 436: 31295
+
+Sample 437: 103
+
+Sample 438: -1109
+
+Sample 439: -267
+
+Sample 440: 915
+
+Sample 441: 1585
+
+Sample 442: -629
+
+Sample 443: -2773
+
+Sample 444: 2221
+
+Sample 445: 370
+
+Sample 446: 377
+
+Sample 447: 951
+
+Sample 448: 141
+
+Sample 449: 1703
+
+Sample 450: -1482
+
+Sample 451: -1208
+
+Sample 452: -462
+
+Sample 453: 903
+
+Sample 454: -77
+
+Sample 455: -230
+
+Sample 456: 1646
+
+Sample 457: 133
+
+Sample 458: 179
+
+Sample 459: -917
+
+Sample 460: 451
+
+Sample 461: -246
+
+Sample 462: -213
+
+Sample 463: -1322
+
+Sample 464: 261
+
+Sample 465: 537
+
+Sample 466: -183
+
+Sample 467: 746
+
+Sample 468: -286
+
+Sample 469: -637
+
+Sample 470: -106
+
+Sample 471: -451
+
+Sample 472: -190
+
+Sample 473: 484
+
+Sample 474: -256
+
+Sample 475: 63
+
+Sample 476: 1607
+
+Sample 477: -205
+
+Sample 478: 1155
+
+Sample 479: -1066
+
+Sample 480: 892
+
+Sample 481: -738
+
+Sample 482: 442
+
+Sample 483: -726
+
+Sample 484: 212
+
+Sample 485: -173
+
+Sample 486: -78
+
+Sample 487: -9
+
+Sample 488: -43
+
+Sample 489: 246
+
+Sample 490: -251
+
+Sample 491: 208
+
+Sample 492: -192
+
+Sample 493: 222
+
+Sample 494: -149
+
+Sample 495: -1
+
+Sample 496: 7
+
+Sample 497: 64
+
+Sample 498: 56
+
+Sample 499: -27
+
+Sample 500: 102
+
+Sample 501: -22
+
+Sample 502: -29
+
+Sample 503: 6
+
+Sample 504: -25
+
+Sample 505: 41
+
+Sample 506: -2
+
+Sample 507: -23
+
+Sample 508: -79
+
+Sample 509: -44
+
+Sample 510: -62
+
+Sample 511: 84
+
+Sample 512: -47
+
+Sample 513: 70
+
+Sample 514: -54
+
+Sample 515: 20
+
+Sample 516: -38
+
+Sample 517: 42
+
+Sample 518: -35
+
+Sample 519: 29
+
+Sample 520: -13
+
+Sample 521: 24
+
+Sample 522: -7
+
+Sample 523: 4
+
+Sample 524: 9
+
+Sample 525: -8
+
+Sample 526: 18
+
+Sample 527: -21
+
+Sample 528: 24
+
+Sample 529: -24
+
+Sample 530: 15
+
+Sample 531: -15
+
+Sample 532: 6
+
+Sample 533: -6
+
+Sample 534: 0
+
+Sample 535: 0
+
+Sample 536: 0
+
+Sample 537: 0
+
+Sample 538: 0
+
+Sample 539: 0
+
+Sample 540: 1
+
+Sample 541: -1
+
+Sample 542: 1
+
+Sample 543: -1
+
+Sample 544: 0
+
+Sample 545: 0
+
+Sample 546: 0
+
+Sample 547: 0
+
+Sample 548: 0
+
+Sample 549: 0
+
+Sample 550: 0
+
+Sample 551: 0
+
+Sample 552: 0
+
+Sample 553: 0
+
+Sample 554: 0
+
+Sample 555: 0
+
+Sample 556: 0
+
+Sample 557: 0
+
+Sample 558: 0
+
+Sample 559: 0
+
+Sample 560: 0
+
+Sample 561: 0
+
+Sample 562: 0
+
+Sample 563: 0
+
+Sample 564: 0
+
+Sample 565: 0
+
+Sample 566: 0
+
+Sample 567: 0
+
+Sample 568: 0
+
+Sample 569: 0
+
+Sample 570: 0
+
+Sample 571: 0
+
+Sample 572: 0
+
+Sample 573: 0
+
+Sample 574: 0
+
+Sample 575: 0
+
+Sample 576: 0
+
+Sample 577: 0
+
+Sample 578: 0
+
+Sample 579: 0
+
+Sample 580: 0
+
+Sample 581: 0
+
+Sample 582: 0
+
+Sample 583: 0
+
+Sample 584: 0
+
+Sample 585: 0
+
+Sample 586: 0
+
+Sample 587: 0
+
+Sample 588: 0
+
+Sample 589: 0
+
+Sample 590: 0
+
+Sample 591: 0
+
+Sample 592: 0
+
+Sample 593: 0
+
+Sample 594: 0
+
+Sample 595: 0
+
+Sample 596: 0
+
+Sample 597: 0
+
+Sample 598: 0
+
+Sample 599: 0
+
+Sample 600: 0
+
+Sample 601: 0
+
+Sample 602: 0
+
+Sample 603: 0
+
+Sample 604: 0
+
+Sample 605: 0
+
+Sample 606: 0
+
+Sample 607: 0
+
+Sample 608: 0
+
+Sample 609: 0
+
+Sample 610: 0
+
+Sample 611: 0
+
+Sample 612: 0
+
+Sample 613: 0
+
+Sample 614: 0
+
+Sample 615: -3
+
+Sample 616: 0
+
+Sample 617: 0
+
+Sample 618: 0
+
+Sample 619: 0
+
+Sample 620: 0
+
+Sample 621: 0
+
+Sample 622: 0
+
+Sample 623: 0
+
+Sample 624: 0
+
+Sample 625: 0
+
+Sample 626: 0
+
+Sample 627: 0
+
+Sample 628: 0
+
+Sample 629: 0
+
+Sample 630: 0
+
+Sample 631: 0
+
+Sample 632: 0
+
+Sample 633: 2
+
+Sample 634: 0
+
+Sample 635: 0
+
+Sample 636: 0
+
+Sample 637: 0
+
+Sample 638: 0
+
+Sample 639: 0
+
+Sample 640: 0
+
+Sample 641: 0
+
+Sample 642: 0
+
+Sample 643: 0
+
+Sample 644: 0
+
+Sample 645: 0
+
+Sample 646: 0
+
+Sample 647: 0
+
+Sample 648: 0
+
+Sample 649: 0
+
+Sample 650: 0
+
+Sample 651: 0
+
+Sample 652: 0
+
+Sample 653: 0
+
+Sample 654: 0
+
+Sample 655: 0
+
+Sample 656: 0
+
+Sample 657: 0
+
+Sample 658: 0
+
+Sample 659: 0
+
+Sample 660: 0
+
+Sample 661: 0
+
+Sample 662: 0
+
+Sample 663: 1
+
+Sample 664: 0
+
+Sample 665: 0
+
+Sample 666: 0
+
+Sample 667: -1
+
+Sample 668: 0
+
+Sample 669: 0
+
+Sample 670: 0
+
+Sample 671: 0
+
+Sample 672: 0
+
+Sample 673: 0
+
+Sample 674: 0
+
+Sample 675: 1
+
+Sample 676: 0
+
+Sample 677: -1
+
+Sample 678: 0
+
+Sample 679: 1
+
+Sample 680: 0
+
+Sample 681: 0
+
+Sample 682: 0
+
+Sample 683: 1
+
+Sample 684: 0
+
+Sample 685: -1
+
+Sample 686: 0
+
+Sample 687: 1
+
+Sample 688: 0
+
+Sample 689: 0
+
+Sample 690: 0
+
+Sample 691: 0
+
+Sample 692: 0
+
+Sample 693: 0
+
+Sample 694: 0
+
+Sample 695: 0
+
+Sample 696: 0
+
+Sample 697: 0
+
+Sample 698: 0
+
+Sample 699: 0
+
+Sample 700: 0
+
+Sample 701: 0
+
+Sample 702: 0
+
+Sample 703: 0
+
+Sample 704: 0
+
+Sample 705: 0
+
+Sample 706: 0
+
+Sample 707: 0
+
+Sample 708: 0
+
+Sample 709: 0
+
+Sample 710: 0
+
+Sample 711: 0
+
+Sample 712: 0
+
+Sample 713: 0
+
+Sample 714: 0
+
+Sample 715: 0
+
+Sample 716: 0
+
+Sample 717: 0
+
+Sample 718: 0
+
+Sample 719: 0
+
+Sample 720: 0
+
+Sample 721: 0
+
+Sample 722: 0
+
+Sample 723: 0
+
+Sample 724: 0
+
+Sample 725: 0
+
+Sample 726: -1
+
+Sample 727: 0
+
+Sample 728: 0
+
+Sample 729: 0
+
+Sample 730: -1
+
+Sample 731: 0
+
+Sample 732: 0
+
+Sample 733: 0
+
+Sample 734: 0
+
+Sample 735: 0
+
+Sample 736: 0
+
+Sample 737: 0
+
+Sample 738: 0
+
+Sample 739: 0
+
+Sample 740: 0
+
+Sample 741: 0
+
+Sample 742: 0
+
+Sample 743: 0
+
+Sample 744: 0
+
+Sample 745: 0
+
+Sample 746: 0
+
+Sample 747: 0
+
+Sample 748: 0
+
+Sample 749: 0
+
+Sample 750: 0
+
+Sample 751: 0
+
+Sample 752: 0
+
+Sample 753: -1
+
+Sample 754: 0
+
+Sample 755: 0
+
+Sample 756: -1
+
+Sample 757: 0
+
+Sample 758: 0
+
+Sample 759: 0
+
+Sample 760: 0
+
+Sample 761: 0
+
+Sample 762: 0
+
+Sample 763: 0
+
+Sample 764: -1
+
+Sample 765: 0
+
+Sample 766: 0
+
+Sample 767: 0
+
+Sample 768: 0
+
+Sample 769: 2
+
+Sample 770: 0
+
+Sample 771: 0
+
+Sample 772: 0
+
+Sample 773: 0
+
+Sample 774: 0
+
+Sample 775: 0
+
+Sample 776: 0
+
+Sample 777: 0
+
+Sample 778: 0
+
+Sample 779: 0
+
+Sample 780: 0
+
+Sample 781: 0
+
+Sample 782: 0
+
+Sample 783: 0
+
+Sample 784: 0
+
+Sample 785: 1
+
+Sample 786: 0
+
+Sample 787: 0
+
+Sample 788: 0
+
+Sample 789: 0
+
+Sample 790: 0
+
+Sample 791: 0
+
+Sample 792: 0
+
+Sample 793: 0
+
+Sample 794: 0
+
+Sample 795: 0
+
+Sample 796: 0
+
+Sample 797: 0
+
+Sample 798: 0
+
+Sample 799: 0
+
+Sample 800: 0
+
+Sample 801: 0
+
+Sample 802: 0
+
+Sample 803: 0
+
+Sample 804: 0
+
+Sample 805: 0
+
+Sample 806: 0
+
+Sample 807: 0
+
+Sample 808: 0
+
+Sample 809: 0
+
+Sample 810: 0
+
+Sample 811: 0
+
+Sample 812: 0
+
+Sample 813: 0
+
+Sample 814: 0
+
+Sample 815: 0
+
+Sample 816: 0
+
+Sample 817: 0
+
+Sample 818: 0
+
+Sample 819: 0
+
+Sample 820: 0
+
+Sample 821: 0
+
+Sample 822: 0
+
+Sample 823: 0
+
+Sample 824: 0
+
+Sample 825: 0
+
+Sample 826: 0
+
+Sample 827: 0
+
+Sample 828: 0
+
+Sample 829: 0
+
+Sample 830: 0
+
+Sample 831: 0
+
+Sample 832: 0
+
+Sample 833: 0
+
+Sample 834: 0
+
+Sample 835: 0
+
+Sample 836: 0
+
+Sample 837: 0
+
+Sample 838: 0
+
+Sample 839: 0
+
+Sample 840: 0
+
+Sample 841: 0
+
+Sample 842: 0
+
+Sample 843: 0
+
+Sample 844: 0
+
+Sample 845: 0
+
+Sample 846: 0
+
+Sample 847: 0
+
+Sample 848: 0
+
+Sample 849: 0
+
+Sample 850: 0
+
+Sample 851: 0
+
+Sample 852: 0
+
+Sample 853: 0
+
+Sample 854: -1
+
+Sample 855: 0
+
+Sample 856: 0
+
+Sample 857: 0
+
+Sample 858: -1
+
+Sample 859: 0
+
+Sample 860: 0
+
+Sample 861: 0
+
+Sample 862: 0
+
+Sample 863: 0
+
+Sample 864: 0
+
+Sample 865: 0
+
+Sample 866: 0
+
+Sample 867: 0
+
+Sample 868: 0
+
+Sample 869: 0
+
+Sample 870: 0
+
+Sample 871: 0
+
+Sample 872: 0
+
+Sample 873: 0
+
+Sample 874: 0
+
+Sample 875: 0
+
+Sample 876: 0
+
+Sample 877: 0
+
+Sample 878: 0
+
+Sample 879: 0
+
+Sample 880: 0
+
+Sample 881: 0
+
+Sample 882: 0
+
+Sample 883: 0
+
+Sample 884: 0
+
+Sample 885: 0
+
+Sample 886: 0
+
+Sample 887: 0
+
+Sample 888: 0
+
+Sample 889: 0
+
+Sample 890: 0
+
+Sample 891: 0
+
+Sample 892: 0
+
+Sample 893: 0
+
+Sample 894: 0
+
+Sample 895: 0
+
+Sample 896: 0
+
+Sample 897: 0
+
+Sample 898: 0
+
+Sample 899: 0
+
+Sample 900: -1
+
+Sample 901: 0
+
+Sample 902: 0
+
+Sample 903: 0
+
+Sample 904: 0
+
+Sample 905: 0
+
+Sample 906: 0
+
+Sample 907: 0
+
+Sample 908: -1
+
+Sample 909: 0
+
+Sample 910: 0
+
+Sample 911: 0
+
+Sample 912: 0
+
+Sample 913: 0
+
+Sample 914: 0
+
+Sample 915: 0
+
+Sample 916: 0
+
+Sample 917: 0
+
+Sample 918: 0
+
+Sample 919: 0
+
+Sample 920: 0
+
+Sample 921: 0
+
+Sample 922: 0
+
+Sample 923: 0
+
+Sample 924: 0
+
+Sample 925: 0
+
+Sample 926: 0
+
+Sample 927: 0
+
+Sample 928: 0
+
+Sample 929: 0
+
+Sample 930: 0
+
+Sample 931: 0
+
+Sample 932: 1
+
+Sample 933: 0
+
+Sample 934: 0
+
+Sample 935: 0
+
+Sample 936: 0
+
+Sample 937: 0
+
+Sample 938: 0
+
+Sample 939: 0
+
+Sample 940: 1
+
+Sample 941: 0
+
+Sample 942: 0
+
+Sample 943: 0
+
+Sample 944: 0
+
+Sample 945: 0
+
+Sample 946: 0
+
+Sample 947: 0
+
+Sample 948: 0
+
+Sample 949: 0
+
+Sample 950: 0
+
+Sample 951: 0
+
+Sample 952: 0
+
+Sample 953: 0
+
+Sample 954: 0
+
+Sample 955: 0
+
+Sample 956: 0
+
+Sample 957: 0
+
+Sample 958: 0
+
+Sample 959: 0
+
+Sample 960: 0
+
+Sample 961: 0
+
+Sample 962: 0
+
+Sample 963: 0
+
+Sample 964: 0
+
+Sample 965: 0
+
+Sample 966: -1
+
+Sample 967: 0
+
+Sample 968: 0
+
+Sample 969: 0
+
+Sample 970: -1
+
+Sample 971: 0
+
+Sample 972: 0
+
+Sample 973: 0
+
+Sample 974: 0
+
+Sample 975: 0
+
+Sample 976: 0
+
+Sample 977: 0
+
+Sample 978: 0
+
+Sample 979: 0
+
+Sample 980: 0
+
+Sample 981: 0
+
+Sample 982: 0
+
+Sample 983: 0
+
+Sample 984: 0
+
+Sample 985: 0
+
+Sample 986: 0
+
+Sample 987: 0
+
+Sample 988: 0
+
+Sample 989: 0
+
+Sample 990: 0
+
+Sample 991: 0
+
+Sample 992: 0
+
+Sample 993: 0
+
+Sample 994: 0
+
+Sample 995: 0
+
+Sample 996: 0
+
+Sample 997: 0
+
+Sample 998: 0
+
+Sample 999: 0
+
+Sample 1000: 0
+
+Sample 1001: 0
+
+Sample 1002: 0
+
+Sample 1003: 0
+
+Sample 1004: 0
+
+Sample 1005: 0
+
+Sample 1006: 0
+
+Sample 1007: 0
+
+Sample 1008: 0
+
+Sample 1009: 0
+
+Sample 1010: 0
+
+Sample 1011: 0
+
+Sample 1012: 0
+
+Sample 1013: 0
+
+Sample 1014: 0
+
+Sample 1015: 1
+
+Sample 1016: 0
+
+Sample 1017: 0
+
+Sample 1018: 0
+
+Sample 1019: -1
+
+Sample 1020: 0
+
+Sample 1021: 0
+
+Sample 1022: 0
+
+Sample 1023: 0
+
+Sample 1024: 0
+
+Sample 1025: 0
+
+Sample 1026: 0
+
+Sample 1027: 0
+
+Sample 1028: 0
+
+Sample 1029: 0
+
+Sample 1030: 0
+
+Sample 1031: 0
+
+Sample 1032: 0
+
+Sample 1033: 0
+
+Sample 1034: 0
+
+Sample 1035: 0
+
+Sample 1036: 0
+
+Sample 1037: 0
+
+Sample 1038: 0
+
+Sample 1039: 0
+
+Sample 1040: 0
+
+Sample 1041: 0
+
+Sample 1042: 0
+
+Sample 1043: 0
+
+Sample 1044: 0
+
+Sample 1045: 0
+
+Sample 1046: 0
+
+Sample 1047: 0
+
+Sample 1048: 0
+
+Sample 1049: 0
+
+Sample 1050: 0
+
+Sample 1051: 0
+
+Sample 1052: 0
+
+Sample 1053: 0
+
+Sample 1054: 0
+
+Sample 1055: 0
+
+Sample 1056: 0
+
+Sample 1057: 0
+
+Sample 1058: 0
+
+Sample 1059: 0
+
+Sample 1060: 0
+
+Sample 1061: 0
+
+Sample 1062: 0
+
+Sample 1063: 1
+
+Sample 1064: 0
+
+Sample 1065: 0
+
+Sample 1066: 0
+
+Sample 1067: 1
+
+Sample 1068: 0
+
+Sample 1069: 0
+
+Sample 1070: 0
+
+Sample 1071: 0
+
+Sample 1072: 0
+
+Sample 1073: 0
+
+Sample 1074: 0
+
+Sample 1075: 0
+
+Sample 1076: 0
+
+Sample 1077: 0
+
+Sample 1078: 0
+
+Sample 1079: 0
+
+Sample 1080: 0
+
+Sample 1081: 0
+
+Sample 1082: 0
+
+Sample 1083: 0
+
+Sample 1084: 0
+
+Sample 1085: 0
+
+Sample 1086: 0
+
+Sample 1087: 0
+
+Sample 1088: 0
+
+Sample 1089: 0
+
+Sample 1090: 0
+
+Sample 1091: 0
+
+Sample 1092: 0
+
+Sample 1093: 0
+
+Sample 1094: 0
+
+Sample 1095: 0
+
+Sample 1096: 0
+
+Sample 1097: 0
+
+Sample 1098: 0
+
+Sample 1099: 0
+
+Sample 1100: 0
+
+Sample 1101: 0
+
+Sample 1102: 0
+
+Sample 1103: 0
+
+Sample 1104: 0
+
+Sample 1105: 0
+
+Sample 1106: 0
+
+Sample 1107: 0
+
+Sample 1108: 0
+
+Sample 1109: 0
+
+Sample 1110: 1
+
+Sample 1111: 0
+
+Sample 1112: 0
+
+Sample 1113: 0
+
+Sample 1114: -1
+
+Sample 1115: 0
+
+Sample 1116: 0
+
+Sample 1117: 0
+
+Sample 1118: 0
+
+Sample 1119: 0
+
+Sample 1120: 0
+
+Sample 1121: 0
+
+Sample 1122: 1
+
+Sample 1123: 0
+
+Sample 1124: 0
+
+Sample 1125: 0
+
+Sample 1126: -1
+
+Sample 1127: 0
+
+Sample 1128: 0
+
+Sample 1129: 0
+
+Sample 1130: -1
+
+Sample 1131: 0
+
+Sample 1132: 0
+
+Sample 1133: 0
+
+Sample 1134: 1
+
+Sample 1135: 0
+
+Sample 1136: 0
+
+Sample 1137: 0
+
+Sample 1138: 0
+
+Sample 1139: 0
+
+Sample 1140: -1
+
+Sample 1141: 0
+
+Sample 1142: 0
+
+Sample 1143: 0
+
+Sample 1144: 0
+
+Sample 1145: 0
+
+Sample 1146: 0
+
+Sample 1147: 0
+
+Sample 1148: -1
+
+Sample 1149: 0
+
+Sample 1150: 0
+
+Sample 1151: 0
+
+Sample 1152: 0
+
+Sample 1153: 0
+
+Sample 1154: 0
+
+Sample 1155: 0
+
+Sample 1156: 0
+
+Sample 1157: 0
+
+Sample 1158: 0
+
+Sample 1159: 0
+
+Sample 1160: 0
+
+Sample 1161: 0
+
+Sample 1162: 0
+
+Sample 1163: 0
+
+Sample 1164: 0
+
+Sample 1165: 0
+
+Sample 1166: 0
+
+Sample 1167: 0
+
+Sample 1168: 0
+
+Sample 1169: 0
+
+Sample 1170: 0
+
+Sample 1171: 0
+
+Sample 1172: 0
+
+Sample 1173: 0
+
+Sample 1174: 0
+
+Sample 1175: 0
+
+Sample 1176: 0
+
+Sample 1177: 0
+
+Sample 1178: 0
+
+Sample 1179: 0
+
+Sample 1180: 0
+
+Sample 1181: 0
+
+Sample 1182: 0
+
+Sample 1183: 0
+
+Sample 1184: 0
+
+Sample 1185: 0
+
+Sample 1186: 0
+
+Sample 1187: 0
+
+Sample 1188: 0
+
+Sample 1189: -1
+
+Sample 1190: 0
+
+Sample 1191: -1
+
+Sample 1192: 0
+
+Sample 1193: 0
+
+Sample 1194: 0
+
+Sample 1195: -1
+
+Sample 1196: 0
+
+Sample 1197: -1
+
+Sample 1198: 0
+
+Sample 1199: 0
+
+Sample 1200: 0
+
+Sample 1201: 0
+
+Sample 1202: 0
+
+Sample 1203: 0
+
+Sample 1204: 0
+
+Sample 1205: 0
+
+Sample 1206: 1
+
+Sample 1207: 0
+
+Sample 1208: 0
+
+Sample 1209: 0
+
+Sample 1210: 1
+
+Sample 1211: 0
+
+Sample 1212: 0
+
+Sample 1213: 0
+
+Sample 1214: 0
+
+Sample 1215: 0
+
+Sample 1216: 0
+
+Sample 1217: 0
+
+Sample 1218: 0
+
+Sample 1219: 0
+
+Sample 1220: 0
+
+Sample 1221: 0
+
+Sample 1222: -1
+
+Sample 1223: 0
+
+Sample 1224: 0
+
+Sample 1225: 0
+
+Sample 1226: -1
+
+Sample 1227: 0
+
+Sample 1228: 0
+
+Sample 1229: 0
+
+Sample 1230: 0
+
+Sample 1231: 0
+
+Sample 1232: 0
+
+Sample 1233: 0
+
+Sample 1234: 0
+
+Sample 1235: 0
+
+Sample 1236: 0
+
+Sample 1237: 0
+
+Sample 1238: 0
+
+Sample 1239: 1
+
+Sample 1240: 0
+
+Sample 1241: 0
+
+Sample 1242: 0
+
+Sample 1243: -1
+
+Sample 1244: 0
+
+Sample 1245: 0
+
+Sample 1246: 0
+
+Sample 1247: 0
+
+Sample 1248: 0
+
+Sample 1249: 0
+
+Sample 1250: 0
+
+Sample 1251: 0
+
+Sample 1252: 0
+
+Sample 1253: 0
+
+Sample 1254: 0
+
+Sample 1255: 0
+
+Sample 1256: 0
+
+Sample 1257: 0
+
+Sample 1258: 0
+
+Sample 1259: 0
+
+Sample 1260: 0
+
+Sample 1261: 0
+
+Sample 1262: 0
+
+Sample 1263: 0
+
+Sample 1264: 0
+
+Sample 1265: 0
+
+Sample 1266: 0
+
+Sample 1267: 0
+
+Sample 1268: 0
+
+Sample 1269: 0
+
+Sample 1270: 0
+
+Sample 1271: 0
+
+Sample 1272: 0
+
+Sample 1273: 0
+
+Sample 1274: 0
+
+Sample 1275: 0
+
+Sample 1276: 0
+
+Sample 1277: 0
+
+Sample 1278: 0
+
+Sample 1279: 0
+
+stream received
+
+Stream received:
+
+Sample 0: 0
+
+Sample 1: 0
+
+Sample 2: 0
+
+Sample 3: 0
+
+Sample 4: 0
+
+Sample 5: 0
+
+Sample 6: 0
+
+Sample 7: 0
+
+Sample 8: 0
+
+Sample 9: 0
+
+Sample 10: 0
+
+Sample 11: 0
+
+Sample 12: 0
+
+Sample 13: 0
+
+Sample 14: 0
+
+Sample 15: 0
+
+Sample 16: 0
+
+Sample 17: 0
+
+Sample 18: 0
+
+Sample 19: 0
+
+Sample 20: 0
+
+Sample 21: 1
+
+Sample 22: 0
+
+Sample 23: 0
+
+Sample 24: 0
+
+Sample 25: 0
+
+Sample 26: 0
+
+Sample 27: 0
+
+Sample 28: 0
+
+Sample 29: -2
+
+Sample 30: 0
+
+Sample 31: 0
+
+Sample 32: 0
+
+Sample 33: 0
+
+Sample 34: 0
+
+Sample 35: 0
+
+Sample 36: 0
+
+Sample 37: 0
+
+Sample 38: 0
+
+Sample 39: 0
+
+Sample 40: 0
+
+Sample 41: 0
+
+Sample 42: 0
+
+Sample 43: 0
+
+Sample 44: 0
+
+Sample 45: 0
+
+Sample 46: 0
+
+Sample 47: 0
+
+Sample 48: 0
+
+Sample 49: 0
+
+Sample 50: 0
+
+Sample 51: 0
+
+Sample 52: 0
+
+Sample 53: 0
+
+Sample 54: 0
+
+Sample 55: 0
+
+Sample 56: 0
+
+Sample 57: 0
+
+Sample 58: 0
+
+Sample 59: 0
+
+Sample 60: 0
+
+Sample 61: 0
+
+Sample 62: 0
+
+Sample 63: 0
+
+Sample 64: 0
+
+Sample 65: 0
+
+Sample 66: 0
+
+Sample 67: 0
+
+Sample 68: 0
+
+Sample 69: 0
+
+Sample 70: 0
+
+Sample 71: 0
+
+Sample 72: 0
+
+Sample 73: 0
+
+Sample 74: 0
+
+Sample 75: 0
+
+Sample 76: 0
+
+Sample 77: 0
+
+Sample 78: 0
+
+Sample 79: 0
+
+Sample 80: 0
+
+Sample 81: 0
+
+Sample 82: 0
+
+Sample 83: 0
+
+Sample 84: 0
+
+Sample 85: 0
+
+Sample 86: -1
+
+Sample 87: 0
+
+Sample 88: 0
+
+Sample 89: 0
+
+Sample 90: -1
+
+Sample 91: 0
+
+Sample 92: 0
+
+Sample 93: 0
+
+Sample 94: 0
+
+Sample 95: 0
+
+Sample 96: 0
+
+Sample 97: 0
+
+Sample 98: 0
+
+Sample 99: 0
+
+Sample 100: 0
+
+Sample 101: 0
+
+Sample 102: 0
+
+Sample 103: 0
+
+Sample 104: 0
+
+Sample 105: 0
+
+Sample 106: 0
+
+Sample 107: 0
+
+Sample 108: 0
+
+Sample 109: 0
+
+Sample 110: 0
+
+Sample 111: 0
+
+Sample 112: 0
+
+Sample 113: 0
+
+Sample 114: 0
+
+Sample 115: 0
+
+Sample 116: 0
+
+Sample 117: 0
+
+Sample 118: 0
+
+Sample 119: 0
+
+Sample 120: 0
+
+Sample 121: 0
+
+Sample 122: 0
+
+Sample 123: 0
+
+Sample 124: 0
+
+Sample 125: 0
+
+Sample 126: 0
+
+Sample 127: 0
+
+Sample 128: 0
+
+Sample 129: 0
+
+Sample 130: 0
+
+Sample 131: 0
+
+Sample 132: 0
+
+Sample 133: 0
+
+Sample 134: 0
+
+Sample 135: 0
+
+Sample 136: 0
+
+Sample 137: 0
+
+Sample 138: 0
+
+Sample 139: 0
+
+Sample 140: 0
+
+Sample 141: 0
+
+Sample 142: 0
+
+Sample 143: 0
+
+Sample 144: 0
+
+Sample 145: 0
+
+Sample 146: 0
+
+Sample 147: 0
+
+Sample 148: 0
+
+Sample 149: 0
+
+Sample 150: 0
+
+Sample 151: 0
+
+Sample 152: 0
+
+Sample 153: 0
+
+Sample 154: 0
+
+Sample 155: 0
+
+Sample 156: 0
+
+Sample 157: 0
+
+Sample 158: 0
+
+Sample 159: 0
+
+Sample 160: 0
+
+Sample 161: 0
+
+Sample 162: 0
+
+Sample 163: 0
+
+Sample 164: 0
+
+Sample 165: 0
+
+Sample 166: 0
+
+Sample 167: 1
+
+Sample 168: 0
+
+Sample 169: 0
+
+Sample 170: 0
+
+Sample 171: 1
+
+Sample 172: 0
+
+Sample 173: 0
+
+Sample 174: 0
+
+Sample 175: 0
+
+Sample 176: 0
+
+Sample 177: 0
+
+Sample 178: 0
+
+Sample 179: 0
+
+Sample 180: 0
+
+Sample 181: 0
+
+Sample 182: 0
+
+Sample 183: 0
+
+Sample 184: 0
+
+Sample 185: 0
+
+Sample 186: 0
+
+Sample 187: 0
+
+Sample 188: 0
+
+Sample 189: 0
+
+Sample 190: 0
+
+Sample 191: 0
+
+Sample 192: 0
+
+Sample 193: 0
+
+Sample 194: 0
+
+Sample 195: 0
+
+Sample 196: 0
+
+Sample 197: 0
+
+Sample 198: 0
+
+Sample 199: 0
+
+Sample 200: 0
+
+Sample 201: 0
+
+Sample 202: 0
+
+Sample 203: 0
+
+Sample 204: 0
+
+Sample 205: 0
+
+Sample 206: 0
+
+Sample 207: 0
+
+Sample 208: 0
+
+Sample 209: 0
+
+Sample 210: 1
+
+Sample 211: 0
+
+Sample 212: 0
+
+Sample 213: -1
+
+Sample 214: 0
+
+Sample 215: 1
+
+Sample 216: 0
+
+Sample 217: 0
+
+Sample 218: 0
+
+Sample 219: 1
+
+Sample 220: 0
+
+Sample 221: -1
+
+Sample 222: 1
+
+Sample 223: 0
+
+Sample 224: 0
+
+Sample 225: -1
+
+Sample 226: 0
+
+Sample 227: 0
+
+Sample 228: 0
+
+Sample 229: 0
+
+Sample 230: 0
+
+Sample 231: 0
+
+Sample 232: 0
+
+Sample 233: 0
+
+Sample 234: 0
+
+Sample 235: 0
+
+Sample 236: 0
+
+Sample 237: 0
+
+Sample 238: 0
+
+Sample 239: 0
+
+Sample 240: 0
+
+Sample 241: 2
+
+Sample 242: 0
+
+Sample 243: -1
+
+Sample 244: 0
+
+Sample 245: 0
+
+Sample 246: 0
+
+Sample 247: 0
+
+Sample 248: 0
+
+Sample 249: 0
+
+Sample 250: 0
+
+Sample 251: 0
+
+Sample 252: 0
+
+Sample 253: 0
+
+Sample 254: 0
+
+Sample 255: -1
+
+Sample 256: 1
+
+Sample 257: 1
+
+Sample 258: 0
+
+Sample 259: 0
+
+Sample 260: 0
+
+Sample 261: 0
+
+Sample 262: 0
+
+Sample 263: 0
+
+Sample 264: 0
+
+Sample 265: 0
+
+Sample 266: 0
+
+Sample 267: 0
+
+Sample 268: 0
+
+Sample 269: 0
+
+Sample 270: 0
+
+Sample 271: 0
+
+Sample 272: -2
+
+Sample 273: 0
+
+Sample 274: 0
+
+Sample 275: 0
+
+Sample 276: 0
+
+Sample 277: -1
+
+Sample 278: -1
+
+Sample 279: 0
+
+Sample 280: 0
+
+Sample 281: 0
+
+Sample 282: -1
+
+Sample 283: 0
+
+Sample 284: 0
+
+Sample 285: 2
+
+Sample 286: 0
+
+Sample 287: 0
+
+Sample 288: -1
+
+Sample 289: 0
+
+Sample 290: 0
+
+Sample 291: 0
+
+Sample 292: 0
+
+Sample 293: 0
+
+Sample 294: 1
+
+Sample 295: -1
+
+Sample 296: 0
+
+Sample 297: 0
+
+Sample 298: 1
+
+Sample 299: -1
+
+Sample 300: 0
+
+Sample 301: 0
+
+Sample 302: 0
+
+Sample 303: 0
+
+Sample 304: 0
+
+Sample 305: 0
+
+Sample 306: 0
+
+Sample 307: 0
+
+Sample 308: 0
+
+Sample 309: 0
+
+Sample 310: 0
+
+Sample 311: 0
+
+Sample 312: 0
+
+Sample 313: 0
+
+Sample 314: 0
+
+Sample 315: 0
+
+Sample 316: 0
+
+Sample 317: 0
+
+Sample 318: 0
+
+Sample 319: 0
+
+Sample 320: 0
+
+Sample 321: 0
+
+Sample 322: 0
+
+Sample 323: 0
+
+Sample 324: 0
+
+Sample 325: 0
+
+Sample 326: 0
+
+Sample 327: 0
+
+Sample 328: 0
+
+Sample 329: 0
+
+Sample 330: 0
+
+Sample 331: 0
+
+Sample 332: 0
+
+Sample 333: 0
+
+Sample 334: 0
+
+Sample 335: 0
+
+Sample 336: 0
+
+Sample 337: 0
+
+Sample 338: 0
+
+Sample 339: 0
+
+Sample 340: 0
+
+Sample 341: 0
+
+Sample 342: 0
+
+Sample 343: 0
+
+Sample 344: 0
+
+Sample 345: 0
+
+Sample 346: 0
+
+Sample 347: 0
+
+Sample 348: 0
+
+Sample 349: 0
+
+Sample 350: 0
+
+Sample 351: 0
+
+Sample 352: 0
+
+Sample 353: 0
+
+Sample 354: 0
+
+Sample 355: 0
+
+Sample 356: 0
+
+Sample 357: -1
+
+Sample 358: 0
+
+Sample 359: 0
+
+Sample 360: 0
+
+Sample 361: 0
+
+Sample 362: 0
+
+Sample 363: 0
+
+Sample 364: 0
+
+Sample 365: -1
+
+Sample 366: 0
+
+Sample 367: 0
+
+Sample 368: 0
+
+Sample 369: 0
+
+Sample 370: 0
+
+Sample 371: 0
+
+Sample 372: 0
+
+Sample 373: 0
+
+Sample 374: 0
+
+Sample 375: -1
+
+Sample 376: 0
+
+Sample 377: 0
+
+Sample 378: 0
+
+Sample 379: -1
+
+Sample 380: 0
+
+Sample 381: 0
+
+Sample 382: 0
+
+Sample 383: 0
+
+Sample 384: 0
+
+Sample 385: 0
+
+Sample 386: 0
+
+Sample 387: 0
+
+Sample 388: 0
+
+Sample 389: 0
+
+Sample 390: 0
+
+Sample 391: 0
+
+Sample 392: 0
+
+Sample 393: 0
+
+Sample 394: 0
+
+Sample 395: 0
+
+Sample 396: 0
+
+Sample 397: 0
+
+Sample 398: 0
+
+Sample 399: 0
+
+Sample 400: 0
+
+Sample 401: 0
+
+Sample 402: 0
+
+Sample 403: 0
+
+Sample 404: 0
+
+Sample 405: 0
+
+Sample 406: 0
+
+Sample 407: -1
+
+Sample 408: 0
+
+Sample 409: 0
+
+Sample 410: 0
+
+Sample 411: 1
+
+Sample 412: 0
+
+Sample 413: 0
+
+Sample 414: 0
+
+Sample 415: 0
+
+Sample 416: 0
+
+Sample 417: 0
+
+Sample 418: 0
+
+Sample 419: 0
+
+Sample 420: 0
+
+Sample 421: 0
+
+Sample 422: 0
+
+Sample 423: 0
+
+Sample 424: 0
+
+Sample 425: 0
+
+Sample 426: 0
+
+Sample 427: 0
+
+Sample 428: 0
+
+Sample 429: 0
+
+Sample 430: 0
+
+Sample 431: 0
+
+Sample 432: 0
+
+Sample 433: 0
+
+Sample 434: 0
+
+Sample 435: 0
+
+Sample 436: 0
+
+Sample 437: 0
+
+Sample 438: 0
+
+Sample 439: 0
+
+Sample 440: 0
+
+Sample 441: 0
+
+Sample 442: 0
+
+Sample 443: 0
+
+Sample 444: 0
+
+Sample 445: 0
+
+Sample 446: 0
+
+Sample 447: 0
+
+Sample 448: 0
+
+Sample 449: 0
+
+Sample 450: 0
+
+Sample 451: 0
+
+Sample 452: 0
+
+Sample 453: 0
+
+Sample 454: 0
+
+Sample 455: 0
+
+Sample 456: 0
+
+Sample 457: 0
+
+Sample 458: 0
+
+Sample 459: 0
+
+Sample 460: 0
+
+Sample 461: 0
+
+Sample 462: 0
+
+Sample 463: 0
+
+Sample 464: 0
+
+Sample 465: 0
+
+Sample 466: 0
+
+Sample 467: 0
+
+Sample 468: 0
+
+Sample 469: 0
+
+Sample 470: 0
+
+Sample 471: 0
+
+Sample 472: 0
+
+Sample 473: 0
+
+Sample 474: 0
+
+Sample 475: 0
+
+Sample 476: 0
+
+Sample 477: 0
+
+Sample 478: 0
+
+Sample 479: 0
+
+Sample 480: 0
+
+Sample 481: 0
+
+Sample 482: 0
+
+Sample 483: 0
+
+Sample 484: 0
+
+Sample 485: 0
+
+Sample 486: 1
+
+Sample 487: 0
+
+Sample 488: 0
+
+Sample 489: 0
+
+Sample 490: -1
+
+Sample 491: 0
+
+Sample 492: 0
+
+Sample 493: 0
+
+Sample 494: 0
+
+Sample 495: 0
+
+Sample 496: 0
+
+Sample 497: 0
+
+Sample 498: 0
+
+Sample 499: 0
+
+Sample 500: 0
+
+Sample 501: 0
+
+Sample 502: 0
+
+Sample 503: 0
+
+Sample 504: 0
+
+Sample 505: 0
+
+Sample 506: 0
+
+Sample 507: 0
+
+Sample 508: 0
+
+Sample 509: 0
+
+Sample 510: 0
+
+Sample 511: 0
+
+Sample 512: 0
+
+Sample 513: 0
+
+Sample 514: 0
+
+Sample 515: 0
+
+Sample 516: 1
+
+Sample 517: 0
+
+Sample 518: 0
+
+Sample 519: 0
+
+Sample 520: 0
+
+Sample 521: 0
+
+Sample 522: 0
+
+Sample 523: 0
+
+Sample 524: -2
+
+Sample 525: 0
+
+Sample 526: 0
+
+Sample 527: 0
+
+Sample 528: 0
+
+Sample 529: 0
+
+Sample 530: 0
+
+Sample 531: 0
+
+Sample 532: 0
+
+Sample 533: 1
+
+Sample 534: 0
+
+Sample 535: 0
+
+Sample 536: 0
+
+Sample 537: 0
+
+Sample 538: 0
+
+Sample 539: 0
+
+Sample 540: 0
+
+Sample 541: -2
+
+Sample 542: 0
+
+Sample 543: 0
+
+Sample 544: 0
+
+Sample 545: 0
+
+Sample 546: 0
+
+Sample 547: 0
+
+Sample 548: 0
+
+Sample 549: 0
+
+Sample 550: -1
+
+Sample 551: 0
+
+Sample 552: 0
+
+Sample 553: 0
+
+Sample 554: 1
+
+Sample 555: 0
+
+Sample 556: 0
+
+Sample 557: 0
+
+Sample 558: 0
+
+Sample 559: 0
+
+Sample 560: 0
+
+Sample 561: 0
+
+Sample 562: 0
+
+Sample 563: 0
+
+Sample 564: 0
+
+Sample 565: 0
+
+Sample 566: 0
+
+Sample 567: 0
+
+Sample 568: -2
+
+Sample 569: 0
+
+Sample 570: 0
+
+Sample 571: 0
+
+Sample 572: 0
+
+Sample 573: 0
+
+Sample 574: 0
+
+Sample 575: 0
+
+Sample 576: 0
+
+Sample 577: 0
+
+Sample 578: 0
+
+Sample 579: 0
+
+Sample 580: 0
+
+Sample 581: 0
+
+Sample 582: 0
+
+Sample 583: 0
+
+Sample 584: 0
+
+Sample 585: 0
+
+Sample 586: 0
+
+Sample 587: 0
+
+Sample 588: 0
+
+Sample 589: 0
+
+Sample 590: 0
+
+Sample 591: 0
+
+Sample 592: 0
+
+Sample 593: 0
+
+Sample 594: 0
+
+Sample 595: 0
+
+Sample 596: 0
+
+Sample 597: 0
+
+Sample 598: 0
+
+Sample 599: 0
+
+Sample 600: 0
+
+Sample 601: 0
+
+Sample 602: 0
+
+Sample 603: 0
+
+Sample 604: 0
+
+Sample 605: 0
+
+Sample 606: 0
+
+Sample 607: 0
+
+Sample 608: 0
+
+Sample 609: 0
+
+Sample 610: 0
+
+Sample 611: 0
+
+Sample 612: 0
+
+Sample 613: 0
+
+Sample 614: 0
+
+Sample 615: 0
+
+Sample 616: 0
+
+Sample 617: 0
+
+Sample 618: 0
+
+Sample 619: 0
+
+Sample 620: 0
+
+Sample 621: 0
+
+Sample 622: 0
+
+Sample 623: 0
+
+Sample 624: 0
+
+Sample 625: 0
+
+Sample 626: 0
+
+Sample 627: 0
+
+Sample 628: 0
+
+Sample 629: 0
+
+Sample 630: 0
+
+Sample 631: 0
+
+Sample 632: 0
+
+Sample 633: 0
+
+Sample 634: 0
+
+Sample 635: 0
+
+Sample 636: 0
+
+Sample 637: 0
+
+Sample 638: 0
+
+Sample 639: 0
+
+Sample 640: 0
+
+Sample 641: 0
+
+Sample 642: 0
+
+Sample 643: -1
+
+Sample 644: 0
+
+Sample 645: 0
+
+Sample 646: 0
+
+Sample 647: 0
+
+Sample 648: 0
+
+Sample 649: 0
+
+Sample 650: 0
+
+Sample 651: 0
+
+Sample 652: 0
+
+Sample 653: 0
+
+Sample 654: 0
+
+Sample 655: 2
+
+Sample 656: 0
+
+Sample 657: 0
+
+Sample 658: 0
+
+Sample 659: 0
+
+Sample 660: 0
+
+Sample 661: 0
+
+Sample 662: 0
+
+Sample 663: 0
+
+Sample 664: 0
+
+Sample 665: 0
+
+Sample 666: 0
+
+Sample 667: 0
+
+Sample 668: 0
+
+Sample 669: 0
+
+Sample 670: 0
+
+Sample 671: 0
+
+Sample 672: -1
+
+Sample 673: 0
+
+Sample 674: 0
+
+Sample 675: 1
+
+Sample 676: 0
+
+Sample 677: 0
+
+Sample 678: 1
+
+Sample 679: 0
+
+Sample 680: 0
+
+Sample 681: 0
+
+Sample 682: -1
+
+Sample 683: 0
+
+Sample 684: 0
+
+Sample 685: 0
+
+Sample 686: 0
+
+Sample 687: 0
+
+Sample 688: 2
+
+Sample 689: 0
+
+Sample 690: -1
+
+Sample 691: 0
+
+Sample 692: 0
+
+Sample 693: 1
+
+Sample 694: 0
+
+Sample 695: 0
+
+Sample 696: 0
+
+Sample 697: 0
+
+Sample 698: 0
+
+Sample 699: 0
+
+Sample 700: 0
+
+Sample 701: -2
+
+Sample 702: -1
+
+Sample 703: 0
+
+Sample 704: 1
+
+Sample 705: 0
+
+Sample 706: 0
+
+Sample 707: 0
+
+Sample 708: 0
+
+Sample 709: 0
+
+Sample 710: -1
+
+Sample 711: 1
+
+Sample 712: 0
+
+Sample 713: 0
+
+Sample 714: -1
+
+Sample 715: 1
+
+Sample 716: 0
+
+Sample 717: 0
+
+Sample 718: 0
+
+Sample 719: 0
+
+Sample 720: 0
+
+Sample 721: 0
+
+Sample 722: 0
+
+Sample 723: 0
+
+Sample 724: 0
+
+Sample 725: 0
+
+Sample 726: 0
+
+Sample 727: 0
+
+Sample 728: 0
+
+Sample 729: 0
+
+Sample 730: 0
+
+Sample 731: 0
+
+Sample 732: 0
+
+Sample 733: 0
+
+Sample 734: 0
+
+Sample 735: 0
+
+Sample 736: 0
+
+Sample 737: 0
+
+Sample 738: 0
+
+Sample 739: 0
+
+Sample 740: 0
+
+Sample 741: 0
+
+Sample 742: 0
+
+Sample 743: 0
+
+Sample 744: 0
+
+Sample 745: 0
+
+Sample 746: 0
+
+Sample 747: 0
+
+Sample 748: 0
+
+Sample 749: 0
+
+Sample 750: 0
+
+Sample 751: 0
+
+Sample 752: 0
+
+Sample 753: 0
+
+Sample 754: 0
+
+Sample 755: 0
+
+Sample 756: 0
+
+Sample 757: 0
+
+Sample 758: 0
+
+Sample 759: -1
+
+Sample 760: 0
+
+Sample 761: 0
+
+Sample 762: 0
+
+Sample 763: 1
+
+Sample 764: 0
+
+Sample 765: 0
+
+Sample 766: 0
+
+Sample 767: 0
+
+Sample 768: 0
+
+Sample 769: 0
+
+Sample 770: 0
+
+Sample 771: 0
+
+Sample 772: 0
+
+Sample 773: 0
+
+Sample 774: 0
+
+Sample 775: 0
+
+Sample 776: 0
+
+Sample 777: 0
+
+Sample 778: 0
+
+Sample 779: 0
+
+Sample 780: 0
+
+Sample 781: 0
+
+Sample 782: 0
+
+Sample 783: 0
+
+Sample 784: 0
+
+Sample 785: 0
+
+Sample 786: 0
+
+Sample 787: 0
+
+Sample 788: 0
+
+Sample 789: 0
+
+Sample 790: 0
+
+Sample 791: 0
+
+Sample 792: 0
+
+Sample 793: 0
+
+Sample 794: 0
+
+Sample 795: 0
+
+Sample 796: 0
+
+Sample 797: 0
+
+Sample 798: 0
+
+Sample 799: 0
+
+Sample 800: 0
+
+Sample 801: 0
+
+Sample 802: 0
+
+Sample 803: 0
+
+Sample 804: 0
+
+Sample 805: 0
+
+Sample 806: 0
+
+Sample 807: 0
+
+Sample 808: 0
+
+Sample 809: 0
+
+Sample 810: 0
+
+Sample 811: 0
+
+Sample 812: 0
+
+Sample 813: 0
+
+Sample 814: 0
+
+Sample 815: 0
+
+Sample 816: 0
+
+Sample 817: 0
+
+Sample 818: 0
+
+Sample 819: 0
+
+Sample 820: 0
+
+Sample 821: 0
+
+Sample 822: 0
+
+Sample 823: 0
+
+Sample 824: 0
+
+Sample 825: 0
+
+Sample 826: 0
+
+Sample 827: 0
+
+Sample 828: 0
+
+Sample 829: 0
+
+Sample 830: 0
+
+Sample 831: 0
+
+Sample 832: 0
+
+Sample 833: 0
+
+Sample 834: 0
+
+Sample 835: 0
+
+Sample 836: 0
+
+Sample 837: 0
+
+Sample 838: 0
+
+Sample 839: -1
+
+Sample 840: 0
+
+Sample 841: 0
+
+Sample 842: 0
+
+Sample 843: 1
+
+Sample 844: 0
+
+Sample 845: 0
+
+Sample 846: 0
+
+Sample 847: 0
+
+Sample 848: 0
+
+Sample 849: 0
+
+Sample 850: 0
+
+Sample 851: 0
+
+Sample 852: 0
+
+Sample 853: 0
+
+Sample 854: 0
+
+Sample 855: 0
+
+Sample 856: 0
+
+Sample 857: 0
+
+Sample 858: 0
+
+Sample 859: 0
+
+Sample 860: 0
+
+Sample 861: 0
+
+Sample 862: 0
+
+Sample 863: 0
+
+Sample 864: 0
+
+Sample 865: 0
+
+Sample 866: 0
+
+Sample 867: 0
+
+Sample 868: 0
+
+Sample 869: 0
+
+Sample 870: 0
+
+Sample 871: 0
+
+Sample 872: 0
+
+Sample 873: 0
+
+Sample 874: 0
+
+Sample 875: 0
+
+Sample 876: 0
+
+Sample 877: 0
+
+Sample 878: 0
+
+Sample 879: 0
+
+Sample 880: 0
+
+Sample 881: 0
+
+Sample 882: 0
+
+Sample 883: 0
+
+Sample 884: 0
+
+Sample 885: 0
+
+Sample 886: 0
+
+Sample 887: 0
+
+Sample 888: 0
+
+Sample 889: 0
+
+Sample 890: 0
+
+Sample 891: 0
+
+Sample 892: 0
+
+Sample 893: 0
+
+Sample 894: 0
+
+Sample 895: 0
+
+Sample 896: 0
+
+Sample 897: 0
+
+Sample 898: 0
+
+Sample 899: 0
+
+Sample 900: 0
+
+Sample 901: 0
+
+Sample 902: 0
+
+Sample 903: 0
+
+Sample 904: 0
+
+Sample 905: 0
+
+Sample 906: 0
+
+Sample 907: 0
+
+Sample 908: 0
+
+Sample 909: 0
+
+Sample 910: 0
+
+Sample 911: 0
+
+Sample 912: 0
+
+Sample 913: 0
+
+Sample 914: 0
+
+Sample 915: 0
+
+Sample 916: 0
+
+Sample 917: 0
+
+Sample 918: 0
+
+Sample 919: 0
+
+Sample 920: 0
+
+Sample 921: 0
+
+Sample 922: 0
+
+Sample 923: 0
+
+Sample 924: 0
+
+Sample 925: 0
+
+Sample 926: 0
+
+Sample 927: 0
+
+Sample 928: 0
+
+Sample 929: 0
+
+Sample 930: 0
+
+Sample 931: 2
+
+Sample 932: 0
+
+Sample 933: 0
+
+Sample 934: -1
+
+Sample 935: 0
+
+Sample 936: 0
+
+Sample 937: 0
+
+Sample 938: -1
+
+Sample 939: 0
+
+Sample 940: 0
+
+Sample 941: 0
+
+Sample 942: 0
+
+Sample 943: 0
+
+Sample 944: 0
+
+Sample 945: 0
+
+Sample 946: 0
+
+Sample 947: 0
+
+Sample 948: 0
+
+Sample 949: 0
+
+Sample 950: 0
+
+Sample 951: 0
+
+Sample 952: 0
+
+Sample 953: 0
+
+Sample 954: 0
+
+Sample 955: 0
+
+Sample 956: 0
+
+Sample 957: 0
+
+Sample 958: 0
+
+Sample 959: 0
+
+Sample 960: 0
+
+Sample 961: 0
+
+Sample 962: 0
+
+Sample 963: 2
+
+Sample 964: 0
+
+Sample 965: 0
+
+Sample 966: 0
+
+Sample 967: 0
+
+Sample 968: 0
+
+Sample 969: 0
+
+Sample 970: 0
+
+Sample 971: 0
+
+Sample 972: 0
+
+Sample 973: 0
+
+Sample 974: 0
+
+Sample 975: 1
+
+Sample 976: 0
+
+Sample 977: 0
+
+Sample 978: 0
+
+Sample 979: 0
+
+Sample 980: 0
+
+Sample 981: 0
+
+Sample 982: 0
+
+Sample 983: -1
+
+Sample 984: 0
+
+Sample 985: 0
+
+Sample 986: 0
+
+Sample 987: -1
+
+Sample 988: 0
+
+Sample 989: 0
+
+Sample 990: 0
+
+Sample 991: 0
+
+Sample 992: 0
+
+Sample 993: 0
+
+Sample 994: 0
+
+Sample 995: 0
+
+Sample 996: 0
+
+Sample 997: 0
+
+Sample 998: 0
+
+Sample 999: 0
+
+Sample 1000: 0
+
+Sample 1001: 0
+
+Sample 1002: 0
+
+Sample 1003: 0
+
+Sample 1004: 0
+
+Sample 1005: 0
+
+Sample 1006: 0
+
+Sample 1007: 0
+
+Sample 1008: 0
+
+Sample 1009: 0
+
+Sample 1010: 0
+
+Sample 1011: 0
+
+Sample 1012: 0
+
+Sample 1013: 0
+
+Sample 1014: 0
+
+Sample 1015: 0
+
+Sample 1016: 0
+
+Sample 1017: 0
+
+Sample 1018: 0
+
+Sample 1019: 0
+
+Sample 1020: 0
+
+Sample 1021: 0
+
+Sample 1022: 0
+
+Sample 1023: 0
+
+Sample 1024: 0
+
+Sample 1025: 0
+
+Sample 1026: 0
+
+Sample 1027: 0
+
+Sample 1028: 0
+
+Sample 1029: 0
+
+Sample 1030: 0
+
+Sample 1031: 0
+
+Sample 1032: 0
+
+Sample 1033: 0
+
+Sample 1034: 0
+
+Sample 1035: 0
+
+Sample 1036: 0
+
+Sample 1037: 0
+
+Sample 1038: 0
+
+Sample 1039: 0
+
+Sample 1040: 0
+
+Sample 1041: 0
+
+Sample 1042: 0
+
+Sample 1043: 0
+
+Sample 1044: 0
+
+Sample 1045: 0
+
+Sample 1046: 0
+
+Sample 1047: 0
+
+Sample 1048: 0
+
+Sample 1049: 0
+
+Sample 1050: 0
+
+Sample 1051: 0
+
+Sample 1052: 0
+
+Sample 1053: 0
+
+Sample 1054: 0
+
+Sample 1055: 0
+
+Sample 1056: 0
+
+Sample 1057: 0
+
+Sample 1058: 0
+
+Sample 1059: 0
+
+Sample 1060: 0
+
+Sample 1061: 0
+
+Sample 1062: 0
+
+Sample 1063: 0
+
+Sample 1064: 0
+
+Sample 1065: 0
+
+Sample 1066: 0
+
+Sample 1067: 0
+
+Sample 1068: 0
+
+Sample 1069: 0
+
+Sample 1070: 0
+
+Sample 1071: 0
+
+Sample 1072: 0
+
+Sample 1073: 0
+
+Sample 1074: 0
+
+Sample 1075: 0
+
+Sample 1076: 0
+
+Sample 1077: 0
+
+Sample 1078: 0
+
+Sample 1079: 0
+
+Sample 1080: 0
+
+Sample 1081: 0
+
+Sample 1082: 0
+
+Sample 1083: 0
+
+Sample 1084: 0
+
+Sample 1085: 0
+
+Sample 1086: 0
+
+Sample 1087: 0
+
+Sample 1088: 0
+
+Sample 1089: 0
+
+Sample 1090: 0
+
+Sample 1091: 0
+
+Sample 1092: 0
+
+Sample 1093: 0
+
+Sample 1094: 0
+
+Sample 1095: 0
+
+Sample 1096: 0
+
+Sample 1097: 0
+
+Sample 1098: 0
+
+Sample 1099: 0
+
+Sample 1100: 0
+
+Sample 1101: 0
+
+Sample 1102: 0
+
+Sample 1103: 0
+
+Sample 1104: 0
+
+Sample 1105: 0
+
+Sample 1106: 0
+
+Sample 1107: 0
+
+Sample 1108: 0
+
+Sample 1109: 0
+
+Sample 1110: 0
+
+Sample 1111: 0
+
+Sample 1112: 0
+
+Sample 1113: 0
+
+Sample 1114: 0
+
+Sample 1115: 0
+
+Sample 1116: 0
+
+Sample 1117: 0
+
+Sample 1118: 0
+
+Sample 1119: 0
+
+Sample 1120: 0
+
+Sample 1121: 0
+
+Sample 1122: 0
+
+Sample 1123: 0
+
+Sample 1124: 0
+
+Sample 1125: 0
+
+Sample 1126: 0
+
+Sample 1127: 0
+
+Sample 1128: 0
+
+Sample 1129: 0
+
+Sample 1130: 0
+
+Sample 1131: 0
+
+Sample 1132: 0
+
+Sample 1133: 0
+
+Sample 1134: 0
+
+Sample 1135: 0
+
+Sample 1136: 0
+
+Sample 1137: 0
+
+Sample 1138: 0
+
+Sample 1139: 0
+
+Sample 1140: 0
+
+Sample 1141: 0
+
+Sample 1142: 0
+
+Sample 1143: 0
+
+Sample 1144: 0
+
+Sample 1145: 0
+
+Sample 1146: 0
+
+Sample 1147: 0
+
+Sample 1148: 0
+
+Sample 1149: 0
+
+Sample 1150: 0
+
+Sample 1151: 0
+
+Sample 1152: 0
+
+Sample 1153: 0
+
+Sample 1154: 0
+
+Sample 1155: 0
+
+Sample 1156: 0
+
+Sample 1157: 0
+
+Sample 1158: 0
+
+Sample 1159: 0
+
+Sample 1160: 0
+
+Sample 1161: 0
+
+Sample 1162: 0
+
+Sample 1163: 0
+
+Sample 1164: 0
+
+Sample 1165: 0
+
+Sample 1166: 0
+
+Sample 1167: 0
+
+Sample 1168: 0
+
+Sample 1169: 0
+
+Sample 1170: 0
+
+Sample 1171: 0
+
+Sample 1172: 0
+
+Sample 1173: 0
+
+Sample 1174: 0
+
+Sample 1175: 0
+
+Sample 1176: 0
+
+Sample 1177: 0
+
+Sample 1178: 0
+
+Sample 1179: 0
+
+Sample 1180: 0
+
+Sample 1181: 0
+
+Sample 1182: 0
+
+Sample 1183: 0
+
+Sample 1184: 0
+
+Sample 1185: 0
+
+Sample 1186: 0
+
+Sample 1187: 0
+
+Sample 1188: 0
+
+Sample 1189: 1
+
+Sample 1190: 0
+
+Sample 1191: 0
+
+Sample 1192: 0
+
+Sample 1193: 0
+
+Sample 1194: 0
+
+Sample 1195: 0
+
+Sample 1196: 0
+
+Sample 1197: -2
+
+Sample 1198: 0
+
+Sample 1199: 0
+
+Sample 1200: 0
+
+Sample 1201: 0
+
+Sample 1202: 0
+
+Sample 1203: 0
+
+Sample 1204: 0
+
+Sample 1205: 0
+
+Sample 1206: 0
+
+Sample 1207: -1
+
