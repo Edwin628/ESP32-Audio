@@ -13,7 +13,7 @@ try:
     with serial.Serial(serial_port, baud_rate, timeout=1) as ser, open(output_file_path, 'w') as outfile:
         print("start recording '{}'".format(output_file_path))
         while True:
-            data = ser.readline().decode('utf-8')
+            data = ser.readline().decode('utf-8', errors='replace')
             if data:
                 outfile.write(data)
                 outfile.flush() 

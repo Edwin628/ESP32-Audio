@@ -1,0 +1,652 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Successfully initialized I2S!
+AVRC metadata rsp: attribute id 0x1, 
+AVRC metadata rsp: attribute id 0x2, 
+AVRC metadata rsp: attribute id 0x4, 
+AVRC metadata rsp: attribute id 0x8, 0
+FFT initialized
+Total time spent in read_data_frequency_fft_marker: 9 ms
+
+Total time spent in read_data_frequency_fft_marker: 2 ms
+1
+Total time spent in read_data_frequency_fft_marker: 2 ms
+1
+Total time spent in read_data_frequency_fft_marker: 9 ms
+1
+Total time spent in read_data_frequency_fft_marker: 9 ms
+
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 8 ms
+
+Total time spent in read_data_frequency_fft_marker: 9 ms
+1
+Total time spent in read_data_frequency_fft_marker: 2 ms
+
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 8 ms
+
+Total time spent in read_data_frequency_fft_marker: 9 ms
+1
+Total time spent in read_data_frequency_fft_marker: 9 ms
+1
+Total time spent in read_data_frequency_fft_marker: 9 ms
+
+Total time spent in read_data_frequency_fft_marker: 8 ms
+
+Total time spent in read_data_frequency_fft_marker: 8 ms
+1
+Total time spent in read_data_frequency_fft_marker: 9 ms
+
+Total time spent in read_data_frequency_fft_marker: 10 ms
+1
+Total time spent in read_data_frequency_fft_marker: 9 ms
+
+Total time spent in read_data_frequency_fft_marker: 9 ms
+
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 1 ms
+
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 8 ms
+1
+Total time spent in read_data_frequency_fft_marker: 8 ms
+
+Total time spent in read_data_frequency_fft_marker: 10 ms
+1
+Total time spent in read_data_frequency_fft_marker: 8 ms
+
+Total time spent in read_data_frequency_fft_marker: 8 ms
+1
+Total time spent in read_data_frequency_fft_marker: 106 ms
+
+Total time spent in read_data_frequency_fft_marker: 102 ms
+
+Total time spent in read_data_frequency_fft_marker: 102 ms
+
+Total time spent in read_data_frequency_fft_marker: 105 ms
+
+Total time spent in read_data_frequency_fft_marker: 101 ms
+1234567890
+Total time spent in read_data_frequency_fft_marker: 101 ms
+1234567890
+Total time spent in read_data_frequency_fft_marker: 33 ms
+
+Total time spent in read_data_frequency_fft_marker: 34 ms
+
+Total time spent in read_data_frequency_fft_marker: 21 ms
+123
+Total time spent in read_data_frequency_fft_marker: 24 ms
+
+Total time spent in read_data_frequency_fft_marker: 35 ms
+123
+Total time spent in read_data_frequency_fft_marker: 22 ms
+123
+Total time spent in read_data_frequency_fft_marker: 21 ms
+
+Total time spent in read_data_frequency_fft_marker: 24 ms
+123
+Total time spent in read_data_frequency_fft_marker: 35 ms
+
+Total time spent in read_data_frequency_fft_marker: 35 ms
+123
+Total time spent in read_data_frequency_fft_marker: 66 ms
+
+Total time spent in read_data_frequency_fft_marker: 61 ms
+
+Total time spent in read_data_frequency_fft_marker: 60 ms
+123456
+Total time spent in read_data_frequency_fft_marker: 65 ms
+
+Total time spent in read_data_frequency_fft_marker: 66 ms
+123456
+Total time spent in read_data_frequency_fft_marker: 61 ms
+
+Total time spent in read_data_frequency_fft_marker: 63 ms
+123456
+Total time spent in read_data_frequency_fft_marker: 212 ms
+
+Total time spent in read_data_frequency_fft_marker: 221 ms
+12345678901234567890
+Total time spent in read_data_frequency_fft_marker: 210 ms
+12345678901234567890
+Total time spent in read_data_frequency_fft_marker: 221 ms
+
+Total time spent in read_data_frequency_fft_marker: 213 ms
+12345678901234567890
+Total time spent in read_data_frequency_fft_marker: 213 ms
+12345678901234567890
+Total time spent in read_data_frequency_fft_marker: 213 ms
+
+Total time spent in read_data_frequency_fft_marker: 544 ms
+12345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 541 ms
+
+Total time spent in read_data_frequency_fft_marker: 555 ms
+
+Total time spent in read_data_frequency_fft_marker: 544 ms
+
+Total time spent in read_data_frequency_fft_marker: 544 ms
+12345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1089 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1101 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1089 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1100 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1093 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1092 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1101 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1102 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1087 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1092 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+AVRC metadata rsp: attribute id 0x1, 
+AVRC metadata rsp: attribute id 0x2, 
+AVRC metadata rsp: attribute id 0x4, 
+AVRC metadata rsp: attribute id 0x8, 
+AVRC metadata rsp: attribute id 0x10, 
+AVRC metadata rsp: attribute id 0x20, 
+Total time spent in read_data_frequency_fft_marker: 1 ms
+
+Total time spent in read_data_frequency_fft_marker: 18 ms
+1
+Total time spent in read_data_frequency_fft_marker: 16 ms
+
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 1 ms
+
+Total time spent in read_data_frequency_fft_marker: 18 ms
+
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 16 ms
+
+Total time spent in read_data_frequency_fft_marker: 18 ms
+
+Total time spent in read_data_frequency_fft_marker: 18 ms
+12
+Total time spent in read_data_frequency_fft_marker: 19 ms
+
+Total time spent in read_data_frequency_fft_marker: 18 ms
+
+Total time spent in read_data_frequency_fft_marker: 18 ms
+12
+Total time spent in read_data_frequency_fft_marker: 18 ms
+
+Total time spent in read_data_frequency_fft_marker: 17 ms
+12
+Total time spent in read_data_frequency_fft_marker: 18 ms
+12
+Total time spent in read_data_frequency_fft_marker: 18 ms
+
+Total time spent in read_data_frequency_fft_marker: 18 ms
+12
+Total time spent in read_data_frequency_fft_marker: 18 ms
+
+Total time spent in read_data_frequency_fft_marker: 19 ms
+
+Total time spent in read_data_frequency_fft_marker: 18 ms
+12
+Total time spent in read_data_frequency_fft_marker: 19 ms
+
+Total time spent in read_data_frequency_fft_marker: 17 ms
+1
+Total time spent in read_data_frequency_fft_marker: 15 ms
+
+Total time spent in read_data_frequency_fft_marker: 1 ms
+
+Total time spent in read_data_frequency_fft_marker: 17 ms
+1
+Total time spent in read_data_frequency_fft_marker: 1 ms
+
+Total time spent in read_data_frequency_fft_marker: 20 ms
+12
+Total time spent in read_data_frequency_fft_marker: 17 ms
+
+Total time spent in read_data_frequency_fft_marker: 18 ms
+12
+Total time spent in read_data_frequency_fft_marker: 19 ms
+12
+Total time spent in read_data_frequency_fft_marker: 19 ms
+
+Total time spent in read_data_frequency_fft_marker: 38 ms
+123
+Total time spent in read_data_frequency_fft_marker: 38 ms
+
+Total time spent in read_data_frequency_fft_marker: 37 ms
+123
+Total time spent in read_data_frequency_fft_marker: 20 ms
+
+Total time spent in read_data_frequency_fft_marker: 39 ms
+
+Total time spent in read_data_frequency_fft_marker: 39 ms
+123
+Total time spent in read_data_frequency_fft_marker: 39 ms
+
+Total time spent in read_data_frequency_fft_marker: 39 ms
+123
+Total time spent in read_data_frequency_fft_marker: 24 ms
+123
+Total time spent in read_data_frequency_fft_marker: 17 ms
+12
+Total time spent in read_data_frequency_fft_marker: 20 ms
+
+Total time spent in read_data_frequency_fft_marker: 18 ms
+
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 17 ms
+
+Total time spent in read_data_frequency_fft_marker: 17 ms
+1
+Total time spent in read_data_frequency_fft_marker: 25 ms
+1
+Total time spent in read_data_frequency_fft_marker: 17 ms
+
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 0 ms
+
+Total time spent in read_data_frequency_fft_marker: 16 ms
+
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 16 ms
+1
+Total time spent in read_data_frequency_fft_marker: 18 ms
+
+Total time spent in read_data_frequency_fft_marker: 41 ms
+1234
+Total time spent in read_data_frequency_fft_marker: 42 ms
+
+Total time spent in read_data_frequency_fft_marker: 41 ms
+123
+Total time spent in read_data_frequency_fft_marker: 41 ms
+1234
+Total time spent in read_data_frequency_fft_marker: 45 ms
+
+Total time spent in read_data_frequency_fft_marker: 40 ms
+1234
+Total time spent in read_data_frequency_fft_marker: 41 ms
+
+Total time spent in read_data_frequency_fft_marker: 42 ms
+1235
+Total time spent in read_data_frequency_fft_marker: 46 ms
+1235
+Total time spent in read_data_frequency_fft_marker: 41 ms
+
+Total time spent in read_data_frequency_fft_marker: 63 ms
+12345
+Total time spent in read_data_frequency_fft_marker: 48 ms
+
+Total time spent in read_data_frequency_fft_marker: 41 ms
+
+Total time spent in read_data_frequency_fft_marker: 63 ms
+1235
+Total time spent in read_data_frequency_fft_marker: 63 ms
+
+Total time spent in read_data_frequency_fft_marker: 46 ms
+12345
+Total time spent in read_data_frequency_fft_marker: 62 ms
+1235
+Total time spent in read_data_frequency_fft_marker: 42 ms
+
+Total time spent in read_data_frequency_fft_marker: 62 ms
+12345
+Total time spent in read_data_frequency_fft_marker: 42 ms
+1235
+Total time spent in read_data_frequency_fft_marker: 42 ms
+
+Total time spent in read_data_frequency_fft_marker: 45 ms
+1235
+Total time spent in read_data_frequency_fft_marker: 41 ms
+
+Total time spent in read_data_frequency_fft_marker: 42 ms
+12345
+Total time spent in read_data_frequency_fft_marker: 44 ms
+
+Total time spent in read_data_frequency_fft_marker: 41 ms
+1235
+Total time spent in read_data_frequency_fft_marker: 61 ms
+
+Total time spent in read_data_frequency_fft_marker: 41 ms
+     
+Total time spent in read_data_frequency_fft_marker: 63 ms
+12345
+Total time spent in read_data_frequency_fft_marker: 61 ms
+
+Total time spent in read_data_frequency_fft_marker: 43 ms
+12345
+Total time spent in read_data_frequency_fft_marker: 108 ms
+
+Total time spent in read_data_frequency_fft_marker: 90 ms
+123567890
+Total time spent in read_data_frequency_fft_marker: 108 ms
+
+Total time spent in read_data_frequency_fft_marker: 109 ms
+1234567890
+Total time spent in read_data_frequency_fft_marker: 111 ms
+
+Total time spent in read_data_frequency_fft_marker: 108 ms
+
+Total time spent in read_data_frequency_fft_marker: 110 ms
+1234567890
+Total time spent in read_data_frequency_fft_marker: 224 ms
+12345678901234567890
+Total time spent in read_data_frequency_fft_marker: 205 ms
+
+Total time spent in read_data_frequency_fft_marker: 222 ms
+1234567890123457890
+Total time spent in read_data_frequency_fft_marker: 224 ms
+
+Total time spent in read_data_frequency_fft_marker: 226 ms
+12345678901234567890
+Total time spent in read_data_frequency_fft_marker: 227 ms
+
+Total time spent in read_data_frequency_fft_marker: 552 ms
+1334567890133456789013345678901334567890 1234567890
+Total time spent in read_data_frequency_fft_marker: 552 ms
+1234567890123456789012345678901234567890 1234567890
+Total time spent in read_data_frequency_fft_marker: 552 ms
+
+Total time spent in read_data_frequency_fft_marker: 552 ms
+123456789012345678901234578901234567890 123567890
+Total time spent in read_data_frequency_fft_marker: 573 ms
+
+Total time spent in read_data_frequency_fft_marker: 552 ms
+123456789012345678901234578901234567890 123567890
+Total time spent in read_data_frequency_fft_marker: 1115 ms
+
+Total time spent in read_data_frequency_fft_marker: 1131 ms
+
+Total time spent in read_data_frequency_fft_marker: 1132 ms
+
+Total time spent in read_data_frequency_fft_marker: 1131 ms
+12345678901234578901234578901234567890 123567890123456789012356789012345678901234567890 123567890
+Total time spent in read_data_frequency_fft_marker: 1136 ms
+123567890123567890123567890123567890 12345678901234567890123456789012345678901234567890 1234567890
+Total time spent in read_data_frequency_fft_marker: 1108 ms
+1234567890123456789012345678901234567890 123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1091 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1086 ms
+
+Total time spent in read_data_frequency_fft_marker: 1066 ms
+
+Total time spent in read_data_frequency_fft_marker: 1090 ms
+
+Total time spent in read_data_frequency_fft_marker: 1105 ms
+123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
+Total time spent in read_data_frequency_fft_marker: 1086 ms
+1235678901235678901235678901235678901235678901235678901234567890123567890123567890123567890
+Total time spent in read_data_frequency_fft_marker: 1086 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1091 ms
+123456789012345678901234578901234578901234578901234578901234578901234578901234578901234567890
+Total time spent in read_data_frequency_fft_marker: 1089 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1086 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1087 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 550 ms
+
+Total time spent in read_data_frequency_fft_marker: 532 ms
+12345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 536 ms
+123457890123456789012345678901234578901234567890
+Total time spent in read_data_frequency_fft_marker: 551 ms
+
+Total time spent in read_data_frequency_fft_marker: 550 ms
+12345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 17 ms
+1
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 17 ms
+1
+Total time spent in read_data_frequency_fft_marker: 1 ms
+
+Total time spent in read_data_frequency_fft_marker: 18 ms
+12
+Total time spent in read_data_frequency_fft_marker: 18 ms
+
+Total time spent in read_data_frequency_fft_marker: 17 ms
+1
+Total time spent in read_data_frequency_fft_marker: 20 ms
+12
+Total time spent in read_data_frequency_fft_marker: 17 ms
+
+Total time spent in read_data_frequency_fft_marker: 17 ms
+
+Total time spent in read_data_frequency_fft_marker: 21 ms
+12
+Total time spent in read_data_frequency_fft_marker: 18 ms
+12
+Total time spent in read_data_frequency_fft_marker: 20 ms
+
+Total time spent in read_data_frequency_fft_marker: 17 ms
+
+Total time spent in read_data_frequency_fft_marker: 18 ms
+12
+Total time spent in read_data_frequency_fft_marker: 21 ms
+
+AVRC metadata rsp: attribute id 0x1, 
+AVRC metadata rsp: attribute id 0x2, 
+AVRC metadata rsp: attribute id 0x4, 
+AVRC metadata rsp: attribute id 0x8, 
+AVRC metadata rsp: attribute id 0x10, 
+AVRC metadata rsp: attribute id 0x20, 
+Total time spent in read_data_frequency_fft_marker: 17 ms
+1
+Total time spent in read_data_frequency_fft_marker: 1 ms
+
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 2 ms
+1
+Total time spent in read_data_frequency_fft_marker: 1 ms
+
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 1 ms
+
+Total time spent in read_data_frequency_fft_marker: 16 ms
+
+Total time spent in read_data_frequency_fft_marker: 47 ms
+1
+Total time spent in read_data_frequency_fft_marker: 16 ms
+
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 17 ms
+
+Total time spent in read_data_frequency_fft_marker: 3 ms
+1
+Total time spent in read_data_frequency_fft_marker: 39 ms
+
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 18 ms
+
+Total time spent in read_data_frequency_fft_marker: 16 ms
+1
+Total time spent in read_data_frequency_fft_marker: 1 ms
+
+Total time spent in read_data_frequency_fft_marker: 16 ms
+1
+Total time spent in read_data_frequency_fft_marker: 1 ms
+
+Total time spent in read_data_frequency_fft_marker: 16 ms
+
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 17 ms
+
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 16 ms
+1
+Total time spent in read_data_frequency_fft_marker: 18 ms
+
+Total time spent in read_data_frequency_fft_marker: 17 ms
+12
+Total time spent in read_data_frequency_fft_marker: 17 ms
+12
+Total time spent in read_data_frequency_fft_marker: 18 ms
+
+Total time spent in read_data_frequency_fft_marker: 17 ms
+12
+Total time spent in read_data_frequency_fft_marker: 18 ms
+12
+Total time spent in read_data_frequency_fft_marker: 19 ms
+123
+Total time spent in read_data_frequency_fft_marker: 20 ms
+
+Total time spent in read_data_frequency_fft_marker: 21 ms
+
+Total time spent in read_data_frequency_fft_marker: 20 ms
+123
+Total time spent in read_data_frequency_fft_marker: 36 ms
+123
+Total time spent in read_data_frequency_fft_marker: 20 ms
+123
+Total time spent in read_data_frequency_fft_marker: 39 ms
+
+Total time spent in read_data_frequency_fft_marker: 21 ms
+123
+Total time spent in read_data_frequency_fft_marker: 21 ms
+123
+Total time spent in read_data_frequency_fft_marker: 20 ms
+
+Total time spent in read_data_frequency_fft_marker: 19 ms
+123
+Total time spent in read_data_frequency_fft_marker: 21 ms
+
+Total time spent in read_data_frequency_fft_marker: 21 ms
+   
+Total time spent in read_data_frequency_fft_marker: 36 ms
+123
+Total time spent in read_data_frequency_fft_marker: 41 ms
+
+Total time spent in read_data_frequency_fft_marker: 20 ms
+123
+Total time spent in read_data_frequency_fft_marker: 38 ms
+
+Total time spent in read_data_frequency_fft_marker: 21 ms
+
+Total time spent in read_data_frequency_fft_marker: 111 ms
+1234567890
+Total time spent in read_data_frequency_fft_marker: 130 ms
+
+Total time spent in read_data_frequency_fft_marker: 104 ms
+1234567890
+Total time spent in read_data_frequency_fft_marker: 136 ms
+
+Total time spent in read_data_frequency_fft_marker: 102 ms
+1234567890
+Total time spent in read_data_frequency_fft_marker: 109 ms
+
+Total time spent in read_data_frequency_fft_marker: 109 ms
+1234567890
+Total time spent in read_data_frequency_fft_marker: 102 ms
+1234567890
+Total time spent in read_data_frequency_fft_marker: 86 ms
+1234567890
+Total time spent in read_data_frequency_fft_marker: 108 ms
+
+Total time spent in read_data_frequency_fft_marker: 93 ms
+1234567890
+Total time spent in read_data_frequency_fft_marker: 130 ms
+
+Total time spent in read_data_frequency_fft_marker: 214 ms
+12345678901234567890
+Total time spent in read_data_frequency_fft_marker: 237 ms
+
+Total time spent in read_data_frequency_fft_marker: 208 ms
+12345678901234567890
+Total time spent in read_data_frequency_fft_marker: 191 ms
+
+Total time spent in read_data_frequency_fft_marker: 242 ms
+12345678901234567890
+Total time spent in read_data_frequency_fft_marker: 208 ms
+12345678901234567890
+Total time spent in read_data_frequency_fft_marker: 562 ms
+12345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 530 ms
+
+Total time spent in read_data_frequency_fft_marker: 549 ms
+12345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 547 ms
+
+Total time spent in read_data_frequency_fft_marker: 540 ms
+12345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 564 ms
+
+Total time spent in read_data_frequency_fft_marker: 562 ms
+12345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 555 ms
+
+Total time spent in read_data_frequency_fft_marker: 571 ms
+12345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 537 ms
+
+Total time spent in read_data_frequency_fft_marker: 1101 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1075 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1091 ms
+
+Total time spent in read_data_frequency_fft_marker: 1109 ms
+
+Total time spent in read_data_frequency_fft_marker: 1068 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1109 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1092 ms
+
+Total time spent in read_data_frequency_fft_marker: 1071 ms
+
+Total time spent in read_data_frequency_fft_marker: 1088 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1096 ms
+
+Total time spent in read_data_frequency_fft_marker: 1081 ms
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Total time spent in read_data_frequency_fft_marker: 1096 ms
+
+Total time spent in read_data_frequency_fft_marker: 1 ms
+1
+Total time spent in read_data_frequency_fft_marker: 16 ms
+1
+Total time spent in read_data_frequency_fft_marker: 16 ms
+
+Total time spent in read_data_frequency_fft_marker: 17 ms
+1

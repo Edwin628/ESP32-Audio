@@ -3,20 +3,13 @@
 #include <string>
 #include <vector>
 #include <regex>
+#include "Timer.h"
 
 #define SAMPLES 512  // Number of samples for FFT. Must be a power of 2.
-#define SAMPLING_RATE 48000  // Sampling rate in Hz.
-
-
-
-void perform_fft(float* signal, float* output, uint32_t size) {
-    memcpy(output, signal, size * sizeof(float));
-    dsps_fft2r_fc32(output, size);
-    dsps_bit_rev_fc32(output, size);
-    dsps_cplx2reC_fc32(output, size);
-}
-
+#define SAMPLING_RATE 44100  // Sampling rate in Hz.
 #define MAX_SAMPLES 2048
+// #define MARKER
+// #define TIME_M
 float real[MAX_SAMPLES];   // Array to store real values for FFT.
 float imag[MAX_SAMPLES];   // Array to store imaginary values for FFT.
 // Data arrays for test
@@ -26,13 +19,25 @@ float x2[MAX_SAMPLES];    // Input signal with window
 float y1_cf[MAX_SAMPLES * 2]; // Complex array for FFT (no window)
 float y2_cf[MAX_SAMPLES * 2]; // Complex array for FFT (with window)
 
+void perform_fft(float* signal, float* output, uint32_t size) {
+    for (int i=0 ; i< size ; i++)
+    {
+        output[i*2 + 0] = signal[i]; // Real part is your signal
+        output[i*2 + 1] = 0; // Imag part is 0
+    }
+    // memcpy(output, signal, size * sizeof(float));
+    dsps_fft2r_fc32(output, size);
+    dsps_bit_rev_fc32(output, size);
+    dsps_cplx2reC_fc32(output, size);
+}
+
 void fft_test() {
     // Generate Hann window
     dsps_wind_hann_f32(wind, SAMPLES);
 
     // Generate input signal (for example, a combination of sine waves)
     for (int i = 0; i < SAMPLES; i++) {
-        x1[i] = 1.0 * sin(2 * M_PI * i / SAMPLES * 50) + 0.5 * sin(2 * M_PI * i / SAMPLES * 120);
+        x1[i] = 1.0 * sin(2 * M_PI * i / SAMPLING_RATE * 1500) + 0.5 * sin(2 * M_PI * i / SAMPLING_RATE * 4000);
     }
 
     // Apply the Hann window to the input signal
@@ -42,7 +47,7 @@ void fft_test() {
 
     // Initialize FFT
     if (dsps_fft2r_init_fc32(NULL, CONFIG_DSP_MAX_FFT_SIZE) != ESP_OK) {
-        Serial.println("FFT initialization failed");
+        printf("FFT initialization failed\n");
         return;
     }
 
@@ -52,23 +57,27 @@ void fft_test() {
     // Perform FFT with Hann window
     perform_fft(x2, y2_cf, SAMPLES);
 
-    // Print FFT results (magnitude)
-    Serial.println("FFT output without window:");
+    // Print FFT results (magnitude) without window
+    printf("FFT output without window:\n");
     for (int i = 0; i < SAMPLES / 2; i++) {
         float real = y1_cf[i * 2];
         float imag = y1_cf[i * 2 + 1];
         float magnitude = sqrt(real * real + imag * imag);
-        Serial.printf("%d: %f\n", i, magnitude);
+        float frequency = i * (SAMPLING_RATE / SAMPLES);
+        printf("Frequency: %f Hz, Magnitude: %f\n", frequency, magnitude);
     }
 
-    Serial.println("FFT output with Hann window:");
+    // Print FFT results (magnitude) with Hann window
+    printf("FFT output with Hann window:\n");
     for (int i = 0; i < SAMPLES / 2; i++) {
         float real = y2_cf[i * 2];
         float imag = y2_cf[i * 2 + 1];
         float magnitude = sqrt(real * real + imag * imag);
-        Serial.printf("%d: %f\n", i, magnitude);
+        float frequency = i * (SAMPLING_RATE / SAMPLES);
+        printf("Frequency: %f Hz, Magnitude: %f\n", frequency, magnitude);
     }
 }
+
 
 
 bool detecting = true;
@@ -250,10 +259,26 @@ void read_binary_data_frequency_onechannel(const uint8_t *data, uint32_t length)
     Serial.print("Decoded message: ");
     Serial.println(decoded_message);
 }
-
+ 
 void read_data_frequency_fft_onechannel(const uint8_t *data, uint32_t length) {
     int16_t *samples = (int16_t*) data;
-    uint32_t sample_count = length / 2; // Each sample is 2 bytes (mono channel)
+    uint32_t sample_count = length / 4; // Each sample is 2 bytes (mono channel)
+    int consecutiveCount = 0;
+    const int requiredConsecutive = 40;
+
+    memset(real, 0, sizeof(real));
+    memset(imag, 0, sizeof(imag));
+
+    for (uint32_t i = 0; i < sample_count; i++) {
+        int16_t left_sample = samples[2 * i];
+        int16_t right_sample = samples[2 * i + 1];
+        Serial.print("Sample ");
+        Serial.print(i);
+        Serial.print(": ");
+        // Serial.println(left_sample);
+        real[i] = (float)left_sample;
+        Serial.println(real[i]);
+    }
 
     // Determine the next power of 2 greater than sample_count
     uint32_t fft_size = 1;
@@ -261,16 +286,14 @@ void read_data_frequency_fft_onechannel(const uint8_t *data, uint32_t length) {
         fft_size <<= 1;
     }
     fft_size = (fft_size > MAX_SAMPLES) ? MAX_SAMPLES : fft_size;
+    // fft_size = fft_size >> 1;
+    Serial.print("fft size: ");
+    Serial.println(fft_size);
 
-    for (uint32_t i = 0; i < sample_count; i++) {
-        real[i] = (float)samples[i];
-        imag[i] = 0.0;
-    }
-
-    // Zero padding if necessary
-    for (uint32_t i = sample_count; i < fft_size; i++) {
-        real[i] = 0.0;
-        imag[i] = 0.0;
+    // Initialize FFT
+    if (dsps_fft2r_init_fc32(NULL, fft_size) != ESP_OK) {
+        Serial.println("FFT initialization failed");
+        return;
     }
 
     // Generate Hann window
@@ -279,15 +302,6 @@ void read_data_frequency_fft_onechannel(const uint8_t *data, uint32_t length) {
     // Apply Hann window to the input signal
     for (uint32_t i = 0; i < sample_count; i++) {
         x2[i] = real[i] * wind[i];
-    }
-    for (uint32_t i = sample_count; i < fft_size; i++) {
-        x2[i] = 0.0; // Ensure the rest is zero-padded
-    }
-
-    // Initialize FFT
-    if (dsps_fft2r_init_fc32(NULL, fft_size) != ESP_OK) {
-        Serial.println("FFT initialization failed");
-        return;
     }
 
     // Perform FFT without window
@@ -305,6 +319,8 @@ void read_data_frequency_fft_onechannel(const uint8_t *data, uint32_t length) {
         float real1 = y1_cf[i * 2];
         float imag1 = y1_cf[i * 2 + 1];
         float magnitude1 = sqrt(real1 * real1 + imag1 * imag1);
+        Serial.print("magnitude1: ");
+        Serial.println(magnitude1);
         if (magnitude1 > max_mag1) {
             max_mag1 = magnitude1;
             max_index1 = i;
@@ -318,24 +334,334 @@ void read_data_frequency_fft_onechannel(const uint8_t *data, uint32_t length) {
             max_mag2 = magnitude2;
             max_index2 = i;
         }
+              
     }
 
     // Calculate frequency
     float frequency1 = (float)max_index1 * SAMPLING_RATE / fft_size;
-    float frequency2 = (float)max_index2 * SAMPLING_RATE / fft_size;
-
     Serial.print("Detected frequency without window: ");
     Serial.println(frequency1);
 
+    
+    float frequency2 = (float)max_index2 * SAMPLING_RATE / fft_size;
     Serial.print("Detected frequency with window: ");
     Serial.println(frequency2);
+    
 
     // Decode frequency to message
-    decoded_message[0] = decode_ascii_frequency(frequency2);  // Use windowed FFT result for decoding
+    decoded_message[0] = decode_ascii_frequency(frequency1);  // Use windowed FFT result for decoding
     decoded_message[1] = '\0';  // Null-terminate the string
 
     Serial.print("Decoded message: ");
     Serial.println(decoded_message);
+}
+
+enum State {
+    IDLE,
+    SYNC,
+    PREAMBLE,
+    DATA,
+    END
+};
+
+State currentState = IDLE;
+int consecutiveHighCount = 0;
+int consecutiveLowCount = 0;
+const int requiredHighCount = 200; 
+const int requiredLowCount = 20;  
+const int thresholdDetect = 25000;      
+const int thresholdZero = 10000;
+int consecutiveZeroCount = 0;
+int sampleCount = 480;
+const int requiredZeroCount = 20;
+bool fftInitialized = false;
+uint32_t currentFftSize = 0;
+std::vector<char> decoded_chars;
+Timer timer;
+
+
+const std::vector<int> commonSamplingRates = {
+    80, 160, 220, 240, 320,
+    441, 480, 882, 960, 1920
+};
+
+
+
+void initializeFFT(uint32_t fft_size) {
+    if (!fftInitialized || fft_size != currentFftSize) {
+        if (dsps_fft2r_init_fc32(NULL, fft_size) != ESP_OK) {
+            Serial.println("FFT initialization failed");
+            return;
+        }
+        fftInitialized = true;
+        currentFftSize = fft_size;
+        dsps_wind_hann_f32(wind, fft_size);
+        Serial.println("FFT initialized");
+        #ifdef TIME_M
+        timer.reset();
+        #endif
+    }
+}
+
+void detect_start_marker(int16_t left_sample, int16_t right_sample, int& consecutiveHighCount, int requiredHighCount) {
+    if (left_sample > right_sample && abs(left_sample) > thresholdDetect && abs(right_sample) > thresholdDetect) {
+        consecutiveHighCount++;
+        if (consecutiveHighCount >= requiredHighCount) {
+            detecting = false;
+            currentState = SYNC;
+            consecutiveHighCount = 0;
+            #ifdef MARKER
+            Serial.println("Start marker detected");
+            #endif
+        }
+    } else {
+        consecutiveHighCount = 0;
+    }
+}
+
+bool detect_end_marker(int16_t left_sample, int16_t right_sample, int& consecutiveLowCount, int requiredLowCount) {
+    if (left_sample < right_sample && abs(left_sample) > thresholdDetect && abs(right_sample) > thresholdDetect) {
+        consecutiveLowCount++;
+        if (consecutiveLowCount >= requiredLowCount) {
+            consecutiveLowCount = 0;
+            return true;
+        }
+    } else {
+        consecutiveLowCount = 0;
+    }
+    return false;
+}
+
+
+char decode_ascii_from_frequencies(float* magnitudes, uint32_t fft_size, float sampling_rate) {
+    const uint16_t frequencies[] = {5000, 6000, 7000, 8000, 9000, 10000, 11000, 12000};
+    // const uint16_t frequencies[] = {20000, 21000, 22000, 23000, 24000, 25000, 26000, 27000};
+    // const int num_frequencies = sizeof(frequencies) / sizeof(frequencies[0]);
+    const int num_frequencies = 8;
+    char decoded_char = 0;
+    
+    // for (int i = 0; i < num_frequencies; i++) {
+    //     int index = (int)(frequencies[i] * fft_size / sampling_rate);
+    //     if (magnitudes[index] > 120) {
+    //         decoded_char |= (1 << i);
+    //     }
+    // }
+
+    for (int i = 0; i < num_frequencies; i++) {
+        int index = (int)(frequencies[i] * fft_size / sampling_rate);
+        if (index < (fft_size / 2 + 1)) {
+            int lower_index = index > 0 ? index - 1 : index;
+            int upper_index = index < (fft_size / 2) ? index + 1 : index;
+            if (magnitudes[index] > 120 || magnitudes[lower_index] > 120 || magnitudes[upper_index] > 120) {
+                decoded_char |= (1 << i);
+            }
+        }
+    }
+    unsigned char mask = ~(1 << 7);
+    decoded_char = decoded_char & mask;
+
+    return decoded_char;
+}
+
+char decode_ascii_from_frequencies_chirp(float* magnitudes, uint32_t fft_size, float sampling_rate) {
+    const uint16_t frequencies[] = {5000, 6000, 7000, 8000, 9000, 10000, 11000, 12000};
+    const int num_frequencies = 8;
+    char decoded_char = 0;
+    const float threshold = 40.0;
+    const int search_range = 8; 
+    const int required_count = 5; 
+
+    for (int i = 0; i < num_frequencies; i++) {
+        int index = (int)(frequencies[i] * fft_size / sampling_rate);
+        if (index < (fft_size / 2 + 1)) {
+            int count = 0;
+            for (int j = -search_range; j <= search_range; j++) {
+                int check_index = index + j;
+                if (check_index >= 0 && check_index <= (fft_size / 2) && magnitudes[check_index] > threshold) {
+                    count++;
+                }
+            }
+            if (count >= required_count) {
+                decoded_char |= (1 << i);
+            }
+        }
+    }
+
+    decoded_char &= ~(1 << 7);
+
+    return decoded_char;
+}
+
+int findClosestSamplingRate(int sampleCount) {
+    auto closestRate = *std::min_element(commonSamplingRates.begin(), commonSamplingRates.end(),
+        [sampleCount](int a, int b) {
+            return std::abs(a - sampleCount) < std::abs(b - sampleCount);
+        });
+
+    return closestRate;
+}
+
+void process_fft_and_decode(float* input, uint32_t fft_size, float sampling_rate) {
+    float magnitudes[fft_size / 2];
+
+    perform_fft(input, y1_cf, fft_size);
+
+    for (int i = 0; i < fft_size / 2; i++) {
+        float real = y1_cf[i * 2];
+        float imag = y1_cf[i * 2 + 1];
+        magnitudes[i] = sqrt(real * real + imag * imag);
+    }
+
+    #ifdef MARKER
+    Serial.println("Magnitudes:");
+    for (int i = 0; i < fft_size / 2; i++) {
+        Serial.print(magnitudes[i]);
+        Serial.print(" ");
+    }
+    Serial.println();
+    #endif
+
+    char decoded_char = decode_ascii_from_frequencies_chirp(magnitudes, fft_size, sampling_rate);
+    #ifdef MARKER
+    Serial.print("Decoded char: ");
+    Serial.println(decoded_char);
+    #endif
+
+    decoded_chars.push_back(decoded_char);
+
+}
+
+
+void process_sample(int16_t left_sample, int16_t right_sample, int& consecutiveHighCount, int& consecutiveLowCount, uint32_t fft_size) {
+    static float fft_buffer[500];
+    static int buffer_index = 0;
+
+    switch (currentState) {
+        case IDLE:
+            detect_start_marker(left_sample, right_sample, consecutiveHighCount, requiredHighCount);
+            break;
+        
+        case SYNC:
+            #ifdef TIME_M
+            timer.start();
+            #endif
+            if (abs(left_sample) < thresholdZero && abs(right_sample) < thresholdZero) {
+                consecutiveZeroCount++;
+            } else {
+                if (consecutiveZeroCount >= requiredZeroCount && (abs(left_sample) > thresholdZero || abs(right_sample) > thresholdZero)) {
+                    currentState = DATA;
+                    sampleCount = consecutiveZeroCount*5;
+                    sampleCount = findClosestSamplingRate(sampleCount);
+                    #ifdef MARKER
+                    Serial.print("sampleCount: ");
+                    Serial.println(sampleCount);
+                    Serial.println("SYNC detected, starting data reception");
+                    #endif
+                }
+                consecutiveZeroCount = 0;
+            }
+            break;
+
+        case PREAMBLE:
+            #ifdef MARKER
+            // Serial.println("State Preamble");
+            // Serial.println(consecutiveZeroCount);
+            #endif
+            if (abs(left_sample) < thresholdZero && abs(right_sample) < thresholdZero) {
+                consecutiveZeroCount++;
+            } else {
+                if (consecutiveZeroCount >= requiredZeroCount && (abs(left_sample) > thresholdZero || abs(right_sample) > thresholdZero)) {
+                    currentState = DATA;
+                    // Serial.print("sampleCount: ");
+                    // Serial.println(sampleCount);
+                    #ifdef MARKER
+                    Serial.println("Preamble detected, continue data reception");
+                    #endif
+                }
+                consecutiveZeroCount = 0;
+            }
+            break;
+
+        case DATA:
+            fft_buffer[buffer_index++] =  static_cast<float>(left_sample) / 32768.0f;
+            // fft_buffer[buffer_index] = fft_buffer[buffer_index] * wind[buffer_index];
+            // Serial.print("fft buffer index: ");
+            // Serial.println(buffer_index);
+
+            if (buffer_index >= sampleCount) {
+                // Serial.println("Process FFT and decode now");
+                // Serial.print("FFT size: ");
+                // Serial.println(fft_size);
+                process_fft_and_decode(fft_buffer, fft_size, sampleCount*100);
+                memset(fft_buffer, 0, sizeof(fft_buffer));
+                buffer_index = 0;
+                currentState = PREAMBLE;
+            }
+
+            // end marker
+            if (detect_end_marker(left_sample, right_sample, consecutiveLowCount, requiredLowCount)) {
+                memset(fft_buffer, 0, sizeof(fft_buffer));
+                buffer_index = 0;
+                currentState = END;
+                #ifdef MARKER
+                Serial.println("End marker detected, stopping data reception.");
+                #endif
+            }
+            break;
+
+        case END:
+            #ifdef TIME_M
+            timer.stop();
+            Serial.printf("Total time spent in read_data_frequency_fft_marker: %lld ms\n", timer.getTotalDuration());
+            timer.reset();
+            #endif
+            for (char c: decoded_chars) {
+                Serial.print(c);
+            }
+            Serial.println();
+            #ifdef MARKER
+            Serial.println();
+            Serial.println("End printing finished, idle state.");
+            #endif
+            decoded_chars.clear();
+            currentState = IDLE;
+            break;
+    }
+}
+
+void read_data_frequency_fft_marker(const uint8_t *data, uint32_t length) {
+    int16_t *samples = (int16_t*) data;
+    uint32_t sample_count = length / 4; // Each sample is 2 bytes (mono channel)
+    int consecutiveCount = 0;
+    const int requiredConsecutive = 40;
+
+    memset(real, 0, sizeof(real));
+    memset(imag, 0, sizeof(imag));
+
+    // Determine the next power of 2 greater than sample_count
+    uint32_t fft_size = 1;
+    while (fft_size < sample_count) {
+        fft_size <<= 1;
+    }
+    fft_size = (fft_size > MAX_SAMPLES) ? MAX_SAMPLES : fft_size;
+    // fft_size = fft_size >> 1;
+    // Serial.print("fft size: ");
+    // Serial.println(fft_size);
+
+    initializeFFT(fft_size);
+
+    for (uint32_t i = 0; i < sample_count; i++) {
+        int16_t left_sample = samples[2 * i];
+        int16_t right_sample = samples[2 * i + 1];
+        // Serial.print("Receving sample ");
+        // Serial.print(i);
+        // Serial.print(": ");
+        // Serial.print(left_sample);
+        // Serial.print(", ");
+        // Serial.println(right_sample);
+        real[i] = (float)left_sample;
+        process_sample(left_sample, right_sample, consecutiveHighCount, consecutiveLowCount, fft_size);
+    }
 }
 
 

@@ -233,15 +233,15 @@ void read_binary_data_frequency_onechannel(const uint8_t *data, uint32_t length)
 #define SAMPLES 512  // Number of samples for FFT. Must be a power of 2.
 #define SAMPLING_RATE 48000  // Sampling rate in Hz.
 
-float real[SAMPLES];   // Array to store real values for FFT.
-float imag[SAMPLES];   // Array to store imaginary values for FFT.
+float real[SAMPLES_TEST];   // Array to store real values for FFT.
+float imag[SAMPLES_TEST];   // Array to store imaginary values for FFT.
 
 void read_data_frequency_fft_onechannel(const uint8_t *data, uint32_t length) {
     int16_t *samples = (int16_t*) data;
     uint32_t sample_count = length / 2; // Each channel's sample is 2 bytes, total 4 bytes for both channels
 
-    if (sample_count > SAMPLES) {
-        sample_count = SAMPLES;
+    if (sample_count > SAMPLES_TEST) {
+        sample_count = SAMPLES_TEST;
     }
 
     for (uint32_t i = 0; i < sample_count; i++) {
@@ -254,14 +254,14 @@ void read_data_frequency_fft_onechannel(const uint8_t *data, uint32_t length) {
         return;
     }
     // Perform FFT
-    dsps_fft2r_fc32(real, SAMPLES);
-    dsps_bit_rev_fc32(real, SAMPLES);
-    dsps_cplx2reC_fc32(real, SAMPLES);
+    dsps_fft2r_fc32(real, SAMPLES_TEST);
+    dsps_bit_rev_fc32(real, SAMPLES_TEST);
+    dsps_cplx2reC_fc32(real, SAMPLES_TEST);
 
     // Calculate magnitude and find the peak frequency
     float max_mag = 0.0;
     int max_index = 0;
-    for (int i = 0; i < SAMPLES / 2; i++) {
+    for (int i = 0; i < SAMPLES_TEST / 2; i++) {
         float mag = sqrt(real[i] * real[i] + imag[i] * imag[i]);
         if (mag > max_mag) {
             max_mag = mag;
@@ -270,7 +270,7 @@ void read_data_frequency_fft_onechannel(const uint8_t *data, uint32_t length) {
     }
 
     // Calculate frequency
-    float frequency = (float)max_index * SAMPLING_RATE / SAMPLES;
+    float frequency = (float)max_index * SAMPLING_RATE / SAMPLES_TEST;
     Serial.print("Detected frequency: ");
     Serial.println(frequency);
 

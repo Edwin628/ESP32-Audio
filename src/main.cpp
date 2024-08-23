@@ -12,9 +12,9 @@ void setup() {
     // fft_test();
     // Print heap info after FFT test
     // printHeapInfo();
+    // test_frequency_spectrum();
     
     configureBluetooth();
-    
     Serial.println("Successfully initialized I2S!");
 }
 
