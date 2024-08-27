@@ -1,0 +1,4824 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Successfully initialized I2S!
+AVRC metadata rsp: attribute id 0x1, 
+AVRC metadata rsp: attribute id 0x2, 
+AVRC metadata rsp: attribute id 0x4, 
+AVRC metadata rsp: attribute id 0x8, 0
+fft size: 1024
+FFT initialized
+Receving sample 0: 0, 0
+Receving sample 1: 0, 0
+Receving sample 2: 0, 0
+Receving sample 3: 0, 0
+Receving sample 4: 0, 0
+Receving sample 5: 0, 0
+Receving sample 6: 0, 0
+Receving sample 7: 0, 0
+Receving sample 8: 0, 0
+Receving sample 9: 0, 0
+Receving sample 10: 0, 0
+Receving sample 11: 0, 0
+Receving sample 12: 0, 0
+Receving sample 13: 0, 0
+Receving sample 14: 0, 0
+Receving sample 15: 0, 0
+Receving sample 16: 0, 0
+Receving sample 17: 0, 0
+Receving sample 18: 0, 0
+Receving sample 19: 0, 0
+Receving sample 20: 0, 0
+Receving sample 21: 0, 0
+Receving sample 22: 0, 0
+Receving sample 23: 0, 0
+Receving sample 24: 0, 0
+Receving sample 25: 0, 0
+Receving sample 26: 0, 0
+Receving sample 27: 0, 0
+Receving sample 28: 0, 0
+Receving sample 29: 0, 0
+Receving sample 30: 0, 0
+Receving sample 31: 0, 0
+Receving sample 32: 0, 0
+Receving sample 33: 0, 0
+Receving sample 34: 0, 0
+Receving sample 35: 0, 0
+Receving sample 36: 0, 0
+Receving sample 37: 0, 0
+Receving sample 38: 0, 0
+Receving sample 39: 0, 0
+Receving sample 40: 0, 0
+Receving sample 41: 0, 0
+Receving sample 42: 0, 0
+Receving sample 43: 0, 0
+Receving sample 44: 0, 0
+Receving sample 45: 0, 0
+Receving sample 46: 0, 0
+Receving sample 47: 0, 0
+Receving sample 48: 0, 0
+Receving sample 49: 0, 0
+Receving sample 50: 0, 0
+Receving sample 51: 0, 0
+Receving sample 52: 0, 0
+Receving sample 53: 0, 0
+Receving sample 54: 0, 0
+Receving sample 55: 0, 0
+Receving sample 56: 0, 0
+Receving sample 57: 0, 0
+Receving sample 58: 0, 0
+Receving sample 59: 0, 0
+Receving sample 60: 0, 0
+Receving sample 61: 0, 0
+Receving sample 62: 0, 0
+Receving sample 63: 0, 0
+Receving sample 64: 0, 0
+Receving sample 65: 0, 0
+Receving sample 66: 0, 0
+Receving sample 67: 0, 0
+Receving sample 68: 0, 0
+Receving sample 69: 0, 0
+Receving sample 70: 0, 0
+Receving sample 71: 0, 0
+Receving sample 72: 0, 0
+Receving sample 73: 0, 0
+Receving sample 74: 0, 0
+Receving sample 75: 0, 0
+Receving sample 76: 0, 0
+Receving sample 77: 0, 0
+Receving sample 78: 0, 0
+Receving sample 79: 0, 0
+Receving sample 80: 0, 0
+Receving sample 81: 0, 0
+Receving sample 82: 0, 0
+Receving sample 83: 0, 0
+Receving sample 84: 0, 0
+Receving sample 85: 0, 0
+Receving sample 86: 0, 0
+Receving sample 87: 0, 0
+Receving sample 88: 0, 0
+Receving sample 89: 0, 0
+Receving sample 90: 0, 0
+Receving sample 91: 0, 0
+Receving sample 92: 0, 0
+Receving sample 93: 0, 0
+Receving sample 94: 0, 0
+Receving sample 95: 0, 0
+Receving sample 96: 0, 0
+Receving sample 97: 0, 0
+Receving sample 98: 0, 0
+Receving sample 99: 0, 0
+Receving sample 100: 0, 0
+Receving sample 101: 0, 0
+Receving sample 102: 0, 0
+Receving sample 103: 0, 0
+Receving sample 104: 0, 0
+Receving sample 105: 0, 0
+Receving sample 106: 0, 0
+Receving sample 107: 0, 0
+Receving sample 108: 0, 0
+Receving sample 109: 0, 0
+Receving sample 110: 0, 0
+Receving sample 111: 0, 0
+Receving sample 112: 0, 0
+Receving sample 113: 0, 0
+Receving sample 114: 0, 0
+Receving sample 115: 0, 0
+Receving sample 116: 0, 0
+Receving sample 117: 0, 0
+Receving sample 118: 0, 0
+Receving sample 119: 0, 0
+Receving sample 120: 0, 0
+Receving sample 121: 0, 0
+Receving sample 122: 0, 0
+Receving sample 123: 0, 0
+Receving sample 124: 0, 0
+Receving sample 125: 0, 0
+Receving sample 126: 0, 0
+Receving sample 127: 0, 0
+Receving sample 128: 0, 0
+Receving sample 129: 0, 0
+Receving sample 130: 0, 0
+Receving sample 131: 0, 0
+Receving sample 132: 0, 0
+Receving sample 133: 0, 0
+Receving sample 134: 0, 0
+Receving sample 135: 0, 0
+Receving sample 136: 0, 0
+Receving sample 137: 0, 0
+Receving sample 138: 0, 0
+Receving sample 139: 0, 0
+Receving sample 140: 0, 0
+Receving sample 141: 0, 0
+Receving sample 142: 0, 0
+Receving sample 143: 0, 0
+Receving sample 144: 0, 0
+Receving sample 145: 0, 0
+Receving sample 146: 0, 0
+Receving sample 147: 0, 0
+Receving sample 148: 0, 0
+Receving sample 149: 0, 0
+Receving sample 150: 0, 0
+Receving sample 151: 0, 0
+Receving sample 152: 0, 0
+Receving sample 153: 0, 0
+Receving sample 154: 0, 0
+Receving sample 155: 0, 0
+Receving sample 156: 0, 0
+Receving sample 157: 0, 0
+Receving sample 158: 0, 0
+Receving sample 159: 0, 0
+Receving sample 160: 0, 0
+Receving sample 161: 0, 0
+Receving sample 162: 0, 0
+Receving sample 163: 0, 0
+Receving sample 164: 0, 0
+Receving sample 165: 0, 0
+Receving sample 166: 0, 0
+Receving sample 167: 0, 0
+Receving sample 168: 0, 0
+Receving sample 169: 0, 0
+Receving sample 170: 0, 0
+Receving sample 171: 0, 0
+Receving sample 172: 0, 0
+Receving sample 173: 0, 0
+Receving sample 174: 0, 0
+Receving sample 175: 0, 0
+Receving sample 176: 0, 0
+Receving sample 177: 0, 0
+Receving sample 178: 0, 0
+Receving sample 179: 0, 0
+Receving sample 180: 0, 0
+Receving sample 181: 0, 0
+Receving sample 182: 0, 0
+Receving sample 183: 0, 0
+Receving sample 184: 0, 0
+Receving sample 185: 0, 0
+Receving sample 186: 0, 0
+Receving sample 187: 0, 0
+Receving sample 188: 0, 0
+Receving sample 189: 0, 0
+Receving sample 190: 0, 0
+Receving sample 191: 0, 0
+Receving sample 192: 0, 0
+Receving sample 193: 0, 0
+Receving sample 194: 0, 0
+Receving sample 195: 0, 0
+Receving sample 196: 0, 0
+Receving sample 197: 0, 0
+Receving sample 198: 0, 0
+Receving sample 199: 0, 0
+Receving sample 200: 0, 0
+Receving sample 201: 0, 0
+Receving sample 202: 0, 0
+Receving sample 203: 0, 0
+Receving sample 204: 0, 0
+Receving sample 205: 0, 0
+Receving sample 206: 0, 0
+Receving sample 207: 0, 0
+Receving sample 208: 0, 0
+Receving sample 209: 0, 0
+Receving sample 210: 0, 0
+Receving sample 211: 0, 0
+Receving sample 212: 0, 0
+Receving sample 213: 0, 0
+Receving sample 214: 0, 0
+Receving sample 215: 0, 0
+Receving sample 216: 0, 0
+Receving sample 217: 0, 0
+Receving sample 218: 0, 0
+Receving sample 219: 0, 0
+Receving sample 220: 0, 0
+Receving sample 221: 0, 0
+Receving sample 222: 0, 0
+Receving sample 223: 0, 0
+Receving sample 224: 0, 0
+Receving sample 225: 0, 0
+Receving sample 226: 0, 0
+Receving sample 227: 0, 0
+Receving sample 228: 0, 0
+Receving sample 229: 0, 0
+Receving sample 230: 0, 0
+Receving sample 231: 0, 0
+Receving sample 232: 0, 0
+Receving sample 233: 0, 0
+Receving sample 234: 0, 0
+Receving sample 235: 0, 0
+Receving sample 236: 0, 0
+Receving sample 237: 0, 0
+Receving sample 238: 0, 0
+Receving sample 239: 0, 0
+Receving sample 240: 0, 0
+Receving sample 241: 0, 0
+Receving sample 242: 0, 0
+Receving sample 243: 0, 0
+Receving sample 244: 0, 0
+Receving sample 245: 0, 0
+Receving sample 246: 0, 0
+Receving sample 247: 0, 0
+Receving sample 248: 0, 0
+Receving sample 249: 0, 0
+Receving sample 250: 0, 0
+Receving sample 251: 0, 0
+Receving sample 252: 0, 0
+Receving sample 253: 0, 0
+Receving sample 254: 0, 0
+Receving sample 255: 0, 0
+Receving sample 256: 0, 0
+Receving sample 257: 0, 0
+Receving sample 258: 0, 0
+Receving sample 259: 0, 0
+Receving sample 260: 0, 0
+Receving sample 261: 0, 0
+Receving sample 262: 0, 0
+Receving sample 263: 0, 0
+Receving sample 264: 0, 0
+Receving sample 265: 0, 0
+Receving sample 266: 0, 0
+Receving sample 267: 0, 0
+Receving sample 268: 0, 0
+Receving sample 269: 0, 0
+Receving sample 270: 0, 0
+Receving sample 271: 0, 0
+Receving sample 272: 0, 0
+Receving sample 273: 0, 0
+Receving sample 274: 0, 0
+Receving sample 275: 0, 0
+Receving sample 276: 0, 0
+Receving sample 277: 0, 0
+Receving sample 278: 0, 0
+Receving sample 279: 0, 0
+Receving sample 280: 0, 0
+Receving sample 281: 0, 0
+Receving sample 282: 0, 0
+Receving sample 283: 0, 0
+Receving sample 284: 0, 0
+Receving sample 285: 0, 0
+Receving sample 286: 0, 0
+Receving sample 287: 0, 0
+Receving sample 288: 0, 0
+Receving sample 289: 0, 0
+Receving sample 290: 0, 0
+Receving sample 291: 0, 0
+Receving sample 292: 0, 0
+Receving sample 293: 0, 0
+Receving sample 294: 0, 0
+Receving sample 295: 0, 0
+Receving sample 296: 0, 0
+Receving sample 297: 0, 0
+Receving sample 298: 0, 0
+Receving sample 299: 0, 0
+Receving sample 300: 0, 0
+Receving sample 301: 0, 0
+Receving sample 302: 0, 0
+Receving sample 303: 0, 0
+Receving sample 304: 0, 0
+Receving sample 305: 0, 0
+Receving sample 306: 0, 0
+Receving sample 307: 0, 0
+Receving sample 308: 0, 0
+Receving sample 309: 0, 0
+Receving sample 310: 0, 0
+Receving sample 311: 0, 0
+Receving sample 312: 0, 0
+Receving sample 313: 0, 0
+Receving sample 314: 0, 0
+Receving sample 315: 0, 0
+Receving sample 316: 0, 0
+Receving sample 317: 0, 0
+Receving sample 318: 0, 0
+Receving sample 319: 0, 0
+Receving sample 320: 0, 0
+Receving sample 321: 0, 0
+Receving sample 322: 0, 0
+Receving sample 323: 0, 0
+Receving sample 324: 0, 0
+Receving sample 325: 0, 0
+Receving sample 326: 0, 0
+Receving sample 327: 0, 0
+Receving sample 328: 0, 0
+Receving sample 329: 0, 0
+Receving sample 330: 0, 0
+Receving sample 331: 0, 0
+Receving sample 332: 0, 0
+Receving sample 333: 0, 0
+Receving sample 334: 0, 0
+Receving sample 335: 0, 0
+Receving sample 336: 0, 0
+Receving sample 337: 0, 0
+Receving sample 338: 0, 0
+Receving sample 339: 0, 0
+Receving sample 340: 0, 0
+Receving sample 341: 0, 0
+Receving sample 342: 0, 0
+Receving sample 343: 0, 0
+Receving sample 344: 0, 0
+Receving sample 345: 0, 0
+Receving sample 346: 0, 0
+Receving sample 347: 0, 0
+Receving sample 348: 0, 0
+Receving sample 349: 0, 0
+Receving sample 350: 0, 0
+Receving sample 351: 0, 0
+Receving sample 352: 0, 0
+Receving sample 353: 0, 0
+Receving sample 354: 0, 0
+Receving sample 355: 0, 0
+Receving sample 356: 0, 0
+Receving sample 357: 0, 0
+Receving sample 358: 0, 0
+Receving sample 359: 0, 0
+Receving sample 360: 0, 0
+Receving sample 361: 0, 0
+Receving sample 362: 0, 0
+Receving sample 363: 0, 0
+Receving sample 364: 0, 0
+Receving sample 365: 0, 0
+Receving sample 366: 0, 0
+Receving sample 367: 0, 0
+Receving sample 368: 0, 0
+Receving sample 369: 0, 0
+Receving sample 370: 0, 0
+Receving sample 371: 0, 0
+Receving sample 372: 0, 0
+Receving sample 373: 0, 0
+Receving sample 374: 0, 0
+Receving sample 375: 0, 0
+Receving sample 376: 0, 0
+Receving sample 377: 0, 0
+Receving sample 378: 0, 0
+Receving sample 379: 0, 0
+Receving sample 380: 0, 0
+Receving sample 381: 0, 0
+Receving sample 382: 0, 0
+Receving sample 383: 0, 0
+Receving sample 384: 0, 0
+Receving sample 385: 0, 0
+Receving sample 386: 0, 0
+Receving sample 387: 0, 0
+Receving sample 388: 0, 0
+Receving sample 389: 0, 0
+Receving sample 390: 0, 0
+Receving sample 391: 0, 0
+Receving sample 392: 0, 0
+Receving sample 393: 0, 0
+Receving sample 394: 0, 0
+Receving sample 395: 0, 0
+Receving sample 396: 0, 0
+Receving sample 397: 0, 0
+Receving sample 398: 0, 0
+Receving sample 399: 0, 0
+Receving sample 400: 0, 0
+Receving sample 401: 0, 0
+Receving sample 402: 0, 0
+Receving sample 403: 0, 0
+Receving sample 404: 0, 0
+Receving sample 405: 0, 0
+Receving sample 406: 0, 0
+Receving sample 407: 0, 0
+Receving sample 408: 0, 0
+Receving sample 409: 0, 0
+Receving sample 410: 0, 0
+Receving sample 411: 0, 0
+Receving sample 412: 0, 0
+Receving sample 413: 0, 0
+Receving sample 414: 0, 0
+Receving sample 415: 0, 0
+Receving sample 416: 0, 0
+Receving sample 417: 0, 0
+Receving sample 418: 0, 0
+Receving sample 419: 0, 0
+Receving sample 420: 0, 0
+Receving sample 421: 0, 0
+Receving sample 422: 0, 0
+Receving sample 423: 0, 0
+Receving sample 424: 0, 0
+Receving sample 425: 0, 0
+Receving sample 426: 0, 0
+Receving sample 427: 0, 0
+Receving sample 428: 0, 0
+Receving sample 429: 0, 0
+Receving sample 430: 0, 0
+Receving sample 431: 0, 0
+Receving sample 432: 0, 0
+Receving sample 433: 0, 0
+Receving sample 434: 0, 0
+Receving sample 435: 0, 0
+Receving sample 436: 0, 0
+Receving sample 437: 0, 0
+Receving sample 438: 0, 0
+Receving sample 439: 0, 0
+Receving sample 440: 0, 0
+Receving sample 441: 0, 0
+Receving sample 442: 0, 0
+Receving sample 443: 0, 0
+Receving sample 444: 0, 0
+Receving sample 445: 0, 0
+Receving sample 446: 0, 0
+Receving sample 447: 0, 0
+Receving sample 448: 0, 0
+Receving sample 449: 0, 0
+Receving sample 450: 0, 0
+Receving sample 451: 0, 0
+Receving sample 452: 0, 0
+Receving sample 453: 0, 0
+Receving sample 454: 0, 0
+Receving sample 455: 0, 0
+Receving sample 456: 0, 0
+Receving sample 457: 0, 0
+Receving sample 458: 0, 0
+Receving sample 459: 0, 0
+Receving sample 460: 0, 0
+Receving sample 461: 0, 0
+Receving sample 462: 0, 0
+Receving sample 463: 0, 0
+Receving sample 464: 0, 0
+Receving sample 465: 0, 0
+Receving sample 466: 0, 0
+Receving sample 467: 0, 0
+Receving sample 468: 0, 0
+Receving sample 469: 0, 0
+Receving sample 470: 0, 0
+Receving sample 471: 0, 0
+Receving sample 472: 0, 0
+Receving sample 473: 0, 0
+Receving sample 474: 0, 0
+Receving sample 475: 0, 0
+Receving sample 476: 0, 0
+Receving sample 477: 0, 0
+Receving sample 478: 0, 0
+Receving sample 479: 0, 0
+Receving sample 480: 0, 0
+Receving sample 481: 0, 0
+Receving sample 482: 0, 0
+Receving sample 483: 0, 0
+Receving sample 484: 0, 0
+Receving sample 485: 0, 0
+Receving sample 486: 0, 0
+Receving sample 487: 0, 0
+Receving sample 488: 0, 0
+Receving sample 489: 0, 0
+Receving sample 490: 0, 0
+Receving sample 491: 0, 0
+Receving sample 492: 0, 0
+Receving sample 493: 0, 0
+Receving sample 494: 0, 0
+Receving sample 495: 0, 0
+Receving sample 496: 0, 0
+Receving sample 497: 0, 0
+Receving sample 498: 0, 0
+Receving sample 499: 0, 0
+Receving sample 500: 0, 0
+Receving sample 501: 0, 0
+Receving sample 502: 0, 0
+Receving sample 503: 0, 0
+Receving sample 504: 0, 0
+Receving sample 505: 0, 0
+Receving sample 506: 0, 0
+Receving sample 507: 0, 0
+Receving sample 508: 0, 0
+Receving sample 509: 0, 0
+Receving sample 510: 0, 0
+Receving sample 511: 0, 0
+Receving sample 512: 0, 0
+Receving sample 513: 0, 0
+Receving sample 514: 0, 0
+Receving sample 515: 0, 0
+Receving sample 516: 0, 0
+Receving sample 517: 0, 0
+Receving sample 518: 0, 0
+Receving sample 519: 0, 0
+Receving sample 520: 0, 0
+Receving sample 521: 0, 0
+Receving sample 522: 0, 0
+Receving sample 523: 0, 0
+Receving sample 524: 0, 0
+Receving sample 525: 0, 0
+Receving sample 526: 0, 0
+Receving sample 527: 0, 0
+Receving sample 528: 0, 0
+Receving sample 529: 0, 0
+Receving sample 530: 0, 0
+Receving sample 531: 0, 0
+Receving sample 532: 0, 0
+Receving sample 533: 0, 0
+Receving sample 534: 0, 0
+Receving sample 535: 0, 0
+Receving sample 536: 0, 0
+Receving sample 537: 0, 0
+Receving sample 538: 0, 0
+Receving sample 539: 0, 0
+Receving sample 540: 0, 0
+Receving sample 541: 0, 0
+Receving sample 542: 0, 0
+Receving sample 543: 0, 0
+Receving sample 544: 0, 0
+Receving sample 545: 0, 0
+Receving sample 546: 0, 0
+Receving sample 547: 0, 0
+Receving sample 548: 0, 0
+Receving sample 549: 0, 0
+Receving sample 550: 0, 0
+Receving sample 551: 0, 0
+Receving sample 552: 0, 0
+Receving sample 553: 0, 0
+Receving sample 554: 0, 0
+Receving sample 555: 0, 0
+Receving sample 556: 0, 0
+Receving sample 557: 0, 0
+Receving sample 558: 0, 0
+Receving sample 559: 0, 0
+Receving sample 560: 0, 0
+Receving sample 561: 0, 0
+Receving sample 562: 0, 0
+Receving sample 563: 0, 0
+Receving sample 564: 0, 0
+Receving sample 565: 0, 0
+Receving sample 566: 0, 0
+Receving sample 567: 0, 0
+Receving sample 568: 0, 0
+Receving sample 569: 0, 0
+Receving sample 570: 0, 0
+Receving sample 571: 0, 0
+Receving sample 572: 0, 0
+Receving sample 573: 0, 0
+Receving sample 574: 0, 0
+Receving sample 575: 0, 0
+Receving sample 576: 0, 0
+Receving sample 577: 0, 0
+Receving sample 578: 0, 0
+Receving sample 579: 0, 0
+Receving sample 580: 0, 0
+Receving sample 581: 0, 0
+Receving sample 582: 0, 0
+Receving sample 583: 0, 0
+Receving sample 584: 0, 0
+Receving sample 585: 0, 0
+Receving sample 586: 0, 0
+Receving sample 587: 0, 0
+Receving sample 588: 0, 0
+Receving sample 589: 0, 0
+Receving sample 590: 0, 0
+Receving sample 591: 0, 0
+Receving sample 592: 0, 0
+Receving sample 593: 0, 0
+Receving sample 594: 0, 0
+Receving sample 595: 0, 0
+Receving sample 596: 0, 0
+Receving sample 597: 0, 0
+Receving sample 598: 0, 0
+Receving sample 599: 0, 0
+Receving sample 600: 0, 0
+Receving sample 601: 0, 0
+Receving sample 602: 0, 0
+Receving sample 603: 0, 0
+Receving sample 604: 0, 0
+Receving sample 605: 0, 0
+Receving sample 606: 0, 0
+Receving sample 607: 0, 0
+Receving sample 608: 0, 0
+Receving sample 609: 0, 0
+Receving sample 610: 1, 0
+Receving sample 611: 0, 0
+Receving sample 612: 0, 0
+Receving sample 613: 0, 0
+Receving sample 614: -2, 0
+Receving sample 615: 0, 0
+Receving sample 616: 0, 0
+Receving sample 617: 0, 0
+Receving sample 618: 0, 0
+Receving sample 619: 1, 0
+Receving sample 620: 0, 0
+Receving sample 621: 1, 0
+Receving sample 622: 0, 0
+Receving sample 623: 0, 0
+Receving sample 624: 0, 0
+Receving sample 625: 0, 0
+Receving sample 626: 0, 0
+Receving sample 627: 0, 0
+Receving sample 628: 0, 0
+Receving sample 629: 0, 0
+Receving sample 630: 0, 0
+Receving sample 631: 0, 0
+Receving sample 632: 0, 0
+Receving sample 633: 0, 0
+Receving sample 634: 0, 0
+Receving sample 635: 0, 0
+Receving sample 636: 0, 0
+Receving sample 637: 0, 0
+Receving sample 638: 0, 0
+Receving sample 639: 0, 0
+Data not ready for processing
+fft size: 1024
+Receving sample 0: 0, 0
+Receving sample 1: 0, -1
+Receving sample 2: 1, 0
+Receving sample 3: 0, 0
+Receving sample 4: 0, 0
+Receving sample 5: 0, 0
+Receving sample 6: 1, 0
+Receving sample 7: 0, -1
+Receving sample 8: 0, 0
+Receving sample 9: 0, 1
+Receving sample 10: 0, -1
+Receving sample 11: 0, 1
+Receving sample 12: 0, 0
+Receving sample 13: 0, 0
+Receving sample 14: 0, -1
+Receving sample 15: 0, 1
+Receving sample 16: 0, 0
+Receving sample 17: 0, 0
+Receving sample 18: 0, 0
+Receving sample 19: 0, 0
+Receving sample 20: 0, 0
+Receving sample 21: 0, 0
+Receving sample 22: 0, 0
+Receving sample 23: 0, 0
+Receving sample 24: 0, 0
+Receving sample 25: 0, 0
+Receving sample 26: 0, 0
+Receving sample 27: 0, 1
+Receving sample 28: 0, 0
+Receving sample 29: 0, 1
+Receving sample 30: 0, 0
+Receving sample 31: 0, 0
+Receving sample 32: 0, 0
+Receving sample 33: 0, 0
+Receving sample 34: 0, 0
+Receving sample 35: 0, 0
+Receving sample 36: 0, 0
+Receving sample 37: 0, 0
+Receving sample 38: 0, 0
+Receving sample 39: 0, 0
+Receving sample 40: 0, 0
+Receving sample 41: 0, 0
+Receving sample 42: 0, 0
+Receving sample 43: 0, 0
+Receving sample 44: 0, 0
+Receving sample 45: 0, 0
+Receving sample 46: 0, 0
+Receving sample 47: 0, 0
+Receving sample 48: 0, -1
+Receving sample 49: 0, 0
+Receving sample 50: 0, 0
+Receving sample 51: 0, 1
+Receving sample 52: 0, 0
+Receving sample 53: 0, -1
+Receving sample 54: 0, 0
+Receving sample 55: 0, 0
+Receving sample 56: 0, 2
+Receving sample 57: 0, 0
+Receving sample 58: 0, 0
+Receving sample 59: 0, -1
+Receving sample 60: 0, 0
+Receving sample 61: 0, 0
+Receving sample 62: 0, 0
+Receving sample 63: 0, 0
+Receving sample 64: 0, 1
+Receving sample 65: 0, 0
+Receving sample 66: 0, 0
+Receving sample 67: 0, 0
+Receving sample 68: 0, 0
+Receving sample 69: 0, 0
+Receving sample 70: 0, 0
+Receving sample 71: 0, 0
+Receving sample 72: 0, 0
+Receving sample 73: 0, 0
+Receving sample 74: 0, 0
+Receving sample 75: 0, -1
+Receving sample 76: 0, 0
+Receving sample 77: 0, -1
+Receving sample 78: 0, 0
+Receving sample 79: 0, 0
+Receving sample 80: 0, 0
+Receving sample 81: 0, 0
+Receving sample 82: 0, 0
+Receving sample 83: 0, 0
+Receving sample 84: 0, 0
+Receving sample 85: 0, 0
+Receving sample 86: 0, 0
+Receving sample 87: 0, 0
+Receving sample 88: 0, 0
+Receving sample 89: 0, 0
+Receving sample 90: 0, 0
+Receving sample 91: 0, 0
+Receving sample 92: 0, 0
+Receving sample 93: 0, 0
+Receving sample 94: 0, 0
+Receving sample 95: 0, 0
+Receving sample 96: -1, 0
+Receving sample 97: 0, 0
+Receving sample 98: 0, 0
+Receving sample 99: 0, 0
+Receving sample 100: 0, 0
+Receving sample 101: 0, 0
+Receving sample 102: 0, 0
+Receving sample 103: 0, 0
+Receving sample 104: 2, 0
+Receving sample 105: 0, 0
+Receving sample 106: 1, 0
+Receving sample 107: 0, -1
+Receving sample 108: 0, 0
+Receving sample 109: 0, -1
+Receving sample 110: 1, 0
+Receving sample 111: 0, 0
+Receving sample 112: 1, 0
+Receving sample 113: 0, 0
+Receving sample 114: 0, 0
+Receving sample 115: 0, 0
+Receving sample 116: 0, 0
+Receving sample 117: 0, 0
+Receving sample 118: 0, 0
+Receving sample 119: 0, 0
+Receving sample 120: 0, 0
+Receving sample 121: 0, 0
+Receving sample 122: 0, 0
+Receving sample 123: 0, 0
+Receving sample 124: 0, 0
+Receving sample 125: 0, 0
+Receving sample 126: 0, 0
+Receving sample 127: 0, 0
+Receving sample 128: 0, 0
+Receving sample 129: 0, 0
+Receving sample 130: 0, 0
+Receving sample 131: 0, 0
+Receving sample 132: 0, 0
+Receving sample 133: 0, 0
+Receving sample 134: 0, 0
+Receving sample 135: 0, 0
+Receving sample 136: 0, 0
+Receving sample 137: 0, 0
+Receving sample 138: 0, 0
+Receving sample 139: 1, 0
+Receving sample 140: 0, 0
+Receving sample 141: -1, 0
+Receving sample 142: 0, 0
+Receving sample 143: 0, 0
+Receving sample 144: 0, 0
+Receving sample 145: 0, 0
+Receving sample 146: 0, 0
+Receving sample 147: 1, -1
+Receving sample 148: 0, 0
+Receving sample 149: 1, -1
+Receving sample 150: 0, 0
+Receving sample 151: 0, 0
+Receving sample 152: 0, 0
+Receving sample 153: 0, 0
+Receving sample 154: 0, 0
+Receving sample 155: 0, 0
+Receving sample 156: 0, 0
+Receving sample 157: 0, 0
+Receving sample 158: 0, 0
+Receving sample 159: 0, 0
+Receving sample 160: 0, 0
+Receving sample 161: 0, 0
+Receving sample 162: 0, 0
+Receving sample 163: 0, 0
+Receving sample 164: 0, 0
+Receving sample 165: 0, 0
+Receving sample 166: 0, 0
+Receving sample 167: 0, 0
+Receving sample 168: 0, 0
+Receving sample 169: 0, 0
+Receving sample 170: -1, 0
+Receving sample 171: 0, 0
+Receving sample 172: 0, 0
+Receving sample 173: 0, 0
+Receving sample 174: -1, 0
+Receving sample 175: 0, 0
+Receving sample 176: 0, 0
+Receving sample 177: 0, 0
+Receving sample 178: 0, 0
+Receving sample 179: 0, 0
+Receving sample 180: 0, 0
+Receving sample 181: 0, 0
+Receving sample 182: 0, 0
+Receving sample 183: 0, 0
+Receving sample 184: 0, 0
+Receving sample 185: 0, 0
+Receving sample 186: 0, 0
+Receving sample 187: 0, 0
+Receving sample 188: 0, 0
+Receving sample 189: 0, 0
+Receving sample 190: 0, 0
+Receving sample 191: 0, 0
+Receving sample 192: 0, 0
+Receving sample 193: 0, 0
+Receving sample 194: 0, 1
+Receving sample 195: 0, 0
+Receving sample 196: 0, 0
+Receving sample 197: 0, 0
+Receving sample 198: 0, -2
+Receving sample 199: 0, 0
+Receving sample 200: 0, 0
+Receving sample 201: 0, 0
+Receving sample 202: 1, 0
+Receving sample 203: 0, -1
+Receving sample 204: 0, 0
+Receving sample 205: 0, -1
+Receving sample 206: 1, 0
+Receving sample 207: 0, 0
+Receving sample 208: 0, 0
+Receving sample 209: 0, 0
+Receving sample 210: 0, 0
+Receving sample 211: 0, 1
+Receving sample 212: 0, 0
+Receving sample 213: 0, -2
+Receving sample 214: 0, 0
+Receving sample 215: 0, 0
+Receving sample 216: 0, 0
+Receving sample 217: 0, 1
+Receving sample 218: 0, 0
+Receving sample 219: 0, 0
+Receving sample 220: 0, 0
+Receving sample 221: 0, 0
+Receving sample 222: 0, 0
+Receving sample 223: 0, 1
+Receving sample 224: 0, 0
+Receving sample 225: 0, 0
+Receving sample 226: 0, 0
+Receving sample 227: 0, 1
+Receving sample 228: 0, 0
+Receving sample 229: 0, -1
+Receving sample 230: 0, 0
+Receving sample 231: 0, 0
+Receving sample 232: 0, 0
+Receving sample 233: 0, 0
+Receving sample 234: 0, 0
+Receving sample 235: 0, 0
+Receving sample 236: 0, -2
+Receving sample 237: 0, 0
+Receving sample 238: 0, 0
+Receving sample 239: 0, 0
+Receving sample 240: 0, 0
+Receving sample 241: 0, 0
+Receving sample 242: 0, 0
+Receving sample 243: 0, 0
+Receving sample 244: 0, 0
+Receving sample 245: 0, 0
+Receving sample 246: 0, 0
+Receving sample 247: 0, 0
+Receving sample 248: 0, 0
+Receving sample 249: 0, 0
+Receving sample 250: -1, 0
+Receving sample 251: 0, 0
+Receving sample 252: 0, 0
+Receving sample 253: 0, 0
+Receving sample 254: -1, 0
+Receving sample 255: 0, 0
+Receving sample 256: 0, 0
+Receving sample 257: 0, 0
+Receving sample 258: 0, 0
+Receving sample 259: 0, 0
+Receving sample 260: 0, 0
+Receving sample 261: 0, 0
+Receving sample 262: 0, 0
+Receving sample 263: 0, 0
+Receving sample 264: 0, 0
+Receving sample 265: 0, 0
+Receving sample 266: 0, 0
+Receving sample 267: 0, 0
+Receving sample 268: 0, 0
+Receving sample 269: 0, 0
+Receving sample 270: 0, 0
+Receving sample 271: 0, 0
+Receving sample 272: 0, 0
+Receving sample 273: 0, 0
+Receving sample 274: 0, 0
+Receving sample 275: 0, 0
+Receving sample 276: 0, 0
+Receving sample 277: 0, 0
+Receving sample 278: 0, 0
+Receving sample 279: 0, 0
+Receving sample 280: 0, 0
+Receving sample 281: 0, 0
+Receving sample 282: 0, 0
+Receving sample 283: 0, 0
+Receving sample 284: 0, 0
+Receving sample 285: 0, 0
+Receving sample 286: 0, 0
+Receving sample 287: 0, 0
+Receving sample 288: 0, 0
+Receving sample 289: 0, 0
+Receving sample 290: 0, 0
+Receving sample 291: -1, 0
+Receving sample 292: 0, 0
+Receving sample 293: -1, 0
+Receving sample 294: 0, 0
+Receving sample 295: 0, 0
+Receving sample 296: 0, 0
+Receving sample 297: 0, 0
+Receving sample 298: 0, 0
+Receving sample 299: 0, 0
+Receving sample 300: 0, 0
+Receving sample 301: 0, 0
+Receving sample 302: 0, 0
+Receving sample 303: 0, 0
+Receving sample 304: 0, 0
+Receving sample 305: 0, 0
+Receving sample 306: 0, 0
+Receving sample 307: 0, 0
+Receving sample 308: 0, 0
+Receving sample 309: 0, 0
+Receving sample 310: 0, 0
+Receving sample 311: 0, 0
+Receving sample 312: 0, 0
+Receving sample 313: 0, 0
+Receving sample 314: 0, 0
+Receving sample 315: 0, 0
+Receving sample 316: 0, 0
+Receving sample 317: 0, 0
+Receving sample 318: 0, 0
+Receving sample 319: 0, 0
+Receving sample 320: 0, 0
+Receving sample 321: 0, 0
+Receving sample 322: 0, 0
+Receving sample 323: 0, 0
+Receving sample 324: 0, 0
+Receving sample 325: 0, 0
+Receving sample 326: 0, 0
+Receving sample 327: 0, 0
+Receving sample 328: 0, 0
+Receving sample 329: 0, 0
+Receving sample 330: 0, 0
+Receving sample 331: 0, 0
+Receving sample 332: 0, 0
+Receving sample 333: 0, 0
+Receving sample 334: 0, 0
+Receving sample 335: 0, 0
+Receving sample 336: 0, 0
+Receving sample 337: 1, 0
+Receving sample 338: 0, 0
+Receving sample 339: -1, 0
+Receving sample 340: 0, 0
+Receving sample 341: 1, 0
+Receving sample 342: 0, 0
+Receving sample 343: -2, 0
+Receving sample 344: 0, 0
+Receving sample 345: 0, 0
+Receving sample 346: 0, 0
+Receving sample 347: 0, 0
+Receving sample 348: 0, 0
+Receving sample 349: 0, 0
+Receving sample 350: 0, 0
+Receving sample 351: 0, 0
+Receving sample 352: 0, 0
+Receving sample 353: -1, 0
+Receving sample 354: 0, 0
+Receving sample 355: 0, 0
+Receving sample 356: 0, 0
+Receving sample 357: 0, 0
+Receving sample 358: 0, 0
+Receving sample 359: 0, 0
+Receving sample 360: 0, 0
+Receving sample 361: 0, 0
+Receving sample 362: 0, 0
+Receving sample 363: 0, 0
+Receving sample 364: 0, 0
+Receving sample 365: 0, 0
+Receving sample 366: 0, 0
+Receving sample 367: 0, 0
+Receving sample 368: 0, 0
+Receving sample 369: 0, 0
+Receving sample 370: 0, 0
+Receving sample 371: 0, 0
+Receving sample 372: 0, 0
+Receving sample 373: 0, 0
+Receving sample 374: 0, 0
+Receving sample 375: 0, 0
+Receving sample 376: 0, 0
+Receving sample 377: 0, 0
+Receving sample 378: 0, -1
+Receving sample 379: 0, 0
+Receving sample 380: 0, 0
+Receving sample 381: 0, 0
+Receving sample 382: 0, -1
+Receving sample 383: 0, 0
+Receving sample 384: 0, 0
+Receving sample 385: 0, 0
+Receving sample 386: 0, 0
+Receving sample 387: 0, 0
+Receving sample 388: 0, 0
+Receving sample 389: 0, 0
+Receving sample 390: 0, 0
+Receving sample 391: 0, 0
+Receving sample 392: 0, 0
+Receving sample 393: 0, 0
+Receving sample 394: 0, 0
+Receving sample 395: 0, 0
+Receving sample 396: 0, 0
+Receving sample 397: 0, 0
+Receving sample 398: 0, 0
+Receving sample 399: 0, 0
+Receving sample 400: 0, 0
+Receving sample 401: 0, 0
+Receving sample 402: 0, 0
+Receving sample 403: 0, 0
+Receving sample 404: 0, 0
+Receving sample 405: 0, 0
+Receving sample 406: 0, 0
+Receving sample 407: 0, 0
+Receving sample 408: 0, 0
+Receving sample 409: 0, 0
+Receving sample 410: 0, 0
+Receving sample 411: 0, 0
+Receving sample 412: 0, 0
+Receving sample 413: 0, 0
+Receving sample 414: 0, 0
+Receving sample 415: 0, 0
+Receving sample 416: 0, 0
+Receving sample 417: 0, 0
+Receving sample 418: 0, 0
+Receving sample 419: 0, -1
+Receving sample 420: 0, 0
+Receving sample 421: 0, -1
+Receving sample 422: 0, 0
+Receving sample 423: 0, 0
+Receving sample 424: 0, 0
+Receving sample 425: 0, 0
+Receving sample 426: 0, 0
+Receving sample 427: 0, 0
+Receving sample 428: 0, 0
+Receving sample 429: 0, 0
+Receving sample 430: 0, 0
+Receving sample 431: 0, 0
+Receving sample 432: 0, 0
+Receving sample 433: 0, 0
+Receving sample 434: 0, 0
+Receving sample 435: 0, 0
+Receving sample 436: 0, 0
+Receving sample 437: 0, 0
+Receving sample 438: 0, 0
+Receving sample 439: 0, 0
+Receving sample 440: 0, 0
+Receving sample 441: 0, 0
+Receving sample 442: 0, 0
+Receving sample 443: 0, 0
+Receving sample 444: 0, 0
+Receving sample 445: 0, 0
+Receving sample 446: 0, 0
+Receving sample 447: 0, 0
+Receving sample 448: 0, 0
+Receving sample 449: 0, 0
+Receving sample 450: 0, 0
+Receving sample 451: 0, 1
+Receving sample 452: 0, 0
+Receving sample 453: 0, 1
+Receving sample 454: 0, 0
+Receving sample 455: 0, 0
+Receving sample 456: 0, 1
+Receving sample 457: 0, 0
+Receving sample 458: 0, 0
+Receving sample 459: 0, 0
+Receving sample 460: 0, 0
+Receving sample 461: 0, 0
+Receving sample 462: 0, 0
+Receving sample 463: 0, 0
+Receving sample 464: 0, -2
+Receving sample 465: 0, -1
+Receving sample 466: 0, 0
+Receving sample 467: 0, 0
+Receving sample 468: 0, 0
+Receving sample 469: 0, 0
+Receving sample 470: 0, 0
+Receving sample 471: 0, -1
+Receving sample 472: 0, -1
+Receving sample 473: 0, 0
+Receving sample 474: 0, 0
+Receving sample 475: 0, 0
+Receving sample 476: 0, 0
+Receving sample 477: 0, 0
+Receving sample 478: 0, 0
+Receving sample 479: 0, 0
+Receving sample 480: 0, 0
+Receving sample 481: 0, 0
+Receving sample 482: 0, 0
+Receving sample 483: 0, 0
+Receving sample 484: 0, 0
+Receving sample 485: 0, 0
+Receving sample 486: 0, 0
+Receving sample 487: 0, 0
+Receving sample 488: 0, 0
+Receving sample 489: 0, 0
+Receving sample 490: 0, 0
+Receving sample 491: 0, 0
+Receving sample 492: 0, 0
+Receving sample 493: 0, 0
+Receving sample 494: 0, 0
+Receving sample 495: 0, 0
+Receving sample 496: 0, 0
+Receving sample 497: 0, 0
+Receving sample 498: -1, 0
+Receving sample 499: 0, 0
+Receving sample 500: 0, 0
+Receving sample 501: 0, 0
+Receving sample 502: -1, 0
+Receving sample 503: 0, 0
+Receving sample 504: 0, 0
+Receving sample 505: 0, 0
+Receving sample 506: 0, 0
+Receving sample 507: 0, 0
+Receving sample 508: 0, 0
+Receving sample 509: 0, 0
+Receving sample 510: 0, 0
+Receving sample 511: 0, 0
+Receving sample 512: 0, 0
+Receving sample 513: 0, 0
+Receving sample 514: 0, 0
+Receving sample 515: 0, 0
+Receving sample 516: 0, 0
+Receving sample 517: 0, 0
+Receving sample 518: 0, 0
+Receving sample 519: 0, 0
+Receving sample 520: 0, 0
+Receving sample 521: 0, 0
+Receving sample 522: 0, 0
+Receving sample 523: 0, 0
+Receving sample 524: 0, 0
+Receving sample 525: 0, 0
+Receving sample 526: 0, 0
+Receving sample 527: 0, 0
+Receving sample 528: 0, 0
+Receving sample 529: 0, 0
+Receving sample 530: 0, 0
+Receving sample 531: 0, 0
+Receving sample 532: 0, 0
+Receving sample 533: 0, 0
+Receving sample 534: 0, 0
+Receving sample 535: 0, 0
+Receving sample 536: 0, 0
+Receving sample 537: 0, 0
+Receving sample 538: 0, 0
+Receving sample 539: 0, 0
+Receving sample 540: 0, 0
+Receving sample 541: 0, 0
+Receving sample 542: 0, 0
+Receving sample 543: 0, 0
+Receving sample 544: 0, 0
+Receving sample 545: 0, 0
+Receving sample 546: 0, 0
+Receving sample 547: 0, 0
+Receving sample 548: 0, 0
+Receving sample 549: 0, 0
+Receving sample 550: 0, 0
+Receving sample 551: 0, 0
+Receving sample 552: 0, 0
+Receving sample 553: 0, 0
+Receving sample 554: 0, 0
+Receving sample 555: 0, 0
+Receving sample 556: 0, 0
+Receving sample 557: 0, 0
+Receving sample 558: 0, 0
+Receving sample 559: 0, 0
+Receving sample 560: 0, 0
+Receving sample 561: 0, 0
+Receving sample 562: 0, 0
+Receving sample 563: 0, 0
+Receving sample 564: 0, 0
+Receving sample 565: 0, 0
+Receving sample 566: 0, 0
+Receving sample 567: 0, 0
+Receving sample 568: 0, 0
+Receving sample 569: 0, 0
+Receving sample 570: 0, 0
+Receving sample 571: 0, 1
+Receving sample 572: 0, 0
+Receving sample 573: 0, 1
+Receving sample 574: 0, 0
+Receving sample 575: 0, 0
+Receving sample 576: 0, 0
+Receving sample 577: 0, 0
+Receving sample 578: 0, -1
+Receving sample 579: 0, -1
+Receving sample 580: 0, 0
+Receving sample 581: 0, 1
+Receving sample 582: 0, -1
+Receving sample 583: 0, 0
+Receving sample 584: 0, 0
+Receving sample 585: 0, -1
+Receving sample 586: 0, 0
+Receving sample 587: 0, 0
+Receving sample 588: 0, 0
+Receving sample 589: 0, 0
+Receving sample 590: 0, 0
+Receving sample 591: 0, -1
+Receving sample 592: 0, 0
+Receving sample 593: 0, 0
+Receving sample 594: 0, 1
+Receving sample 595: 0, 0
+Receving sample 596: 0, 0
+Receving sample 597: 0, 0
+Receving sample 598: 0, 1
+Receving sample 599: 0, 0
+Receving sample 600: 0, 0
+Receving sample 601: 0, 0
+Receving sample 602: 0, 0
+Receving sample 603: -1, 1
+Receving sample 604: 0, 0
+Receving sample 605: 1, 1
+Receving sample 606: 0, 0
+Receving sample 607: 0, 0
+Receving sample 608: 0, 0
+Receving sample 609: 0, 0
+Receving sample 610: 0, 0
+Receving sample 611: 0, 0
+Receving sample 612: 0, 0
+Receving sample 613: 0, 0
+Receving sample 614: 0, 0
+Receving sample 615: 0, 0
+Receving sample 616: 0, 0
+Receving sample 617: 1, 0
+Receving sample 618: 0, 0
+Receving sample 619: 0, 0
+Receving sample 620: 0, 0
+Receving sample 621: 0, 0
+Receving sample 622: 0, 0
+Receving sample 623: 1, 0
+Receving sample 624: 0, 0
+Receving sample 625: 0, 0
+Receving sample 626: 0, 0
+Receving sample 627: 0, 0
+Receving sample 628: 0, 0
+Receving sample 629: 0, 0
+Receving sample 630: 0, 0
+Receving sample 631: 0, 0
+Receving sample 632: 0, 0
+Receving sample 633: 0, 0
+Receving sample 634: 0, 0
+Receving sample 635: 0, 0
+Receving sample 636: 0, 0
+Receving sample 637: 0, 0
+Receving sample 638: 0, 0
+Receving sample 639: 0, 0
+Data not ready for processing
+fft size: 1024
+Receving sample 0: 0, 0
+Receving sample 1: 0, 0
+Receving sample 2: 0, 0
+Receving sample 3: 0, 0
+Receving sample 4: 0, 0
+Receving sample 5: 0, 0
+Receving sample 6: 0, 0
+Receving sample 7: 0, 0
+Receving sample 8: 0, 0
+Receving sample 9: 0, 0
+Receving sample 10: 0, 0
+Receving sample 11: 0, 0
+Receving sample 12: 0, 0
+Receving sample 13: 0, 0
+Receving sample 14: 0, 0
+Receving sample 15: 0, 0
+Receving sample 16: 0, 0
+Receving sample 17: 0, 0
+Receving sample 18: 0, 0
+Receving sample 19: 0, 0
+Receving sample 20: 0, 0
+Receving sample 21: 0, 0
+Receving sample 22: 0, 0
+Receving sample 23: 0, 0
+Receving sample 24: 0, 0
+Receving sample 25: 0, 0
+Receving sample 26: 0, 1
+Receving sample 27: 0, 0
+Receving sample 28: 0, 0
+Receving sample 29: 0, 0
+Receving sample 30: 0, 1
+Receving sample 31: 0, 0
+Receving sample 32: 0, 0
+Receving sample 33: 0, 0
+Receving sample 34: 0, 0
+Receving sample 35: 0, 1
+Receving sample 36: 0, 2
+Receving sample 37: 0, 1
+Receving sample 38: 0, 0
+Receving sample 39: 0, 0
+Receving sample 40: 0, 0
+Receving sample 41: 0, 0
+Receving sample 42: 0, 0
+Receving sample 43: 0, 0
+Receving sample 44: 0, 0
+Receving sample 45: 0, 0
+Receving sample 46: 0, 0
+Receving sample 47: 0, 0
+Receving sample 48: 0, 0
+Receving sample 49: 0, 0
+Receving sample 50: 0, 0
+Receving sample 51: 0, 0
+Receving sample 52: 0, 0
+Receving sample 53: 0, 0
+Receving sample 54: 0, 0
+Receving sample 55: 0, 0
+Receving sample 56: 0, 0
+Receving sample 57: 0, 0
+Receving sample 58: 0, 0
+Receving sample 59: 0, 0
+Receving sample 60: 0, 0
+Receving sample 61: 0, 0
+Receving sample 62: 0, 0
+Receving sample 63: 0, 0
+Receving sample 64: 0, 0
+Receving sample 65: 0, 0
+Receving sample 66: 0, 0
+Receving sample 67: 0, 0
+Receving sample 68: 0, 0
+Receving sample 69: 0, 0
+Receving sample 70: 0, 0
+Receving sample 71: 0, 0
+Receving sample 72: 0, 0
+Receving sample 73: 0, 0
+Receving sample 74: 0, 1
+Receving sample 75: 0, 0
+Receving sample 76: 0, 0
+Receving sample 77: 0, 0
+Receving sample 78: 0, -2
+Receving sample 79: 0, 0
+Receving sample 80: 0, 0
+Receving sample 81: 0, 0
+Receving sample 82: 0, 0
+Receving sample 83: 0, 0
+Receving sample 84: 0, 0
+Receving sample 85: 0, 0
+Receving sample 86: 0, 0
+Receving sample 87: 0, 0
+Receving sample 88: 0, 0
+Receving sample 89: 0, 0
+Receving sample 90: 0, 0
+Receving sample 91: 0, 0
+Receving sample 92: 0, 0
+Receving sample 93: 0, 0
+Receving sample 94: 0, 0
+Receving sample 95: 0, 0
+Receving sample 96: 0, 0
+Receving sample 97: 0, 0
+Receving sample 98: 0, 0
+Receving sample 99: 0, 0
+Receving sample 100: 0, 0
+Receving sample 101: 0, 0
+Receving sample 102: 0, 0
+Receving sample 103: 0, 0
+Receving sample 104: 0, 0
+Receving sample 105: 0, 0
+Receving sample 106: 0, 0
+Receving sample 107: 0, 0
+Receving sample 108: 0, 0
+Receving sample 109: 0, 0
+Receving sample 110: 0, 0
+Receving sample 111: 0, 0
+Receving sample 112: 0, 0
+Receving sample 113: 0, 0
+Receving sample 114: 0, 0
+Receving sample 115: 0, 0
+Receving sample 116: 0, 0
+Receving sample 117: 0, 0
+Receving sample 118: 0, 0
+Receving sample 119: 0, 0
+Receving sample 120: 0, 0
+Receving sample 121: 0, 0
+Receving sample 122: 0, 0
+Receving sample 123: 0, 0
+Receving sample 124: 0, 0
+Receving sample 125: 0, 0
+Receving sample 126: 0, 0
+Receving sample 127: 0, 0
+Receving sample 128: 0, 0
+Receving sample 129: 0, 0
+Receving sample 130: 0, 0
+Receving sample 131: 0, 0
+Receving sample 132: 0, 0
+Receving sample 133: 0, 0
+Receving sample 134: 0, 0
+Receving sample 135: 0, 0
+Receving sample 136: 1, 0
+Receving sample 137: 0, 0
+Receving sample 138: 0, 0
+Receving sample 139: 0, 0
+Receving sample 140: 0, 0
+Receving sample 141: 0, 0
+Receving sample 142: 0, 0
+Receving sample 143: 0, 0
+Receving sample 144: -2, 0
+Receving sample 145: 0, 0
+Receving sample 146: 0, 0
+Receving sample 147: 0, 0
+Receving sample 148: -2, 0
+Receving sample 149: 0, 0
+Receving sample 150: 0, 0
+Receving sample 151: 0, 0
+Receving sample 152: -1, 0
+Receving sample 153: 0, 0
+Receving sample 154: 0, 0
+Receving sample 155: 0, 0
+Receving sample 156: 0, 0
+Receving sample 157: 0, 0
+Receving sample 158: 0, 0
+Receving sample 159: 0, 0
+Receving sample 160: 0, 0
+Receving sample 161: 0, 0
+Receving sample 162: 0, 0
+Receving sample 163: 0, 0
+Receving sample 164: 0, 0
+Receving sample 165: 0, 0
+Receving sample 166: 0, 0
+Receving sample 167: 0, 0
+Receving sample 168: 0, 0
+Receving sample 169: 0, 0
+Receving sample 170: 0, 0
+Receving sample 171: 0, 0
+Receving sample 172: 0, 0
+Receving sample 173: 0, 0
+Receving sample 174: 0, 0
+Receving sample 175: 0, 0
+Receving sample 176: 0, 0
+Receving sample 177: 0, 0
+Receving sample 178: 0, 0
+Receving sample 179: 0, 0
+Receving sample 180: 0, 0
+Receving sample 181: 0, 0
+Receving sample 182: 0, 0
+Receving sample 183: 0, 0
+Receving sample 184: 0, 0
+Receving sample 185: 0, 0
+Receving sample 186: 0, 1
+Receving sample 187: 1, 0
+Receving sample 188: 0, 0
+Receving sample 189: 1, 0
+Receving sample 190: 0, -2
+Receving sample 191: 0, 0
+Receving sample 192: 0, 0
+Receving sample 193: 0, 0
+Receving sample 194: 0, 0
+Receving sample 195: 0, 1
+Receving sample 196: 0, 0
+Receving sample 197: 0, 1
+Receving sample 198: 0, 0
+Receving sample 199: 0, 0
+Receving sample 200: 0, 0
+Receving sample 201: 0, 0
+Receving sample 202: 0, 0
+Receving sample 203: 0, 0
+Receving sample 204: 0, 0
+Receving sample 205: 0, 0
+Receving sample 206: 0, 0
+Receving sample 207: 0, 0
+Receving sample 208: 0, 0
+Receving sample 209: 0, 0
+Receving sample 210: 0, -1
+Receving sample 211: 0, 0
+Receving sample 212: 0, 0
+Receving sample 213: 0, 0
+Receving sample 214: 0, -1
+Receving sample 215: 0, 0
+Receving sample 216: 0, 0
+Receving sample 217: 0, 0
+Receving sample 218: -1, 0
+Receving sample 219: 0, 0
+Receving sample 220: 0, 0
+Receving sample 221: 0, 0
+Receving sample 222: -1, 0
+Receving sample 223: 0, 0
+Receving sample 224: 0, 0
+Receving sample 225: 0, 0
+Receving sample 226: 0, 0
+Receving sample 227: 0, 0
+Receving sample 228: 0, 0
+Receving sample 229: 0, 0
+Receving sample 230: 0, 0
+Receving sample 231: 0, 0
+Receving sample 232: 0, 0
+Receving sample 233: 0, 0
+Receving sample 234: 0, 0
+Receving sample 235: 0, 0
+Receving sample 236: 0, 0
+Receving sample 237: 0, 0
+Receving sample 238: 0, 0
+Receving sample 239: 0, 0
+Receving sample 240: 0, 0
+Receving sample 241: 0, 0
+Receving sample 242: 0, 0
+Receving sample 243: 0, 0
+Receving sample 244: 0, 0
+Receving sample 245: 0, 0
+Receving sample 246: 0, 0
+Receving sample 247: 0, 0
+Receving sample 248: 0, 0
+Receving sample 249: 0, 0
+Receving sample 250: 1, 0
+Receving sample 251: 0, 0
+Receving sample 252: 0, 0
+Receving sample 253: 0, 0
+Receving sample 254: 1, 0
+Receving sample 255: 0, 0
+Receving sample 256: 0, 0
+Receving sample 257: 0, 0
+Receving sample 258: 0, 0
+Receving sample 259: 0, 0
+Receving sample 260: 0, 0
+Receving sample 261: 0, 0
+Receving sample 262: 0, 0
+Receving sample 263: 0, 0
+Receving sample 264: 0, 0
+Receving sample 265: 0, 0
+Receving sample 266: 0, 0
+Receving sample 267: 1, 0
+Receving sample 268: 0, 0
+Receving sample 269: 1, 0
+Receving sample 270: 0, 0
+Receving sample 271: 0, 0
+Receving sample 272: 0, 0
+Receving sample 273: 0, 0
+Receving sample 274: -1, 0
+Receving sample 275: 0, 0
+Receving sample 276: 0, 0
+Receving sample 277: 0, 0
+Receving sample 278: -1, 0
+Receving sample 279: 0, 0
+Receving sample 280: 0, 0
+Receving sample 281: 0, 0
+Receving sample 282: 0, 0
+Receving sample 283: 0, 0
+Receving sample 284: 0, 0
+Receving sample 285: 0, 0
+Receving sample 286: 0, 0
+Receving sample 287: 0, 0
+Receving sample 288: 0, 0
+Receving sample 289: 0, 0
+Receving sample 290: 0, -1
+Receving sample 291: 0, 0
+Receving sample 292: 0, 0
+Receving sample 293: 0, 0
+Receving sample 294: 0, 2
+Receving sample 295: 0, 0
+Receving sample 296: 0, 0
+Receving sample 297: 0, 0
+Receving sample 298: 0, 0
+Receving sample 299: 0, 0
+Receving sample 300: 0, -2
+Receving sample 301: 0, 0
+Receving sample 302: 0, 0
+Receving sample 303: 0, 0
+Receving sample 304: 0, 0
+Receving sample 305: 0, -1
+Receving sample 306: 0, -1
+Receving sample 307: -1, 0
+Receving sample 308: 0, 0
+Receving sample 309: -1, 0
+Receving sample 310: 0, -1
+Receving sample 311: 0, -1
+Receving sample 312: 0, 0
+Receving sample 313: 0, 0
+Receving sample 314: 0, 0
+Receving sample 315: 0, 0
+Receving sample 316: 0, 0
+Receving sample 317: 0, 0
+Receving sample 318: 0, 0
+Receving sample 319: 0, 0
+Receving sample 320: 0, 0
+Receving sample 321: 0, 0
+Receving sample 322: 0, 0
+Receving sample 323: 0, 0
+Receving sample 324: 0, 0
+Receving sample 325: 0, 0
+Receving sample 326: 0, 0
+Receving sample 327: 0, 0
+Receving sample 328: 0, 0
+Receving sample 329: 0, 0
+Receving sample 330: 0, 0
+Receving sample 331: 0, 0
+Receving sample 332: 0, 0
+Receving sample 333: 0, 0
+Receving sample 334: 0, 0
+Receving sample 335: 0, 0
+Receving sample 336: 0, 0
+Receving sample 337: 0, 0
+Receving sample 338: 0, 0
+Receving sample 339: 0, 1
+Receving sample 340: 0, 0
+Receving sample 341: 0, -1
+Receving sample 342: 0, 0
+Receving sample 343: 0, 0
+Receving sample 344: 0, 0
+Receving sample 345: 0, 0
+Receving sample 346: 0, 0
+Receving sample 347: 0, 0
+Receving sample 348: 0, 0
+Receving sample 349: 0, 0
+Receving sample 350: 0, 0
+Receving sample 351: 0, 0
+Receving sample 352: 0, 0
+Receving sample 353: 0, 0
+Receving sample 354: 0, 0
+Receving sample 355: 0, 0
+Receving sample 356: 0, 0
+Receving sample 357: 0, 3
+Receving sample 358: 0, 0
+Receving sample 359: 0, 0
+Receving sample 360: 0, 0
+Receving sample 361: 0, -1
+Receving sample 362: 0, 0
+Receving sample 363: 0, 0
+Receving sample 364: 0, 0
+Receving sample 365: 0, 0
+Receving sample 366: 0, 0
+Receving sample 367: 0, -1
+Receving sample 368: 0, 0
+Receving sample 369: 0, 0
+Receving sample 370: 0, 1
+Receving sample 371: 0, 0
+Receving sample 372: 0, 0
+Receving sample 373: 0, 0
+Receving sample 374: 0, 1
+Receving sample 375: 0, 0
+Receving sample 376: 0, 0
+Receving sample 377: 0, 0
+Receving sample 378: 0, 0
+Receving sample 379: 0, 0
+Receving sample 380: 0, 0
+Receving sample 381: 0, 0
+Receving sample 382: 0, 0
+Receving sample 383: 0, 0
+Receving sample 384: 0, 0
+Receving sample 385: 0, 0
+Receving sample 386: -1, 0
+Receving sample 387: 0, 0
+Receving sample 388: 0, 0
+Receving sample 389: 0, 0
+Receving sample 390: -1, 0
+Receving sample 391: 0, 0
+Receving sample 392: 1, 0
+Receving sample 393: 0, 0
+Receving sample 394: -1, 0
+Receving sample 395: 1, 0
+Receving sample 396: 0, 0
+Receving sample 397: -1, 0
+Receving sample 398: -1, 0
+Receving sample 399: 0, 0
+Receving sample 400: -2, 0
+Receving sample 401: 0, 0
+Receving sample 402: 0, 0
+Receving sample 403: 0, 0
+Receving sample 404: 0, 0
+Receving sample 405: 0, 0
+Receving sample 406: 0, 0
+Receving sample 407: 0, 0
+Receving sample 408: -1, 0
+Receving sample 409: 0, 0
+Receving sample 410: 0, 0
+Receving sample 411: -1, 0
+Receving sample 412: 0, 0
+Receving sample 413: 1, 0
+Receving sample 414: 0, 0
+Receving sample 415: 0, 0
+Receving sample 416: 0, 0
+Receving sample 417: 0, 0
+Receving sample 418: -1, 1
+Receving sample 419: 0, 0
+Receving sample 420: 0, 0
+Receving sample 421: 0, 0
+Receving sample 422: -1, 1
+Receving sample 423: 0, 0
+Receving sample 424: 0, 0
+Receving sample 425: 0, 0
+Receving sample 426: 0, 0
+Receving sample 427: 0, 0
+Receving sample 428: 0, 0
+Receving sample 429: 0, 0
+Receving sample 430: 0, 0
+Receving sample 431: 0, 0
+Receving sample 432: 0, 0
+Receving sample 433: 0, 0
+Receving sample 434: 0, 0
+Receving sample 435: 0, 0
+Receving sample 436: 0, 0
+Receving sample 437: 0, 0
+Receving sample 438: 0, 0
+Receving sample 439: 0, 0
+Receving sample 440: 0, 0
+Receving sample 441: 0, 0
+Receving sample 442: 0, 0
+Receving sample 443: 0, 0
+Receving sample 444: 0, 0
+Receving sample 445: 0, 0
+Receving sample 446: 0, 0
+Receving sample 447: 0, 0
+Receving sample 448: 0, 0
+Receving sample 449: 1, 0
+Receving sample 450: 1, 0
+Receving sample 451: 0, 0
+Receving sample 452: 0, 0
+Receving sample 453: 0, 0
+Receving sample 454: 1, 0
+Receving sample 455: 1, 0
+Receving sample 456: 0, 0
+Receving sample 457: 0, 0
+Receving sample 458: 0, 0
+Receving sample 459: 0, 0
+Receving sample 460: 0, 0
+Receving sample 461: 0, 0
+Receving sample 462: 0, 0
+Receving sample 463: 0, 0
+Receving sample 464: 0, 0
+Receving sample 465: 0, 0
+Receving sample 466: 0, 0
+Receving sample 467: 0, 0
+Receving sample 468: 0, 0
+Receving sample 469: 0, 0
+Receving sample 470: 0, 0
+Receving sample 471: 0, 0
+Receving sample 472: 0, 0
+Receving sample 473: 0, 0
+Receving sample 474: 0, 0
+Receving sample 475: 0, 0
+Receving sample 476: 0, 0
+Receving sample 477: 0, 0
+Receving sample 478: 0, 0
+Receving sample 479: 0, 0
+Receving sample 480: 0, 0
+Receving sample 481: 0, 0
+Receving sample 482: 0, 0
+Receving sample 483: 0, 0
+Receving sample 484: 0, 0
+Receving sample 485: 0, 0
+Receving sample 486: 0, 0
+Receving sample 487: 0, 0
+Receving sample 488: 0, 0
+Receving sample 489: 0, 0
+Receving sample 490: 0, 0
+Receving sample 491: 0, 0
+Receving sample 492: 0, 0
+Receving sample 493: 0, 0
+Receving sample 494: 0, 0
+Receving sample 495: 0, 0
+Receving sample 496: 0, 0
+Receving sample 497: 0, 0
+Receving sample 498: 0, 0
+Receving sample 499: 0, 0
+Receving sample 500: 0, 0
+Receving sample 501: 0, 0
+Receving sample 502: 0, 0
+Receving sample 503: 0, 0
+Receving sample 504: 0, 0
+Receving sample 505: 0, 0
+Receving sample 506: 0, -1
+Receving sample 507: 0, 0
+Receving sample 508: 0, 0
+Receving sample 509: 0, 0
+Receving sample 510: 0, 2
+Receving sample 511: 0, 0
+Receving sample 512: 0, 0
+Receving sample 513: 0, 0
+Receving sample 514: 0, 0
+Receving sample 515: 0, 1
+Receving sample 516: 0, 0
+Receving sample 517: 0, 1
+Receving sample 518: 0, 0
+Receving sample 519: 0, 0
+Receving sample 520: 0, 0
+Receving sample 521: 0, 0
+Receving sample 522: 1, 0
+Receving sample 523: 0, 0
+Receving sample 524: 0, 0
+Receving sample 525: 0, 0
+Receving sample 526: -2, 0
+Receving sample 527: 0, 0
+Receving sample 528: 0, 0
+Receving sample 529: 0, 0
+Receving sample 530: 0, 0
+Receving sample 531: 0, 0
+Receving sample 532: 2, 0
+Receving sample 533: 0, 0
+Receving sample 534: 0, 0
+Receving sample 535: 0, 0
+Receving sample 536: 0, 0
+Receving sample 537: 0, 0
+Receving sample 538: 0, 0
+Receving sample 539: 0, 0
+Receving sample 540: 0, 0
+Receving sample 541: 0, 0
+Receving sample 542: 0, 0
+Receving sample 543: 0, 0
+Receving sample 544: 0, 0
+Receving sample 545: 0, 0
+Receving sample 546: 0, 0
+Receving sample 547: 0, 0
+Receving sample 548: 0, 0
+Receving sample 549: 0, 0
+Receving sample 550: 0, 0
+Receving sample 551: 0, 0
+Receving sample 552: 0, 0
+Receving sample 553: 0, 0
+Receving sample 554: 0, -1
+Receving sample 555: 0, 1
+Receving sample 556: 0, 0
+Receving sample 557: 0, 1
+Receving sample 558: 0, -1
+Receving sample 559: 0, 0
+Receving sample 560: 0, 0
+Receving sample 561: 0, 1
+Receving sample 562: 0, 0
+Receving sample 563: 0, 0
+Receving sample 564: 0, 0
+Receving sample 565: 0, 0
+Receving sample 566: 0, 0
+Receving sample 567: 0, 1
+Receving sample 568: 0, 0
+Receving sample 569: 0, 0
+Receving sample 570: 0, 0
+Receving sample 571: 0, 0
+Receving sample 572: 0, 0
+Receving sample 573: 0, 0
+Receving sample 574: 0, 0
+Receving sample 575: 0, 0
+Receving sample 576: 0, 0
+Receving sample 577: 0, 0
+Receving sample 578: 0, 0
+Receving sample 579: 0, 0
+Receving sample 580: 0, 0
+Receving sample 581: 0, 0
+Receving sample 582: 0, 0
+Receving sample 583: 0, 0
+Receving sample 584: 0, 0
+Receving sample 585: 0, 0
+Receving sample 586: 0, 0
+Receving sample 587: 0, 0
+Receving sample 588: 0, 0
+Receving sample 589: 0, 0
+Receving sample 590: 0, 0
+Receving sample 591: 0, 0
+Receving sample 592: 0, 0
+Receving sample 593: 0, 0
+Receving sample 594: 0, 0
+Receving sample 595: 0, 0
+Receving sample 596: 0, 0
+Receving sample 597: 0, 0
+Receving sample 598: 0, 0
+Receving sample 599: 0, 0
+Receving sample 600: 0, 0
+Receving sample 601: 0, 0
+Receving sample 602: 0, 0
+Receving sample 603: 0, 0
+Receving sample 604: 0, 0
+Receving sample 605: 0, 0
+Receving sample 606: 0, 0
+Receving sample 607: 0, 0
+Receving sample 608: 0, 0
+Receving sample 609: 0, -1
+Receving sample 610: 0, 0
+Receving sample 611: 0, 0
+Receving sample 612: 0, 0
+Receving sample 613: 0, 0
+Receving sample 614: 0, 0
+Receving sample 615: 0, -1
+Receving sample 616: 0, 0
+Receving sample 617: 0, 1
+Receving sample 618: 0, 0
+Receving sample 619: 0, 0
+Receving sample 620: 0, 0
+Receving sample 621: 0, 0
+Receving sample 622: 0, 0
+Receving sample 623: 0, 1
+Receving sample 624: 0, 0
+Receving sample 625: 0, 0
+Receving sample 626: 0, 0
+Receving sample 627: 0, 1
+Receving sample 628: 0, 0
+Receving sample 629: 0, -1
+Receving sample 630: 0, 0
+Receving sample 631: 0, 0
+Receving sample 632: 0, 0
+Receving sample 633: 0, -1
+Receving sample 634: 0, 0
+Receving sample 635: 0, 0
+Receving sample 636: 0, 0
+Receving sample 637: 0, 0
+Receving sample 638: 0, 0
+Receving sample 639: 0, 0
+Data not ready for processing
+fft size: 1024
+Receving sample 0: 0, 0
+Receving sample 1: 0, 0
+Receving sample 2: 0, 0
+Receving sample 3: -1, 0
+Receving sample 4: 0, 0
+Receving sample 5: 1, 0
+Receving sample 6: 0, 0
+Receving sample 7: 0, 0
+Receving sample 8: 0, 0
+Receving sample 9: 0, 0
+Receving sample 10: 0, 0
+Receving sample 11: 0, 0
+Receving sample 12: 0, 0
+Receving sample 13: 0, 0
+Receving sample 14: 0, 0
+Receving sample 15: 0, 0
+Receving sample 16: 0, 0
+Receving sample 17: 0, 0
+Receving sample 18: 0, 1
+Receving sample 19: 0, 0
+Receving sample 20: 0, 0
+Receving sample 21: 0, 0
+Receving sample 22: 0, 1
+Receving sample 23: 0, 0
+Receving sample 24: 0, 0
+Receving sample 25: -1, 0
+Receving sample 26: 0, 0
+Receving sample 27: 0, 0
+Receving sample 28: 0, 0
+Receving sample 29: 0, 0
+Receving sample 30: 0, 0
+Receving sample 31: -1, 0
+Receving sample 32: 0, 0
+Receving sample 33: 0, 0
+Receving sample 34: 0, 0
+Receving sample 35: 0, 0
+Receving sample 36: 0, 0
+Receving sample 37: 0, 0
+Receving sample 38: 0, 0
+Receving sample 39: 0, 0
+Receving sample 40: 0, -1
+Receving sample 41: 0, 0
+Receving sample 42: 0, -1
+Receving sample 43: 0, 0
+Receving sample 44: 0, 0
+Receving sample 45: 0, 0
+Receving sample 46: 0, 2
+Receving sample 47: 0, 0
+Receving sample 48: 0, 2
+Receving sample 49: 0, 0
+Receving sample 50: 0, 0
+Receving sample 51: 0, 0
+Receving sample 52: 0, 0
+Receving sample 53: 0, 0
+Receving sample 54: 0, 0
+Receving sample 55: 0, 0
+Receving sample 56: 0, 1
+Receving sample 57: 0, 0
+Receving sample 58: 0, 0
+Receving sample 59: 0, 0
+Receving sample 60: 0, 0
+Receving sample 61: 0, 0
+Receving sample 62: 0, 0
+Receving sample 63: 0, 0
+Receving sample 64: -1, 0
+Receving sample 65: 0, 0
+Receving sample 66: 0, 0
+Receving sample 67: 0, 0
+Receving sample 68: 0, 0
+Receving sample 69: 0, 0
+Receving sample 70: 0, 0
+Receving sample 71: 0, 0
+Receving sample 72: 2, 0
+Receving sample 73: 0, 0
+Receving sample 74: 0, 0
+Receving sample 75: 0, 0
+Receving sample 76: 0, 0
+Receving sample 77: 0, 0
+Receving sample 78: 0, 0
+Receving sample 79: 0, 0
+Receving sample 80: 1, 0
+Receving sample 81: 0, 0
+Receving sample 82: 0, 0
+Receving sample 83: 0, 0
+Receving sample 84: 0, 0
+Receving sample 85: 0, 0
+Receving sample 86: 0, 0
+Receving sample 87: 0, 0
+Receving sample 88: 0, 0
+Receving sample 89: 0, 0
+Receving sample 90: 0, 0
+Receving sample 91: 0, 0
+Receving sample 92: 0, 0
+Receving sample 93: 0, 0
+Receving sample 94: 0, 0
+Receving sample 95: 0, 0
+Receving sample 96: 0, 0
+Receving sample 97: 0, 0
+Receving sample 98: 0, 0
+Receving sample 99: 0, 0
+Receving sample 100: 0, 0
+Receving sample 101: 0, 0
+Receving sample 102: 0, 0
+Receving sample 103: 0, 0
+Receving sample 104: 0, 0
+Receving sample 105: 0, 0
+Receving sample 106: 0, 0
+Receving sample 107: 0, 0
+Receving sample 108: 0, 0
+Receving sample 109: 0, 0
+Receving sample 110: 0, 0
+Receving sample 111: 0, 0
+Receving sample 112: 0, 0
+Receving sample 113: 0, 0
+Receving sample 114: 0, 0
+Receving sample 115: 0, 0
+Receving sample 116: 0, 0
+Receving sample 117: 0, 0
+Receving sample 118: 0, 0
+Receving sample 119: 0, 0
+Receving sample 120: 0, 0
+Receving sample 121: 0, 0
+Receving sample 122: 0, 0
+Receving sample 123: 0, 0
+Receving sample 124: 0, 0
+Receving sample 125: 0, 0
+Receving sample 126: 0, 0
+Receving sample 127: 0, 0
+Receving sample 128: 0, 0
+Receving sample 129: 0, 0
+Receving sample 130: 0, 1
+Receving sample 131: 0, 0
+Receving sample 132: 0, 0
+Receving sample 133: 0, 0
+Receving sample 134: 0, 1
+Receving sample 135: 0, 0
+Receving sample 136: 0, 0
+Receving sample 137: 0, 1
+Receving sample 138: 0, 0
+Receving sample 139: 0, -1
+Receving sample 140: 0, -2
+Receving sample 141: 0, -1
+Receving sample 142: 0, 0
+Receving sample 143: 0, 1
+Receving sample 144: 0, 0
+Receving sample 145: 0, 0
+Receving sample 146: 0, -1
+Receving sample 147: 0, 0
+Receving sample 148: 0, 0
+Receving sample 149: 0, 0
+Receving sample 150: 0, 1
+Receving sample 151: 0, 0
+Receving sample 152: 0, -1
+Receving sample 153: 0, 0
+Receving sample 154: 0, 1
+Receving sample 155: 0, 0
+Receving sample 156: 0, 0
+Receving sample 157: 0, 0
+Receving sample 158: 0, 1
+Receving sample 159: 0, 0
+Receving sample 160: 0, 2
+Receving sample 161: 0, 0
+Receving sample 162: 0, 2
+Receving sample 163: 0, -1
+Receving sample 164: 0, -2
+Receving sample 165: 0, -1
+Receving sample 166: 0, 1
+Receving sample 167: 0, 0
+Receving sample 168: 0, 1
+Receving sample 169: 0, 0
+Receving sample 170: 0, 0
+Receving sample 171: 0, 0
+Receving sample 172: 0, 0
+Receving sample 173: 0, 0
+Receving sample 174: 0, 0
+Receving sample 175: 0, 0
+Receving sample 176: 0, 0
+Receving sample 177: 0, 0
+Receving sample 178: 0, 0
+Receving sample 179: 0, 0
+Receving sample 180: 0, 0
+Receving sample 181: 0, 0
+Receving sample 182: 0, 0
+Receving sample 183: 0, 0
+Receving sample 184: 0, 0
+Receving sample 185: 0, 0
+Receving sample 186: 0, 0
+Receving sample 187: 0, 0
+Receving sample 188: 0, 0
+Receving sample 189: 0, 0
+Receving sample 190: 0, 0
+Receving sample 191: 0, 0
+Receving sample 192: 0, 0
+Receving sample 193: 0, 0
+Receving sample 194: 0, 0
+Receving sample 195: 0, 0
+Receving sample 196: 0, 0
+Receving sample 197: 0, 0
+Receving sample 198: 0, 0
+Receving sample 199: 0, 0
+Receving sample 200: 0, 0
+Receving sample 201: 0, 0
+Receving sample 202: 0, 0
+Receving sample 203: 0, 0
+Receving sample 204: 0, 0
+Receving sample 205: 0, 0
+Receving sample 206: 0, 0
+Receving sample 207: 0, 0
+Receving sample 208: 0, 0
+Receving sample 209: 0, 0
+Receving sample 210: 0, 0
+Receving sample 211: 0, 0
+Receving sample 212: 0, 0
+Receving sample 213: 0, 0
+Receving sample 214: 0, 0
+Receving sample 215: 0, 0
+Receving sample 216: 0, 0
+Receving sample 217: 0, 0
+Receving sample 218: 0, 0
+Receving sample 219: 0, 0
+Receving sample 220: 0, 0
+Receving sample 221: 0, 0
+Receving sample 222: 0, 0
+Receving sample 223: 0, 0
+Receving sample 224: 0, 0
+Receving sample 225: 0, 0
+Receving sample 226: 0, 0
+Receving sample 227: 0, 0
+Receving sample 228: 0, 0
+Receving sample 229: 0, 0
+Receving sample 230: 0, 0
+Receving sample 231: 0, 0
+Receving sample 232: 0, 0
+Receving sample 233: 0, 0
+Receving sample 234: 0, 0
+Receving sample 235: 0, 0
+Receving sample 236: 0, 0
+Receving sample 237: 0, 0
+Receving sample 238: 0, 0
+Receving sample 239: 0, 0
+Receving sample 240: 0, 0
+Receving sample 241: 0, 0
+Receving sample 242: 0, 0
+Receving sample 243: 0, 0
+Receving sample 244: 0, 0
+Receving sample 245: 0, 0
+Receving sample 246: 0, 0
+Receving sample 247: 0, 0
+Receving sample 248: 0, 0
+Receving sample 249: 0, 0
+Receving sample 250: 0, -2
+Receving sample 251: 1, -1
+Receving sample 252: 1, -1
+Receving sample 253: 1, -1
+Receving sample 254: 2, -2
+Receving sample 255: 2, -2
+Receving sample 256: 4, -3
+Receving sample 257: 1, -2
+Receving sample 258: 3, -2
+Receving sample 259: 2, -1
+Receving sample 260: 1, -1
+Receving sample 261: 0, 0
+Receving sample 262: -2, -1
+Receving sample 263: 3, -4
+Receving sample 264: 8, -16
+Receving sample 265: 18, -23
+Receving sample 266: 24, -7
+Receving sample 267: 3, -7
+Receving sample 268: 4, -9
+Receving sample 269: 12, -12
+Receving sample 270: 1, -11
+Receving sample 271: -12, -1
+Receving sample 272: 20, 21
+Receving sample 273: 2, -6
+Receving sample 274: 41, -6
+Receving sample 275: 34, -11
+Receving sample 276: -1, -5
+Receving sample 277: -40, 4
+Receving sample 278: -51, -2
+Receving sample 279: 34, -28
+Receving sample 280: 35, -145
+Receving sample 281: 105, -1
+Receving sample 282: -46, -17
+Receving sample 283: -19, 81
+Receving sample 284: -7, 62
+Receving sample 285: 32, 29
+Receving sample 286: -339, 6
+Receving sample 287: -395, 300
+Receving sample 288: -84, 373
+Receving sample 289: 172, 39
+Receving sample 290: 369, -167
+Receving sample 291: 455, -121
+Receving sample 292: 76, 36
+Receving sample 293: -501, 42
+Receving sample 294: -417, 23
+Receving sample 295: -131, -130
+Receving sample 296: 90, -972
+Receving sample 297: 1087, -188
+Receving sample 298: 868, -21
+Receving sample 299: -439, -178
+Receving sample 300: 56, -285
+Receving sample 301: -171, -828
+Receving sample 302: 2460, 423
+Receving sample 303: 136, -3113
+Receving sample 304: 500, 366
+Receving sample 305: -314, -52
+Receving sample 306: 3, 699
+Receving sample 307: 1399, 928
+Receving sample 308: -475, -428
+Receving sample 309: -2117, -130
+Receving sample 310: -1034, 758
+Receving sample 311: -1217, -14
+Receving sample 312: 687, 105
+Receving sample 313: 1738, -954
+Receving sample 314: 744, -32148
+Receving sample 315: 32767, -31794
+Receving sample 316: 31203, -32768
+Receving sample 317: 32767, -29431
+Receving sample 318: 30088, -32684
+Receving sample 319: 32038, -32768
+Receving sample 320: 32370, -32768
+Receving sample 321: 32767, -31370
+Receving sample 322: 32767, -32768
+Receving sample 323: 32685, -32374
+Receving sample 324: 30917, -32700
+Receving sample 325: 32321, -31581
+Receving sample 326: 31967, -32172
+Receving sample 327: 32539, -31004
+Receving sample 328: 31974, -32768
+Receving sample 329: 32335, -32768
+Receving sample 330: 32367, -31442
+Receving sample 331: 32137, -31579
+Receving sample 332: 32191, -32484
+Receving sample 333: 32253, -32060
+Receving sample 334: 30403, -31804
+Receving sample 335: 30875, -30963
+Receving sample 336: 31159, -31312
+Receving sample 337: 31626, -31342
+Receving sample 338: 31860, -31899
+Receving sample 339: 32148, -32060
+Receving sample 340: 32100, -32304
+Receving sample 341: 32300, -32257
+Receving sample 342: 32233, -32263
+Receving sample 343: 32181, -32030
+Receving sample 344: 32015, -32087
+Receving sample 345: 31961, -31991
+Receving sample 346: 31905, -31985
+Receving sample 347: 32030, -32006
+Receving sample 348: 32018, -32035
+Receving sample 349: 31999, -31972
+Receving sample 350: 32082, -31958
+Receving sample 351: 32071, -32093
+Receving sample 352: 32059, -32082
+Receving sample 353: 32071, -32037
+Receving sample 354: 32049, -32052
+Receving sample 355: 32040, -32034
+Receving sample 356: 32010, -32021
+Receving sample 357: 32004, -32001
+Receving sample 358: 31992, -31992
+Receving sample 359: 31986, -31983
+Receving sample 360: 31982, -31982
+Receving sample 361: 31995, -31995
+Receving sample 362: 31998, -31998
+Receving sample 363: 31999, -31999
+Receving sample 364: 31993, -31993
+Receving sample 365: 31994, -31994
+Receving sample 366: 31998, -31998
+Receving sample 367: 32003, -32003
+Receving sample 368: 32006, -32006
+Receving sample 369: 32010, -32010
+Receving sample 370: 32004, -32004
+Receving sample 371: 32000, -32000
+Receving sample 372: 31993, -31993
+Receving sample 373: 31995, -31995
+Receving sample 374: 31999, -31999
+Receving sample 375: 32004, -32004
+Receving sample 376: 32006, -32006
+Receving sample 377: 32010, -32010
+Receving sample 378: 32004, -32004
+Receving sample 379: 32000, -32000
+Receving sample 380: 31993, -31993
+Receving sample 381: 31995, -31995
+Receving sample 382: 31999, -31999
+Receving sample 383: 32004, -32004
+Receving sample 384: 32006, -32006
+Receving sample 385: 32010, -32010
+Receving sample 386: 32004, -32004
+Receving sample 387: 32000, -32000
+Receving sample 388: 31993, -31993
+Receving sample 389: 31995, -31995
+Receving sample 390: 32001, -32001
+Receving sample 391: 32006, -32006
+Receving sample 392: 32009, -32009
+Receving sample 393: 32014, -32014
+Receving sample 394: 32008, -32008
+Receving sample 395: 32003, -32003
+Receving sample 396: 31995, -31995
+Receving sample 397: 31995, -31995
+Receving sample 398: 31997, -31997
+Receving sample 399: 32000, -32000
+Receving sample 400: 32000, -32000
+Receving sample 401: 32003, -32003
+Receving sample 402: 31999, -31999
+Receving sample 403: 31998, -31998
+Receving sample 404: 31995, -31995
+Receving sample 405: 32002, -32002
+Receving sample 406: 32012, -32012
+Receving sample 407: 32020, -32020
+Receving sample 408: 32021, -32021
+Receving sample 409: 32021, -32021
+Receving sample 410: 32005, -32005
+Receving sample 411: 31987, -31987
+Receving sample 412: 31962, -31962
+Receving sample 413: 31944, -31944
+Receving sample 414: 31928, -31928
+Receving sample 415: 31916, -31916
+Receving sample 416: 31907, -31907
+Receving sample 417: 31910, -31910
+Receving sample 418: 31917, -31917
+Receving sample 419: 31935, -31935
+Receving sample 420: 31962, -31962
+Receving sample 421: 32006, -32006
+Receving sample 422: 32056, -32056
+Receving sample 423: 32110, -32110
+Receving sample 424: 32155, -32155
+Receving sample 425: 32194, -32194
+Receving sample 426: 32218, -32218
+Receving sample 427: 32232, -32232
+Receving sample 428: 32242, -32242
+Receving sample 429: 32254, -32254
+Receving sample 430: 32265, -32265
+Receving sample 431: 32272, -32272
+Receving sample 432: 32269, -32269
+Receving sample 433: 32265, -32265
+Receving sample 434: 32253, -32253
+Receving sample 435: 32245, -32245
+Receving sample 436: 32242, -32242
+Receving sample 437: 32253, -32253
+Receving sample 438: 32268, -32268
+Receving sample 439: 32283, -32283
+Receving sample 440: 32291, -32291
+Receving sample 441: 32295, -32295
+Receving sample 442: 32288, -32288
+Receving sample 443: 32279, -32279
+Receving sample 444: 32275, -32275
+Receving sample 445: 32280, -32280
+Receving sample 446: 32290, -32290
+Receving sample 447: 32299, -32299
+Receving sample 448: 32301, -32301
+Receving sample 449: 32299, -32299
+Receving sample 450: 32289, -32289
+Receving sample 451: 32281, -32281
+Receving sample 452: 32275, -32275
+Receving sample 453: 32282, -32282
+Receving sample 454: 32292, -32292
+Receving sample 455: 32302, -32302
+Receving sample 456: 32304, -32304
+Receving sample 457: 32303, -32303
+Receving sample 458: 32293, -32293
+Receving sample 459: 32283, -32283
+Receving sample 460: 32277, -32277
+Receving sample 461: 32283, -32283
+Receving sample 462: 32293, -32292
+Receving sample 463: 32302, -32302
+Receving sample 464: 32304, -32304
+Receving sample 465: 32303, -32304
+Receving sample 466: 32293, -32293
+Receving sample 467: 32284, -32282
+Receving sample 468: 32277, -32277
+Receving sample 469: 32284, -32285
+Receving sample 470: 32293, -32293
+Receving sample 471: 32302, -32299
+Receving sample 472: 32304, -32304
+Receving sample 473: 32303, -32303
+Receving sample 474: 32293, -32294
+Receving sample 475: 32282, -32282
+Receving sample 476: 32277, -32277
+Receving sample 477: 32282, -32282
+Receving sample 478: 32293, -32294
+Receving sample 479: 32302, -32302
+Receving sample 480: 32304, -32304
+Receving sample 481: 32303, -32302
+Receving sample 482: 32293, -32293
+Receving sample 483: 32282, -32282
+Receving sample 484: 32277, -32277
+Receving sample 485: 32282, -32282
+Receving sample 486: 32292, -32293
+Receving sample 487: 32302, -32302
+Receving sample 488: 32304, -32304
+Receving sample 489: 32303, -32303
+Receving sample 490: 32293, -32293
+Receving sample 491: 32283, -32283
+Receving sample 492: 32277, -32277
+Receving sample 493: 32283, -32283
+Receving sample 494: 32293, -32292
+Receving sample 495: 32303, -32302
+Receving sample 496: 32304, -32305
+Receving sample 497: 32303, -32304
+Receving sample 498: 32294, -32293
+Receving sample 499: 32280, -32280
+Receving sample 500: 32277, -32277
+Receving sample 501: 32284, -32284
+Receving sample 502: 32291, -32293
+Receving sample 503: 32302, -32299
+Receving sample 504: 32304, -32302
+Receving sample 505: 32301, -32303
+Receving sample 506: 32293, -32294
+Receving sample 507: 32284, -32282
+Receving sample 508: 32277, -32277
+Receving sample 509: 32283, -32282
+Receving sample 510: 32293, -32294
+Receving sample 511: 32301, -32302
+Receving sample 512: 32304, -32303
+Receving sample 513: 32303, -32302
+Receving sample 514: 32292, -32293
+Start marker detected
+Receving sample 515: 32284, -32284
+State Preamble
+0
+Receving sample 516: 32277, -32277
+State Preamble
+0
+Receving sample 517: 32283, -32283
+State Preamble
+0
+Receving sample 518: 32293, -32293
+State Preamble
+0
+Receving sample 519: 32302, -32302
+State Preamble
+0
+Receving sample 520: 32304, -32304
+State Preamble
+0
+Receving sample 521: 32303, -32303
+State Preamble
+0
+Receving sample 522: 32293, -32293
+State Preamble
+0
+Receving sample 523: 32282, -32282
+State Preamble
+0
+Receving sample 524: 32277, -32277
+State Preamble
+0
+Receving sample 525: 32282, -32282
+State Preamble
+0
+Receving sample 526: 32293, -32293
+State Preamble
+0
+Receving sample 527: 32302, -32302
+State Preamble
+0
+Receving sample 528: 32304, -32304
+State Preamble
+0
+Receving sample 529: 32303, -32303
+State Preamble
+0
+Receving sample 530: 32292, -32293
+State Preamble
+0
+Receving sample 531: 32284, -32284
+State Preamble
+0
+Receving sample 532: 32277, -32277
+State Preamble
+0
+Receving sample 533: 32284, -32284
+State Preamble
+0
+Receving sample 534: 32293, -32293
+State Preamble
+0
+Receving sample 535: 32302, -32302
+State Preamble
+0
+Receving sample 536: 32304, -32304
+State Preamble
+0
+Receving sample 537: 32303, -32303
+State Preamble
+0
+Receving sample 538: 32293, -32293
+State Preamble
+0
+Receving sample 539: 32283, -32283
+State Preamble
+0
+Receving sample 540: 32277, -32277
+State Preamble
+0
+Receving sample 541: 32283, -32283
+State Preamble
+0
+Receving sample 542: 32293, -32293
+State Preamble
+0
+Receving sample 543: 32302, -32302
+State Preamble
+0
+Receving sample 544: 32304, -32304
+State Preamble
+0
+Receving sample 545: 32303, -32303
+State Preamble
+0
+Receving sample 546: 32293, -32293
+State Preamble
+0
+Receving sample 547: 32282, -32282
+State Preamble
+0
+Receving sample 548: 32277, -32277
+State Preamble
+0
+Receving sample 549: 32282, -32282
+State Preamble
+0
+Receving sample 550: 32293, -32293
+State Preamble
+0
+Receving sample 551: 32302, -32302
+State Preamble
+0
+Receving sample 552: 32304, -32304
+State Preamble
+0
+Receving sample 553: 32303, -32303
+State Preamble
+0
+Receving sample 554: 32293, -32293
+State Preamble
+0
+Receving sample 555: 32284, -32284
+State Preamble
+0
+Receving sample 556: 32277, -32277
+State Preamble
+0
+Receving sample 557: 32283, -32283
+State Preamble
+0
+Receving sample 558: 32293, -32293
+State Preamble
+0
+Receving sample 559: 32302, -32302
+State Preamble
+0
+Receving sample 560: 32304, -32304
+State Preamble
+0
+Receving sample 561: 32303, -32303
+State Preamble
+0
+Receving sample 562: 32293, -32293
+State Preamble
+0
+Receving sample 563: 32283, -32283
+State Preamble
+0
+Receving sample 564: 32277, -32277
+State Preamble
+0
+Receving sample 565: 32283, -32283
+State Preamble
+0
+Receving sample 566: 32293, -32293
+State Preamble
+0
+Receving sample 567: 32302, -32302
+State Preamble
+0
+Receving sample 568: 32304, -32304
+State Preamble
+0
+Receving sample 569: 32303, -32303
+State Preamble
+0
+Receving sample 570: 32293, -32293
+State Preamble
+0
+Receving sample 571: 32284, -32284
+State Preamble
+0
+Receving sample 572: 32277, -32277
+State Preamble
+0
+Receving sample 573: 32283, -32283
+State Preamble
+0
+Receving sample 574: 32293, -32293
+State Preamble
+0
+Receving sample 575: 32302, -32302
+State Preamble
+0
+Receving sample 576: 32304, -32304
+State Preamble
+0
+Receving sample 577: 32303, -32303
+State Preamble
+0
+Receving sample 578: 32293, -32293
+State Preamble
+0
+Receving sample 579: 32284, -32284
+State Preamble
+0
+Receving sample 580: 32277, -32277
+State Preamble
+0
+Receving sample 581: 32283, -32283
+State Preamble
+0
+Receving sample 582: 32293, -32293
+State Preamble
+0
+Receving sample 583: 32302, -32302
+State Preamble
+0
+Receving sample 584: 32304, -32304
+State Preamble
+0
+Receving sample 585: 32303, -32303
+State Preamble
+0
+Receving sample 586: 32293, -32293
+State Preamble
+0
+Receving sample 587: 32284, -32284
+State Preamble
+0
+Receving sample 588: 32277, -32277
+State Preamble
+0
+Receving sample 589: 32283, -32283
+State Preamble
+0
+Receving sample 590: 32293, -32293
+State Preamble
+0
+Receving sample 591: 32302, -32302
+State Preamble
+0
+Receving sample 592: 32304, -32304
+State Preamble
+0
+Receving sample 593: 32303, -32303
+State Preamble
+0
+Receving sample 594: 32293, -32293
+State Preamble
+0
+Receving sample 595: 32282, -32282
+State Preamble
+0
+Receving sample 596: 32277, -32277
+State Preamble
+0
+Receving sample 597: 32282, -32282
+State Preamble
+0
+Receving sample 598: 32293, -32293
+State Preamble
+0
+Receving sample 599: 32302, -32302
+State Preamble
+0
+Receving sample 600: 32304, -32304
+State Preamble
+0
+Receving sample 601: 32303, -32303
+State Preamble
+0
+Receving sample 602: 32293, -32293
+State Preamble
+0
+Receving sample 603: 32282, -32282
+State Preamble
+0
+Receving sample 604: 32277, -32277
+State Preamble
+0
+Receving sample 605: 32282, -32282
+State Preamble
+0
+Receving sample 606: 32293, -32293
+State Preamble
+0
+Receving sample 607: 32302, -32302
+State Preamble
+0
+Receving sample 608: 32304, -32304
+State Preamble
+0
+Receving sample 609: 32303, -32303
+State Preamble
+0
+Receving sample 610: 32293, -32293
+State Preamble
+0
+Receving sample 611: 32283, -32283
+State Preamble
+0
+Receving sample 612: 32277, -32277
+State Preamble
+0
+Receving sample 613: 32283, -32283
+State Preamble
+0
+Receving sample 614: 32293, -32293
+State Preamble
+0
+Receving sample 615: 32302, -32302
+State Preamble
+0
+Receving sample 616: 32304, -32304
+State Preamble
+0
+Receving sample 617: 32303, -32303
+State Preamble
+0
+Receving sample 618: 32293, -32293
+State Preamble
+0
+Receving sample 619: 32283, -32283
+State Preamble
+0
+Receving sample 620: 32277, -32277
+State Preamble
+0
+Receving sample 621: 32283, -32283
+State Preamble
+0
+Receving sample 622: 32293, -32293
+State Preamble
+0
+Receving sample 623: 32302, -32302
+State Preamble
+0
+Receving sample 624: 32304, -32304
+State Preamble
+0
+Receving sample 625: 32303, -32303
+State Preamble
+0
+Receving sample 626: 32293, -32293
+State Preamble
+0
+Receving sample 627: 32282, -32282
+State Preamble
+0
+Receving sample 628: 32277, -32277
+State Preamble
+0
+Receving sample 629: 32282, -32282
+State Preamble
+0
+Receving sample 630: 32293, -32293
+State Preamble
+0
+Receving sample 631: 32302, -32302
+State Preamble
+0
+Receving sample 632: 32304, -32304
+State Preamble
+0
+Receving sample 633: 32303, -32303
+State Preamble
+0
+Receving sample 634: 32293, -32293
+State Preamble
+0
+Receving sample 635: 32282, -32282
+State Preamble
+0
+Receving sample 636: 32277, -32277
+State Preamble
+0
+Receving sample 637: 32282, -32282
+State Preamble
+0
+Receving sample 638: 32293, -32293
+State Preamble
+0
+Receving sample 639: 32302, -32302
+State Preamble
+0
+Data not ready for processing
+fft size: 1024
+Receving sample 0: 32304, -32304
+State Preamble
+0
+Receving sample 1: 32303, -32303
+State Preamble
+0
+Receving sample 2: 32292, -32292
+State Preamble
+0
+Receving sample 3: 32282, -32282
+State Preamble
+0
+Receving sample 4: 32277, -32277
+State Preamble
+0
+Receving sample 5: 32282, -32282
+State Preamble
+0
+Receving sample 6: 32294, -32294
+State Preamble
+0
+Receving sample 7: 32304, -32304
+State Preamble
+0
+Receving sample 8: 32307, -32307
+State Preamble
+0
+Receving sample 9: 32306, -32306
+State Preamble
+0
+Receving sample 10: 32296, -32296
+State Preamble
+0
+Receving sample 11: 32285, -32285
+State Preamble
+0
+Receving sample 12: 32279, -32279
+State Preamble
+0
+Receving sample 13: 32282, -32282
+State Preamble
+0
+Receving sample 14: 32291, -32291
+State Preamble
+0
+Receving sample 15: 32299, -32299
+State Preamble
+0
+Receving sample 16: 32300, -32300
+State Preamble
+0
+Receving sample 17: 32298, -32298
+State Preamble
+0
+Receving sample 18: 32289, -32289
+State Preamble
+0
+Receving sample 19: 32282, -32282
+State Preamble
+0
+Receving sample 20: 32279, -32279
+State Preamble
+0
+Receving sample 21: 32289, -32289
+State Preamble
+0
+Receving sample 22: 32302, -32302
+State Preamble
+0
+Receving sample 23: 32313, -32313
+State Preamble
+0
+Receving sample 24: 32315, -32315
+State Preamble
+0
+Receving sample 25: 32311, -32311
+State Preamble
+0
+Receving sample 26: 32294, -32294
+State Preamble
+0
+Receving sample 27: 32273, -32273
+State Preamble
+0
+Receving sample 28: 32252, -32252
+State Preamble
+0
+Receving sample 29: 32241, -32241
+State Preamble
+0
+Receving sample 30: 32236, -32236
+State Preamble
+0
+Receving sample 31: 32235, -32235
+State Preamble
+0
+Receving sample 32: 32232, -32232
+State Preamble
+0
+Receving sample 33: 32232, -32232
+State Preamble
+0
+Receving sample 34: 32229, -32229
+State Preamble
+0
+Receving sample 35: 32235, -32235
+State Preamble
+0
+Receving sample 36: 32252, -32252
+State Preamble
+0
+Receving sample 37: 32287, -32287
+State Preamble
+0
+Receving sample 38: 32330, -32330
+State Preamble
+0
+Receving sample 39: 32374, -32374
+State Preamble
+0
+Receving sample 40: 32413, -32413
+State Preamble
+0
+Receving sample 41: 32446, -32446
+State Preamble
+0
+Receving sample 42: 32464, -32464
+State Preamble
+0
+Receving sample 43: 32475, -32475
+State Preamble
+0
+Receving sample 44: 32480, -32480
+State Preamble
+0
+Receving sample 45: 32487, -32487
+State Preamble
+0
+Receving sample 46: 32493, -32493
+State Preamble
+0
+Receving sample 47: 32496, -32496
+State Preamble
+0
+Receving sample 48: 32497, -32497
+State Preamble
+0
+Receving sample 49: 32497, -32497
+State Preamble
+0
+Receving sample 50: 32490, -32490
+State Preamble
+0
+Receving sample 51: 32484, -32484
+State Preamble
+0
+Receving sample 52: 32480, -32480
+State Preamble
+0
+Receving sample 53: 32486, -32486
+State Preamble
+0
+Receving sample 54: 32495, -32495
+State Preamble
+0
+Receving sample 55: 32504, -32504
+State Preamble
+0
+Receving sample 56: 32513, -32513
+State Preamble
+0
+Receving sample 57: 32520, -32520
+State Preamble
+0
+Receving sample 58: 32517, -32517
+State Preamble
+0
+Receving sample 59: 32513, -32513
+State Preamble
+0
+Receving sample 60: 32508, -32508
+State Preamble
+0
+Receving sample 61: 32508, -32508
+State Preamble
+0
+Receving sample 62: 32512, -32512
+State Preamble
+0
+Receving sample 63: 32516, -32516
+State Preamble
+0
+Receving sample 64: 32520, -32520
+State Preamble
+0
+Receving sample 65: 32523, -32523
+State Preamble
+0
+Receving sample 66: 32518, -32518
+State Preamble
+0
+Receving sample 67: 32513, -32513
+State Preamble
+0
+Receving sample 68: 32508, -32508
+State Preamble
+0
+Receving sample 69: 32509, -32509
+State Preamble
+0
+Receving sample 70: 32514, -32514
+State Preamble
+0
+Receving sample 71: 32518, -32518
+State Preamble
+0
+Receving sample 72: 32522, -32522
+State Preamble
+0
+Receving sample 73: 32526, -32526
+State Preamble
+0
+Receving sample 74: 32521, -32521
+State Preamble
+0
+Receving sample 75: 32515, -32515
+State Preamble
+0
+Receving sample 76: 32509, -32509
+State Preamble
+0
+Receving sample 77: 32510, -32510
+State Preamble
+0
+Receving sample 78: 32514, -32514
+State Preamble
+0
+Receving sample 79: 32519, -32519
+State Preamble
+0
+Receving sample 80: 32522, -32522
+State Preamble
+0
+Receving sample 81: 32526, -32526
+State Preamble
+0
+Receving sample 82: 32521, -32521
+State Preamble
+0
+Receving sample 83: 32516, -32516
+State Preamble
+0
+Receving sample 84: 32509, -32509
+State Preamble
+0
+Receving sample 85: 32509, -32509
+State Preamble
+0
+Receving sample 86: 32512, -32512
+State Preamble
+0
+Receving sample 87: 32514, -32514
+State Preamble
+0
+Receving sample 88: 32516, -32516
+State Preamble
+0
+Receving sample 89: 32519, -32519
+State Preamble
+0
+Receving sample 90: 32514, -32514
+State Preamble
+0
+Receving sample 91: 32509, -32509
+State Preamble
+0
+Receving sample 92: 32505, -32505
+State Preamble
+0
+Receving sample 93: 32510, -32510
+State Preamble
+0
+Receving sample 94: 32518, -32518
+State Preamble
+0
+Receving sample 95: 32526, -32526
+State Preamble
+0
+Receving sample 96: 32533, -32533
+State Preamble
+0
+Receving sample 97: 32537, -32537
+State Preamble
+0
+Receving sample 98: 32529, -32530
+State Preamble
+0
+Receving sample 99: 32518, -32519
+State Preamble
+0
+Receving sample 100: 32505, -32505
+State Preamble
+0
+Receving sample 101: 32499, -32498
+State Preamble
+0
+Receving sample 102: 32496, -32494
+State Preamble
+0
+Receving sample 103: 32492, -32488
+State Preamble
+0
+Receving sample 104: 32487, -32481
+State Preamble
+0
+Receving sample 105: 32487, -32482
+State Preamble
+0
+Receving sample 106: 32491, -32493
+State Preamble
+0
+Receving sample 107: 32518, -32512
+State Preamble
+0
+Receving sample 108: 32545, -32541
+State Preamble
+0
+Receving sample 109: 32578, -32578
+State Preamble
+0
+Receving sample 110: 32648, -32612
+State Preamble
+0
+Receving sample 111: 32687, -32671
+State Preamble
+0
+Receving sample 112: 32672, -32703
+State Preamble
+0
+Receving sample 113: 32662, -32675
+State Preamble
+0
+Receving sample 114: 32614, -32638
+State Preamble
+0
+Receving sample 115: 32566, -32591
+State Preamble
+0
+Receving sample 116: 32545, -32537
+State Preamble
+0
+Receving sample 117: 32521, -32487
+State Preamble
+0
+Receving sample 118: 32436, -32400
+State Preamble
+0
+Receving sample 119: 32296, -32269
+State Preamble
+0
+Receving sample 120: 32148, -32064
+State Preamble
+0
+Receving sample 121: 31994, -32099
+State Preamble
+0
+Receving sample 122: 32050, -32010
+State Preamble
+0
+Receving sample 123: 32064, -32128
+State Preamble
+0
+Receving sample 124: 32145, -32189
+State Preamble
+0
+Receving sample 125: 32216, -32309
+State Preamble
+0
+Receving sample 126: 32410, -32469
+State Preamble
+0
+Receving sample 127: 32444, -32358
+State Preamble
+0
+Receving sample 128: 32106, -32391
+State Preamble
+0
+Receving sample 129: 31859, -32070
+State Preamble
+0
+Receving sample 130: 31689, -31894
+State Preamble
+0
+Receving sample 131: 31659, -31978
+State Preamble
+0
+Receving sample 132: 32144, -32262
+State Preamble
+0
+Receving sample 133: 32767, -32386
+State Preamble
+0
+Receving sample 134: 32767, -32545
+State Preamble
+0
+Receving sample 135: 32767, -32542
+State Preamble
+0
+Receving sample 136: 32719, -31838
+State Preamble
+0
+Receving sample 137: 31835, -32737
+State Preamble
+0
+Receving sample 138: 32122, -32768
+State Preamble
+0
+Receving sample 139: 32767, -32768
+State Preamble
+0
+Receving sample 140: 32767, -32750
+State Preamble
+0
+Receving sample 141: 32767, -32200
+State Preamble
+0
+Receving sample 142: 30545, -32768
+State Preamble
+0
+Receving sample 143: 32767, -29860
+State Preamble
+0
+Receving sample 144: 32410, -32768
+State Preamble
+0
+Receving sample 145: 32767, -32768
+State Preamble
+0
+Receving sample 146: 32714, -32768
+State Preamble
+0
+Receving sample 147: 31196, -32768
+State Preamble
+0
+Receving sample 148: 32767, -32045
+State Preamble
+0
+Receving sample 149: 32767, -32217
+State Preamble
+0
+Receving sample 150: 32767, -32768
+State Preamble
+0
+Receving sample 151: 32767, -32130
+State Preamble
+0
+Receving sample 152: 31405, -32181
+State Preamble
+0
+Receving sample 153: 30324, -31086
+State Preamble
+0
+Receving sample 154: 31315, 105
+State Preamble
+0
+Receving sample 155: -1076, -280
+State Preamble
+0
+Receving sample 156: 947, 1565
+State Preamble
+1
+Receving sample 157: -610, -2792
+State Preamble
+2
+Receving sample 158: 2235, 340
+State Preamble
+3
+Receving sample 159: 415, 881
+State Preamble
+4
+Receving sample 160: 217, 1582
+State Preamble
+5
+Receving sample 161: -1407, -1331
+State Preamble
+6
+Receving sample 162: -399, 824
+State Preamble
+7
+Receving sample 163: -32, -264
+State Preamble
+8
+Receving sample 164: 1643, 140
+State Preamble
+9
+Receving sample 165: 106, -881
+State Preamble
+10
+Receving sample 166: 375, -214
+State Preamble
+11
+Receving sample 167: -201, -1246
+State Preamble
+12
+Receving sample 168: 250, 942
+State Preamble
+13
+Receving sample 169: -353, 1088
+State Preamble
+14
+Receving sample 170: -366, -766
+State Preamble
+15
+Receving sample 171: -2, -341
+State Preamble
+16
+Receving sample 172: -302, 822
+State Preamble
+17
+Receving sample 173: -850, 169
+State Preamble
+18
+Receving sample 174: 824, 45
+State Preamble
+19
+Receving sample 175: 653, -1035
+State Preamble
+20
+Receving sample 176: 404, -944
+State Preamble
+21
+Receving sample 177: -113, -773
+State Preamble
+22
+Receving sample 178: -43, -109
+State Preamble
+23
+Receving sample 179: 387, -239
+State Preamble
+24
+Receving sample 180: -34, 236
+State Preamble
+25
+Receving sample 181: -700, 399
+State Preamble
+26
+Receving sample 182: -342, 541
+State Preamble
+27
+Receving sample 183: -406, 1137
+State Preamble
+28
+Receving sample 184: -311, 1490
+State Preamble
+29
+Receving sample 185: 1621, -136
+State Preamble
+30
+Receving sample 186: 3947, 61
+State Preamble
+31
+Receving sample 187: 722, 1342
+State Preamble
+32
+Receving sample 188: -2738, -2911
+State Preamble
+33
+Receving sample 189: -2649, -1302
+State Preamble
+34
+Receving sample 190: -842, 4113
+State Preamble
+35
+Receving sample 191: 1250, -1809
+State Preamble
+36
+Receving sample 192: 79, -4343
+State Preamble
+37
+Receving sample 193: -283, 1479
+State Preamble
+38
+Receving sample 194: 1842, 1777
+State Preamble
+39
+Receving sample 195: 2897, -1644
+State Preamble
+40
+Receving sample 196: -44, -695
+State Preamble
+41
+Receving sample 197: -6040, 6244
+State Preamble
+42
+Receving sample 198: 2414, 1236
+State Preamble
+43
+Receving sample 199: 2713, -1800
+State Preamble
+44
+Receving sample 200: 1319, -4053
+State Preamble
+45
+Receving sample 201: -1975, 765
+State Preamble
+46
+Receving sample 202: -2984, 4092
+State Preamble
+47
+Receving sample 203: 3823, 29565
+State Preamble
+48
+Preamble detected, starting data reception
+Receving sample 204: 32259, 32741
+fft buffer index: 1
+Receving sample 205: 31136, -25057
+fft buffer index: 2
+Receving sample 206: -27135, -27678
+fft buffer index: 3
+Receving sample 207: -22616, 30342
+fft buffer index: 4
+Receving sample 208: 29547, 32183
+fft buffer index: 5
+Receving sample 209: 31372, -32452
+fft buffer index: 6
+Receving sample 210: -32768, -32768
+fft buffer index: 7
+Receving sample 211: -32180, -25820
+fft buffer index: 8
+Receving sample 212: -20934, 32767
+fft buffer index: 9
+Receving sample 213: 32767, 32767
+fft buffer index: 10
+Receving sample 214: 30009, 2064
+fft buffer index: 11
+Receving sample 215: -1828, -14932
+fft buffer index: 12
+Receving sample 216: -8996, 26667
+fft buffer index: 13
+Receving sample 217: 20200, 25402
+fft buffer index: 14
+Receving sample 218: 29097, -30839
+fft buffer index: 15
+Receving sample 219: -29529, -26756
+fft buffer index: 16
+Receving sample 220: -30041, -32768
+fft buffer index: 17
+Receving sample 221: -32768, 9253
+fft buffer index: 18
+Receving sample 222: 11672, 28547
+fft buffer index: 19
+Receving sample 223: 29716, 26099
+fft buffer index: 20
+Receving sample 224: 24180, 19800
+fft buffer index: 21
+Receving sample 225: 19293, 16565
+fft buffer index: 22
+Receving sample 226: 19766, 3624
+fft buffer index: 23
+Receving sample 227: 1285, -20061
+fft buffer index: 24
+Receving sample 228: -17980, -20202
+fft buffer index: 25
+Receving sample 229: -22893, -20267
+fft buffer index: 26
+Receving sample 230: -26454, -32768
+fft buffer index: 27
+Receving sample 231: -25555, -9934
+fft buffer index: 28
+Receving sample 232: -10899, 27689
+fft buffer index: 29
+Receving sample 233: 32767, 32767
+fft buffer index: 30
+Receving sample 234: 27808, 20805
+fft buffer index: 31
+Receving sample 235: 28409, -20931
+fft buffer index: 32
+Receving sample 236: -25178, -19708
+fft buffer index: 33
+Receving sample 237: -18454, 9894
+fft buffer index: 34
+Receving sample 238: 8047, -1150
+fft buffer index: 35
+Receving sample 239: -1480, -32768
+fft buffer index: 36
+Receving sample 240: -32768, -31125
+fft buffer index: 37
+Receving sample 241: -30239, 25696
+fft buffer index: 38
+Receving sample 242: 24317, 30613
+fft buffer index: 39
+Receving sample 243: 31121, 30920
+fft buffer index: 40
+Receving sample 244: 30545, -32768
+fft buffer index: 41
+Receving sample 245: -32768, -25124
+fft buffer index: 42
+Receving sample 246: -26858, 25296
+fft buffer index: 43
+Receving sample 247: 29636, 23241
+fft buffer index: 44
+Receving sample 248: 28013, -32139
+fft buffer index: 45
+Receving sample 249: -32352, -27621
+fft buffer index: 46
+Receving sample 250: -32768, 159
+fft buffer index: 47
+Receving sample 251: -2766, 32767
+fft buffer index: 48
+Receving sample 252: 32767, 26973
+fft buffer index: 49
+Receving sample 253: 32767, -24996
+fft buffer index: 50
+Receving sample 254: -23779, -27033
+fft buffer index: 51
+Receving sample 255: -26776, 29114
+fft buffer index: 52
+Receving sample 256: 24603, 32767
+fft buffer index: 53
+Receving sample 257: 32004, -29172
+fft buffer index: 54
+Receving sample 258: -32768, -32768
+fft buffer index: 55
+Receving sample 259: -29452, -23911
+fft buffer index: 56
+Receving sample 260: -21091, 32767
+fft buffer index: 57
+Receving sample 261: 31132, 29505
+fft buffer index: 58
+Receving sample 262: 32767, -2643
+fft buffer index: 59
+Receving sample 263: 3486, -8978
+fft buffer index: 60
+Receving sample 264: -9508, 27837
+fft buffer index: 61
+Receving sample 265: 14682, 21341
+fft buffer index: 62
+Receving sample 266: 25009, -32768
+fft buffer index: 63
+Receving sample 267: -26945, -28467
+fft buffer index: 64
+Receving sample 268: -29667, -32768
+fft buffer index: 65
+Receving sample 269: -32768, 14463
+fft buffer index: 66
+Receving sample 270: 14337, 28608
+fft buffer index: 67
+Receving sample 271: 31160, 23600
+fft buffer index: 68
+Receving sample 272: 23543, 24309
+fft buffer index: 69
+Receving sample 273: 24072, 21017
+fft buffer index: 70
+Receving sample 274: 20716, -619
+fft buffer index: 71
+Receving sample 275: -2737, -23387
+fft buffer index: 72
+Receving sample 276: -20219, -19020
+fft buffer index: 73
+Receving sample 277: -24784, -22204
+fft buffer index: 74
+Receving sample 278: -25665, -32768
+fft buffer index: 75
+Receving sample 279: -24233, -7776
+fft buffer index: 76
+Receving sample 280: -12072, 29962
+fft buffer index: 77
+Receving sample 281: 32767, 32767
+fft buffer index: 78
+Receving sample 282: 29316, 20815
+fft buffer index: 79
+Receving sample 283: 27810, -20038
+fft buffer index: 80
+Receving sample 284: -24540, -19674
+fft buffer index: 81
+Receving sample 285: -18262, 9651
+fft buffer index: 82
+Receving sample 286: 6589, -810
+fft buffer index: 83
+Receving sample 287: -2139, -32768
+fft buffer index: 84
+Receving sample 288: -32768, -30789
+fft buffer index: 85
+Receving sample 289: -28489, 24202
+fft buffer index: 86
+Receving sample 290: 23533, 29794
+fft buffer index: 87
+Receving sample 291: 29340, 32720
+fft buffer index: 88
+Receving sample 292: 30339, -32768
+fft buffer index: 89
+Receving sample 293: -32291, -28096
+fft buffer index: 90
+Receving sample 294: -25399, 24838
+fft buffer index: 91
+Receving sample 295: 26910, 27242
+fft buffer index: 92
+Receving sample 296: 23825, -30570
+fft buffer index: 93
+Receving sample 297: -29871, -30994
+fft buffer index: 94
+Receving sample 298: -31523, -2136
+fft buffer index: 95
+Receving sample 299: -3207, 32767
+fft buffer index: 96
+Receving sample 300: 31528, 28185
+fft buffer index: 97
+Receving sample 301: 32095, -24295
+fft buffer index: 98
+Receving sample 302: -21659, -25422
+fft buffer index: 99
+Receving sample 303: -27065, 28995
+fft buffer index: 100
+Receving sample 304: 24303, 30521
+fft buffer index: 101
+Receving sample 305: 32767, -29612
+fft buffer index: 102
+Receving sample 306: -32411, -31883
+fft buffer index: 103
+Receving sample 307: -31516, -24604
+fft buffer index: 104
+Receving sample 308: -21538, 32767
+fft buffer index: 105
+Receving sample 309: 32480, 31941
+fft buffer index: 106
+Receving sample 310: 32767, 604
+fft buffer index: 107
+Receving sample 311: 1402, -11265
+fft buffer index: 108
+Receving sample 312: -8213, 23752
+fft buffer index: 109
+Receving sample 313: 18473, 22261
+fft buffer index: 110
+Receving sample 314: 24772, -30186
+fft buffer index: 111
+Receving sample 315: -31352, -28441
+fft buffer index: 112
+Receving sample 316: -30891, -32768
+fft buffer index: 113
+Receving sample 317: -32768, 15034
+fft buffer index: 114
+Receving sample 318: 15993, 29541
+fft buffer index: 115
+Receving sample 319: 29509, 22246
+fft buffer index: 116
+Receving sample 320: 22802, 22560
+fft buffer index: 117
+Receving sample 321: 25023, 22163
+fft buffer index: 118
+Receving sample 322: 20903, 2411
+fft buffer index: 119
+Receving sample 323: -3634, -23525
+fft buffer index: 120
+Receving sample 324: -20746, -23099
+fft buffer index: 121
+Receving sample 325: -23654, -23264
+fft buffer index: 122
+Receving sample 326: -23544, -31549
+fft buffer index: 123
+Receving sample 327: -24551, -6867
+fft buffer index: 124
+Receving sample 328: -15406, 25590
+fft buffer index: 125
+Receving sample 329: 32767, 32767
+fft buffer index: 126
+Receving sample 330: 32572, 25321
+fft buffer index: 127
+Receving sample 331: 29948, -20926
+fft buffer index: 128
+Receving sample 332: -26769, -24220
+fft buffer index: 129
+Receving sample 333: -20834, 10870
+fft buffer index: 130
+Receving sample 334: 7277, 3000
+fft buffer index: 131
+Receving sample 335: 164, -32768
+fft buffer index: 132
+Receving sample 336: -32640, -32768
+fft buffer index: 133
+Receving sample 337: -30161, 25184
+fft buffer index: 134
+Receving sample 338: 21829, 31924
+fft buffer index: 135
+Receving sample 339: 30007, 32314
+fft buffer index: 136
+Receving sample 340: 32251, -32768
+fft buffer index: 137
+Receving sample 341: -31982, -28340
+fft buffer index: 138
+Receving sample 342: -26738, 25976
+fft buffer index: 139
+Receving sample 343: 26130, 27758
+fft buffer index: 140
+Receving sample 344: 24362, -31425
+fft buffer index: 141
+Receving sample 345: -29132, -31453
+fft buffer index: 142
+Receving sample 346: -31490, -1457
+fft buffer index: 143
+Receving sample 347: -3650, 32767
+fft buffer index: 144
+Receving sample 348: 31274, 27660
+fft buffer index: 145
+Receving sample 349: 32189, -24333
+fft buffer index: 146
+Receving sample 350: -21495, -25072
+fft buffer index: 147
+Receving sample 351: -26944, 28895
+fft buffer index: 148
+Receving sample 352: 24354, 30276
+fft buffer index: 149
+Receving sample 353: 32767, -29507
+fft buffer index: 150
+Receving sample 354: -32627, -31690
+fft buffer index: 151
+Receving sample 355: -31465, -24640
+fft buffer index: 152
+Receving sample 356: -21308, 32767
+fft buffer index: 153
+Receving sample 357: 32536, 31910
+fft buffer index: 154
+Receving sample 358: 32767, 726
+fft buffer index: 155
+Receving sample 359: 1314, -11218
+fft buffer index: 156
+Receving sample 360: -8174, 23666
+fft buffer index: 157
+Receving sample 361: 18529, 22231
+fft buffer index: 158
+Receving sample 362: 24784, -30133
+fft buffer index: 159
+Receving sample 363: -31358, -28439
+fft buffer index: 160
+Receving sample 364: -30905, -32768
+fft buffer index: 161
+Receving sample 365: -32768, 15049
+fft buffer index: 162
+Receving sample 366: 15986, 29558
+fft buffer index: 163
+Receving sample 367: 29537, 22230
+fft buffer index: 164
+Receving sample 368: 22825, 22547
+fft buffer index: 165
+Receving sample 369: 25007, 22172
+fft buffer index: 166
+Receving sample 370: 20882, 2423
+fft buffer index: 167
+Receving sample 371: -3630, -23527
+fft buffer index: 168
+Receving sample 372: -20733, -23107
+fft buffer index: 169
+Receving sample 373: -23652, -23265
+fft buffer index: 170
+Receving sample 374: -23549, -31546
+fft buffer index: 171
+Receving sample 375: -24553, -6866
+fft buffer index: 172
+Receving sample 376: -15406, 25590
+fft buffer index: 173
+Receving sample 377: 32767, 32767
+fft buffer index: 174
+Receving sample 378: 32572, 25321
+fft buffer index: 175
+Receving sample 379: 29948, -20926
+fft buffer index: 176
+Receving sample 380: -26769, -24220
+fft buffer index: 177
+Receving sample 381: -20834, 10870
+fft buffer index: 178
+Receving sample 382: 7277, 3000
+fft buffer index: 179
+Receving sample 383: 164, -32768
+fft buffer index: 180
+Receving sample 384: -32640, -32768
+fft buffer index: 181
+Receving sample 385: -30161, 25184
+fft buffer index: 182
+Receving sample 386: 21829, 31924
+fft buffer index: 183
+Receving sample 387: 30007, 32314
+fft buffer index: 184
+Receving sample 388: 32251, -32768
+fft buffer index: 185
+Receving sample 389: -31982, -28340
+fft buffer index: 186
+Receving sample 390: -26738, 25976
+fft buffer index: 187
+Receving sample 391: 26130, 27758
+fft buffer index: 188
+Receving sample 392: 24362, -31425
+fft buffer index: 189
+Receving sample 393: -29132, -31453
+fft buffer index: 190
+Receving sample 394: -31490, -1457
+fft buffer index: 191
+Receving sample 395: -3650, 32767
+fft buffer index: 192
+Receving sample 396: 31274, 27660
+fft buffer index: 193
+Receving sample 397: 32189, -24333
+fft buffer index: 194
+Receving sample 398: -21495, -25072
+fft buffer index: 195
+Receving sample 399: -26944, 28895
+fft buffer index: 196
+Receving sample 400: 24354, 30276
+fft buffer index: 197
+Receving sample 401: 32767, -29507
+fft buffer index: 198
+Receving sample 402: -32627, -31690
+fft buffer index: 199
+Receving sample 403: -31465, -24640
+fft buffer index: 200
+Receving sample 404: -21308, 32767
+fft buffer index: 201
+Receving sample 405: 32536, 31910
+fft buffer index: 202
+Receving sample 406: 32767, 726
+fft buffer index: 203
+Receving sample 407: 1314, -11218
+fft buffer index: 204
+Receving sample 408: -8174, 23666
+fft buffer index: 205
+Receving sample 409: 18529, 22231
+fft buffer index: 206
+Receving sample 410: 24784, -30133
+fft buffer index: 207
+Receving sample 411: -31358, -28439
+fft buffer index: 208
+Receving sample 412: -30905, -32768
+fft buffer index: 209
+Receving sample 413: -32768, 15049
+fft buffer index: 210
+Receving sample 414: 15986, 29558
+fft buffer index: 211
+Receving sample 415: 29537, 22230
+fft buffer index: 212
+Receving sample 416: 22825, 22547
+fft buffer index: 213
+Receving sample 417: 25007, 22172
+fft buffer index: 214
+Receving sample 418: 20882, 2423
+fft buffer index: 215
+Receving sample 419: -3630, -23527
+fft buffer index: 216
+Receving sample 420: -20733, -23107
+fft buffer index: 217
+Receving sample 421: -23652, -23265
+fft buffer index: 218
+Receving sample 422: -23549, -31546
+fft buffer index: 219
+Receving sample 423: -24553, -6866
+fft buffer index: 220
+Receving sample 424: -15406, 25590
+fft buffer index: 221
+Receving sample 425: 32767, 32767
+fft buffer index: 222
+Receving sample 426: 32572, 25321
+fft buffer index: 223
+Receving sample 427: 29948, -20926
+fft buffer index: 224
+Receving sample 428: -26769, -24220
+fft buffer index: 225
+Receving sample 429: -20834, 10870
+fft buffer index: 226
+Receving sample 430: 7277, 3000
+fft buffer index: 227
+Receving sample 431: 164, -32768
+fft buffer index: 228
+Receving sample 432: -32640, -32768
+fft buffer index: 229
+Receving sample 433: -30161, 25184
+fft buffer index: 230
+Receving sample 434: 21829, 31924
+fft buffer index: 231
+Receving sample 435: 30007, 32314
+fft buffer index: 232
+Receving sample 436: 32251, -32768
+fft buffer index: 233
+Receving sample 437: -31982, -28340
+fft buffer index: 234
+Receving sample 438: -26738, 25976
+fft buffer index: 235
+Receving sample 439: 26130, 27758
+fft buffer index: 236
+Receving sample 440: 24362, -31425
+fft buffer index: 237
+Receving sample 441: -29132, -31453
+fft buffer index: 238
+Receving sample 442: -31490, -1457
+fft buffer index: 239
+Receving sample 443: -3650, 32767
+fft buffer index: 240
+Receving sample 444: 31274, 27660
+fft buffer index: 241
+Receving sample 445: 32189, -24333
+fft buffer index: 242
+Receving sample 446: -21495, -25072
+fft buffer index: 243
+Receving sample 447: -26944, 28895
+fft buffer index: 244
+Receving sample 448: 24354, 30276
+fft buffer index: 245
+Receving sample 449: 32767, -29507
+fft buffer index: 246
+Receving sample 450: -32627, -31690
+fft buffer index: 247
+Receving sample 451: -31465, -24640
+fft buffer index: 248
+Receving sample 452: -21308, 32767
+fft buffer index: 249
+Receving sample 453: 32536, 31910
+fft buffer index: 250
+Receving sample 454: 32767, 726
+fft buffer index: 251
+Receving sample 455: 1314, -11218
+fft buffer index: 252
+Receving sample 456: -8174, 23666
+fft buffer index: 253
+Receving sample 457: 18529, 22231
+fft buffer index: 254
+Receving sample 458: 24784, -30133
+fft buffer index: 255
+Receving sample 459: -31358, -28439
+fft buffer index: 256
+Receving sample 460: -30905, -32768
+fft buffer index: 257
+Receving sample 461: -32768, 15049
+fft buffer index: 258
+Receving sample 462: 15986, 29558
+fft buffer index: 259
+Receving sample 463: 29537, 22230
+fft buffer index: 260
+Receving sample 464: 22825, 22547
+fft buffer index: 261
+Receving sample 465: 25007, 22172
+fft buffer index: 262
+Receving sample 466: 20882, 2423
+fft buffer index: 263
+Receving sample 467: -3630, -23527
+fft buffer index: 264
+Receving sample 468: -20733, -23107
+fft buffer index: 265
+Receving sample 469: -23652, -23265
+fft buffer index: 266
+Receving sample 470: -23549, -31546
+fft buffer index: 267
+Receving sample 471: -24553, -6866
+fft buffer index: 268
+Receving sample 472: -15406, 25590
+fft buffer index: 269
+Receving sample 473: 32767, 32767
+fft buffer index: 270
+Receving sample 474: 32572, 25321
+fft buffer index: 271
+Receving sample 475: 29948, -20926
+fft buffer index: 272
+Receving sample 476: -26769, -24220
+fft buffer index: 273
+Receving sample 477: -20834, 10870
+fft buffer index: 274
+Receving sample 478: 7277, 3000
+fft buffer index: 275
+Receving sample 479: 164, -32768
+fft buffer index: 276
+Receving sample 480: -32640, -32768
+fft buffer index: 277
+Receving sample 481: -30161, 25184
+fft buffer index: 278
+Receving sample 482: 21829, 31924
+fft buffer index: 279
+Receving sample 483: 30007, 32314
+fft buffer index: 280
+Receving sample 484: 32251, -32768
+fft buffer index: 281
+Receving sample 485: -31982, -28340
+fft buffer index: 282
+Receving sample 486: -26738, 25976
+fft buffer index: 283
+Receving sample 487: 26130, 27758
+fft buffer index: 284
+Receving sample 488: 24362, -31425
+fft buffer index: 285
+Receving sample 489: -29132, -31453
+fft buffer index: 286
+Receving sample 490: -31490, -1457
+fft buffer index: 287
+Receving sample 491: -3650, 32767
+fft buffer index: 288
+Receving sample 492: 31274, 27660
+fft buffer index: 289
+Receving sample 493: 32189, -24333
+fft buffer index: 290
+Receving sample 494: -21495, -25072
+fft buffer index: 291
+Receving sample 495: -26944, 28895
+fft buffer index: 292
+Receving sample 496: 24354, 30276
+fft buffer index: 293
+Receving sample 497: 32767, -29507
+fft buffer index: 294
+Receving sample 498: -32627, -31690
+fft buffer index: 295
+Receving sample 499: -31465, -24640
+fft buffer index: 296
+Receving sample 500: -21308, 32767
+fft buffer index: 297
+Receving sample 501: 32536, 31910
+fft buffer index: 298
+Receving sample 502: 32767, 726
+fft buffer index: 299
+Receving sample 503: 1314, -11218
+fft buffer index: 300
+Receving sample 504: -8174, 23666
+fft buffer index: 301
+Receving sample 505: 18529, 22231
+fft buffer index: 302
+Receving sample 506: 24784, -30133
+fft buffer index: 303
+Receving sample 507: -31358, -28439
+fft buffer index: 304
+Receving sample 508: -30905, -32768
+fft buffer index: 305
+Receving sample 509: -32768, 15049
+fft buffer index: 306
+Receving sample 510: 15986, 29558
+fft buffer index: 307
+Receving sample 511: 29537, 22230
+fft buffer index: 308
+Receving sample 512: 22825, 22547
+fft buffer index: 309
+Receving sample 513: 25007, 22172
+fft buffer index: 310
+Receving sample 514: 20882, 2423
+fft buffer index: 311
+Receving sample 515: -3630, -23527
+fft buffer index: 312
+Receving sample 516: -20733, -23107
+fft buffer index: 313
+Receving sample 517: -23652, -23265
+fft buffer index: 314
+Receving sample 518: -23549, -31546
+fft buffer index: 315
+Receving sample 519: -24553, -6866
+fft buffer index: 316
+Receving sample 520: -15406, 25590
+fft buffer index: 317
+Receving sample 521: 32767, 32767
+fft buffer index: 318
+Receving sample 522: 32572, 25321
+fft buffer index: 319
+Receving sample 523: 29948, -20926
+fft buffer index: 320
+Receving sample 524: -26769, -24220
+fft buffer index: 321
+Receving sample 525: -20834, 10870
+fft buffer index: 322
+Receving sample 526: 7277, 3000
+fft buffer index: 323
+Receving sample 527: 164, -32768
+fft buffer index: 324
+Receving sample 528: -32640, -32768
+fft buffer index: 325
+Receving sample 529: -30161, 25184
+fft buffer index: 326
+Receving sample 530: 21829, 31924
+fft buffer index: 327
+Receving sample 531: 30007, 32314
+fft buffer index: 328
+Receving sample 532: 32251, -32768
+fft buffer index: 329
+Receving sample 533: -31982, -28340
+fft buffer index: 330
+Receving sample 534: -26738, 25976
+fft buffer index: 331
+Receving sample 535: 26130, 27758
+fft buffer index: 332
+Receving sample 536: 24362, -31425
+fft buffer index: 333
+Receving sample 537: -29132, -31453
+fft buffer index: 334
+Receving sample 538: -31490, -1457
+fft buffer index: 335
+Receving sample 539: -3650, 32767
+fft buffer index: 336
+Receving sample 540: 31274, 27660
+fft buffer index: 337
+Receving sample 541: 32189, -24333
+fft buffer index: 338
+Receving sample 542: -21495, -25072
+fft buffer index: 339
+Receving sample 543: -26944, 28895
+fft buffer index: 340
+Receving sample 544: 24354, 30276
+fft buffer index: 341
+Receving sample 545: 32767, -29507
+fft buffer index: 342
+Receving sample 546: -32627, -31690
+fft buffer index: 343
+Receving sample 547: -31465, -24640
+fft buffer index: 344
+Receving sample 548: -21308, 32767
+fft buffer index: 345
+Receving sample 549: 32536, 31910
+fft buffer index: 346
+Receving sample 550: 32767, 726
+fft buffer index: 347
+Receving sample 551: 1314, -11218
+fft buffer index: 348
+Receving sample 552: -8174, 23666
+fft buffer index: 349
+Receving sample 553: 18529, 22231
+fft buffer index: 350
+Receving sample 554: 24784, -30133
+fft buffer index: 351
+Receving sample 555: -31358, -28439
+fft buffer index: 352
+Receving sample 556: -30905, -32768
+fft buffer index: 353
+Receving sample 557: -32768, 15049
+fft buffer index: 354
+Receving sample 558: 15986, 29558
+fft buffer index: 355
+Receving sample 559: 29537, 22230
+fft buffer index: 356
+Receving sample 560: 22825, 22547
+fft buffer index: 357
+Receving sample 561: 25007, 22172
+fft buffer index: 358
+Receving sample 562: 20882, 2423
+fft buffer index: 359
+Receving sample 563: -3630, -23527
+fft buffer index: 360
+Receving sample 564: -20733, -23107
+fft buffer index: 361
+Receving sample 565: -23652, -23265
+fft buffer index: 362
+Receving sample 566: -23549, -31546
+fft buffer index: 363
+Receving sample 567: -24553, -6866
+fft buffer index: 364
+Receving sample 568: -15406, 25590
+fft buffer index: 365
+Receving sample 569: 32767, 32767
+fft buffer index: 366
+Receving sample 570: 32572, 25321
+fft buffer index: 367
+Receving sample 571: 29948, -20926
+fft buffer index: 368
+Receving sample 572: -26769, -24220
+fft buffer index: 369
+Receving sample 573: -20834, 10870
+fft buffer index: 370
+Receving sample 574: 7277, 3000
+fft buffer index: 371
+Receving sample 575: 164, -32768
+fft buffer index: 372
+Receving sample 576: -32640, -32768
+fft buffer index: 373
+Receving sample 577: -30161, 25184
+fft buffer index: 374
+Receving sample 578: 21829, 31924
+fft buffer index: 375
+Receving sample 579: 30007, 32314
+fft buffer index: 376
+Receving sample 580: 32251, -32768
+fft buffer index: 377
+Receving sample 581: -31982, -28340
+fft buffer index: 378
+Receving sample 582: -26738, 25976
+fft buffer index: 379
+Receving sample 583: 26130, 27758
+fft buffer index: 380
+Receving sample 584: 24362, -31425
+fft buffer index: 381
+Receving sample 585: -29132, -31453
+fft buffer index: 382
+Receving sample 586: -31490, -1457
+fft buffer index: 383
+Receving sample 587: -3650, 32767
+fft buffer index: 384
+Receving sample 588: 31274, 27660
+fft buffer index: 385
+Receving sample 589: 32189, -24333
+fft buffer index: 386
+Receving sample 590: -21495, -25072
+fft buffer index: 387
+Receving sample 591: -26944, 28895
+fft buffer index: 388
+Receving sample 592: 24354, 30276
+fft buffer index: 389
+Receving sample 593: 32767, -29507
+fft buffer index: 390
+Receving sample 594: -32627, -31690
+fft buffer index: 391
+Receving sample 595: -31465, -24640
+fft buffer index: 392
+Receving sample 596: -21308, 32767
+fft buffer index: 393
+Receving sample 597: 32536, 31910
+fft buffer index: 394
+Receving sample 598: 32767, 726
+fft buffer index: 395
+Receving sample 599: 1314, -11218
+fft buffer index: 396
+Receving sample 600: -8174, 23666
+fft buffer index: 397
+Receving sample 601: 18529, 22231
+fft buffer index: 398
+Receving sample 602: 24784, -30133
+fft buffer index: 399
+Receving sample 603: -31358, -28439
+fft buffer index: 400
+Receving sample 604: -30905, -32768
+fft buffer index: 401
+Receving sample 605: -32768, 15049
+fft buffer index: 402
+Receving sample 606: 15986, 29558
+fft buffer index: 403
+Receving sample 607: 29537, 22230
+fft buffer index: 404
+Receving sample 608: 22825, 22547
+fft buffer index: 405
+Receving sample 609: 25007, 22172
+fft buffer index: 406
+Receving sample 610: 20882, 2423
+fft buffer index: 407
+Receving sample 611: -3630, -23527
+fft buffer index: 408
+Receving sample 612: -20733, -23107
+fft buffer index: 409
+Receving sample 613: -23652, -23265
+fft buffer index: 410
+Receving sample 614: -23549, -31546
+fft buffer index: 411
+Receving sample 615: -24553, -6866
+fft buffer index: 412
+Receving sample 616: -15406, 25590
+fft buffer index: 413
+Receving sample 617: 32767, 32767
+fft buffer index: 414
+Receving sample 618: 32572, 25321
+fft buffer index: 415
+Receving sample 619: 29948, -20926
+fft buffer index: 416
+Receving sample 620: -26769, -24220
+fft buffer index: 417
+Receving sample 621: -20834, 10870
+fft buffer index: 418
+Receving sample 622: 7277, 3000
+fft buffer index: 419
+Receving sample 623: 164, -32768
+fft buffer index: 420
+Receving sample 624: -32640, -32768
+fft buffer index: 421
+Receving sample 625: -30160, 25185
+fft buffer index: 422
+Receving sample 626: 21834, 31926
+fft buffer index: 423
+Receving sample 627: 30014, 32317
+fft buffer index: 424
+Receving sample 628: 32251, -32768
+fft buffer index: 425
+Receving sample 629: -31996, -28344
+fft buffer index: 426
+Receving sample 630: -26759, 25968
+fft buffer index: 427
+Receving sample 631: 26121, 27753
+fft buffer index: 428
+Receving sample 632: 24375, -31426
+fft buffer index: 429
+Receving sample 633: -29109, -31452
+fft buffer index: 430
+Receving sample 634: -31486, -1455
+fft buffer index: 431
+Receving sample 635: -3670, 32767
+fft buffer index: 432
+Receving sample 636: 31258, 27652
+fft buffer index: 433
+Receving sample 637: 32193, -24381
+fft buffer index: 434
+Receving sample 638: -21501, -25100
+fft buffer index: 435
+Receving sample 639: -27003, 28888
+fft buffer index: 436
+fft size: 1024
+Receving sample 0: 24273, 30236
+fft buffer index: 437
+Receving sample 1: 32767, -29500
+fft buffer index: 438
+Receving sample 2: -32500, -31592
+fft buffer index: 439
+Receving sample 3: -31297, -24597
+fft buffer index: 440
+Process FFT and decode now
+Magnitudes:
+0.48 4.88 2.44 3.74 4.01 1.85 4.66 0.52 4.42 2.19 3.57 3.78 2.13 5.06 0.57 5.62 3.20 5.00 7.06 2.54 15.47 21.56 17.16 7.45 2.37 3.14 2.69 2.37 2.17 3.02 1.38 3.27 1.96 2.71 2.98 2.03 3.30 2.61 3.12 3.82 4.08 6.11 16.64 19.32 10.26 4.24 5.28 3.69 4.64 2.78 4.54 2.20 4.04 2.65 3.17 3.44 2.24 4.14 1.85 4.52 2.76 4.78 4.02 10.01 14.54 9.43 4.62 3.74 3.95 4.08 2.69 5.01 1.58 5.09 3.24 3.72 5.04 2.17 5.18 4.23 3.69 6.66 7.70 5.57 30.54 56.42 60.31 32.92 6.54 23.31 6.54 17.04 14.44 9.56 19.34 0.51 21.01 9.61 19.29 20.62 13.77 33.62 2.24 51.80 29.37 91.42 222.00 244.22 138.16 2.78 53.55 20.82 25.30 24.36 8.50 22.55 3.12 17.55 10.92 10.58 15.37 2.73 17.36 6.08 18.10 19.50 18.26 69.91 91.71 65.45 16.02 15.66 13.38 4.03 10.25 1.15 7.19 3.68 4.47 4.89 2.07 5.15 1.13 4.51 2.42 3.20 3.14 1.62 4.05 6.67 8.83 4.17 2.97 3.48 2.06 3.84 1.88 4.29 2.51 4.20 3.56 3.46 4.32 2.54 4.40 2.43 3.84 3.34 2.95 5.43 6.90 6.11 5.83 5.23 1.14 6.22 2.70 5.14 5.23 2.68 6.26 0.47 6.42 2.57 6.26 5.98 4.32 9.03 1.64 8.42 7.06 7.58 15.41 20.13 12.73 6.08 14.06 1.80 16.29 8.48 15.56 17.73 9.82 24.96 5.34 28.56 17.27 28.23 36.52 21.28 67.04 8.70 152.49 267.36 229.60 81.10 37.03 43.94 8.94 29.36 5.82 18.04 10.08 10.63 9.79 11.77 7.16 17.03 5.34 24.53 9.06 39.97 32.20 81.86 225.98 262.47 149.47 3.94 63.41 16.98 36.28 24.31 19.96 27.61 6.09 26.29 6.41 19.99 13.92 11.28 16.52 3.41 16.32 3.58 15.81 19.61 17.15 12.72 10.78 10.47 4.32 13.24 3.27 11.49 9.09 6.48 11.72 0.56 11.07 4.38 8.36 7.40 5.10 8.63 2.96 8.84 4.15 14.53 11.79 3.74 9.04 1.25 9.14 3.48 7.39 6.49 4.12 7.73 0.86 7.45 2.00 6.71 4.21 5.49 6.66 3.10 8.49 1.08 10.57 8.08 3.77 7.07 1.60 7.58 1.33 7.23 4.08 5.96 6.80 3.42 8.72 0.75 9.14 4.34 8.04 8.09 5.97 12.21 3.94 25.56 30.01 15.95 5.99 3.52 7.46 2.43 7.54 5.49 6.00 8.75 2.75 11.11 2.09 11.70 7.97 10.03 14.51 5.98 23.33 2.60 49.83 86.52 73.03 25.80 10.41 12.98 1.85 7.54 1.48 4.14 1.83 2.06 1.82 1.04 2.05 1.95 1.94 4.08 0.83 7.15 3.88 13.15 31.06 33.42 18.54 0.70 6.40 2.61 2.56 2.56 0.73 2.04 0.66 1.32 1.10 0.92 1.02 1.18 1.26 0.99 2.25 1.50 3.17 9.48 13.77 11.54 3.77 2.98 3.36 0.43 2.45 0.87 1.55 1.09 1.40 0.95 1.40 1.43 0.84 2.05 0.37 2.19 2.11 1.52 6.60 12.47 13.21 6.33 2.85 4.96 1.15 4.40 2.26 3.39 3.85 1.72 4.80 1.55 4.71 3.89 3.62 6.50 1.85 9.91 4.99 17.51 40.48 44.43 26.17 2.46 9.64 5.37 3.54 5.21 0.55 3.95 1.84 2.55 2.83 1.09 3.30 0.81 2.84 2.25 1.36 2.65 0.75 2.73 6.44 8.66 4.24 3.41 5.19 0.78 5.58 1.82 5.16 4.56 3.50 6.99 0.43 8.42 3.85 8.44 9.44 6.67 18.27 0.55 44.53 77.39 68.61 27.34 8.83 14.84 0.39 9.24 3.77 5.25 5.07 1.98 4.87 0.85 3.54 2.15 1.79 2.35 0.48 1.92 0.24 1.49 0.83 2.88 2.63 0.85 2.34 1.10 1.71 1.63 0.81 1.59 0.50 1.13 0.75 0.67 0.90 0.34 1.05 0.39 1.02 0.88 0.68 1.35 
+Decoded char: a
+Receving sample 4: -21281, 32767
+fft buffer index: 1
+Receving sample 5: 32380, 31887
+fft buffer index: 2
+Receving sample 6: 32767, 658
+fft buffer index: 3
+Receving sample 7: 1194, -11151
+fft buffer index: 4
+Receving sample 8: -8079, 23563
+fft buffer index: 5
+Receving sample 9: 18752, 22138
+fft buffer index: 6
+Receving sample 10: 24904, -29829
+fft buffer index: 7
+Receving sample 11: -31370, -28093
+fft buffer index: 8
+Receving sample 12: -30855, -32768
+fft buffer index: 9
+Receving sample 13: -32768, 14833
+fft buffer index: 10
+Receving sample 14: 15914, 29405
+fft buffer index: 11
+Receving sample 15: 28907, 22074
+fft buffer index: 12
+Receving sample 16: 22184, 22497
+fft buffer index: 13
+Receving sample 17: 25363, 22294
+fft buffer index: 14
+Receving sample 18: 21764, 2878
+fft buffer index: 15
+Receving sample 19: -2645, -23457
+fft buffer index: 16
+Receving sample 20: -20986, -22995
+fft buffer index: 17
+Receving sample 21: -25558, -23612
+fft buffer index: 18
+Receving sample 22: -24985, -32768
+fft buffer index: 19
+Receving sample 23: -24545, -6879
+fft buffer index: 20
+Receving sample 24: -12931, 26519
+fft buffer index: 21
+Receving sample 25: 32767, 32767
+fft buffer index: 22
+Receving sample 26: 31954, 25812
+fft buffer index: 23
+Receving sample 27: 30611, -19806
+fft buffer index: 24
+Receving sample 28: -25282, -22489
+fft buffer index: 25
+Receving sample 29: -22116, 9871
+fft buffer index: 26
+Receving sample 30: 6337, -877
+fft buffer index: 27
+Receving sample 31: -97, -32768
+fft buffer index: 28
+Receving sample 32: -32768, -31713
+fft buffer index: 29
+Receving sample 33: -30176, 21346
+fft buffer index: 30
+Receving sample 34: 18171, 32767
+fft buffer index: 31
+Receving sample 35: 31950, 31594
+fft buffer index: 32
+Receving sample 36: 32767, -32768
+fft buffer index: 33
+Receving sample 37: -29761, -26051
+fft buffer index: 34
+Receving sample 38: -23417, 27831
+fft buffer index: 35
+Receving sample 39: 26701, 26449
+fft buffer index: 36
+Receving sample 40: 23892, -32768
+fft buffer index: 37
+Receving sample 41: -32768, -26934
+fft buffer index: 38
+Receving sample 42: -31787, -4902
+fft buffer index: 39
+Receving sample 43: -335, -1306
+fft buffer index: 40
+Receving sample 44: -1836, 2078
+fft buffer index: 41
+Receving sample 45: -202, 0
+fft buffer index: 42
+Receving sample 46: 3331, -891
+fft buffer index: 43
+Receving sample 47: -1177, 1335
+fft buffer index: 44
+Receving sample 48: -1811, -2016
+fft buffer index: 45
+Receving sample 49: -1340, -575
+fft buffer index: 46
+Receving sample 50: -1858, -346
+fft buffer index: 47
+Receving sample 51: -10, 564
+fft buffer index: 48
+Receving sample 52: 3664, 727
+fft buffer index: 49
+Receving sample 53: 1144, 1004
+fft buffer index: 50
+Receving sample 54: 2312, -1458
+fft buffer index: 51
+Receving sample 55: -662, 1955
+fft buffer index: 52
+Receving sample 56: -2751, 1809
+fft buffer index: 53
+Receving sample 57: -600, -1328
+fft buffer index: 54
+Receving sample 58: 871, -2066
+fft buffer index: 55
+Receving sample 59: 281, 602
+fft buffer index: 56
+Receving sample 60: 1190, 1394
+fft buffer index: 57
+Receving sample 61: 1070, 577
+fft buffer index: 58
+Receving sample 62: -1628, -535
+fft buffer index: 59
+Receving sample 63: -2239, -2144
+fft buffer index: 60
+Receving sample 64: -137, -490
+fft buffer index: 61
+Receving sample 65: 1402, 1748
+fft buffer index: 62
+Receving sample 66: 599, -24
+fft buffer index: 63
+Receving sample 67: -661, -941
+fft buffer index: 64
+Receving sample 68: 378, 370
+fft buffer index: 65
+Receving sample 69: 1163, 1413
+fft buffer index: 66
+Receving sample 70: 574, 168
+fft buffer index: 67
+Receving sample 71: -326, 54
+fft buffer index: 68
+Receving sample 72: 1090, 1751
+fft buffer index: 69
+Receving sample 73: 1907, 885
+fft buffer index: 70
+Receving sample 74: 410, -1708
+fft buffer index: 71
+Receving sample 75: -3867, 47
+fft buffer index: 72
+Receving sample 76: -2238, -2586
+fft buffer index: 73
+Receving sample 77: 1431, -1392
+fft buffer index: 74
+Receving sample 78: 361, 4420
+fft buffer index: 75
+Receving sample 79: 2006, -1067
+fft buffer index: 76
+Receving sample 80: 764, -1086
+fft buffer index: 77
+Receving sample 81: -1912, 1020
+fft buffer index: 78
+Receving sample 82: -3397, -280
+fft buffer index: 79
+Receving sample 83: 1409, -1118
+fft buffer index: 80
+Receving sample 84: -280, 162
+fft buffer index: 81
+Receving sample 85: -454, -419
+fft buffer index: 82
+Receving sample 86: 2949, 2748
+fft buffer index: 83
+Receving sample 87: 51, 283
+fft buffer index: 84
+Receving sample 88: 306, -4139
+fft buffer index: 85
+Receving sample 89: -999, 1759
+fft buffer index: 86
+Receving sample 90: 3234, -2670
+fft buffer index: 87
+Receving sample 91: -1933, 32767
+fft buffer index: 88
+Receving sample 92: 32030, 32767
+fft buffer index: 89
+Receving sample 93: 31899, -30423
+fft buffer index: 90
+Receving sample 94: -32768, -32768
+fft buffer index: 91
+Receving sample 95: -30715, 11528
+fft buffer index: 92
+Receving sample 96: 10001, 25063
+fft buffer index: 93
+Receving sample 97: 24449, -32768
+fft buffer index: 94
+Receving sample 98: -31110, -28194
+fft buffer index: 95
+Receving sample 99: -32768, 8908
+fft buffer index: 96
+Receving sample 100: 15927, 32652
+fft buffer index: 97
+Receving sample 101: 32555, 32104
+fft buffer index: 98
+Receving sample 102: 29248, -32768
+fft buffer index: 99
+Receving sample 103: -31578, -32768
+fft buffer index: 100
+Receving sample 104: -32768, -14454
+fft buffer index: 101
+Receving sample 105: -10972, 6191
+fft buffer index: 102
+Receving sample 106: 3160, 6671
+fft buffer index: 103
+Receving sample 107: 8521, -7365
+fft buffer index: 104
+Receving sample 108: -6564, 24825
+fft buffer index: 105
+Receving sample 109: 19883, 32767
+fft buffer index: 106
+Receving sample 110: 32767, 8287
+fft buffer index: 107
+Receving sample 111: 11239, -31292
+fft buffer index: 108
+Receving sample 112: -29028, -31978
+fft buffer index: 109
+Receving sample 113: -31376, -22770
+fft buffer index: 110
+Receving sample 114: -24490, 2674
+fft buffer index: 111
+Receving sample 115: 203, 19758
+fft buffer index: 112
+Receving sample 116: 22363, 32767
+fft buffer index: 113
+Receving sample 117: 31066, 28337
+fft buffer index: 114
+Receving sample 118: 32349, -14960
+fft buffer index: 115
+Receving sample 119: -15652, -23621
+fft buffer index: 116
+Receving sample 120: -26556, -23357
+fft buffer index: 117
+Receving sample 121: -22208, 8225
+fft buffer index: 118
+Receving sample 122: 5627, -3231
+fft buffer index: 119
+Receving sample 123: -1511, -12859
+fft buffer index: 120
+Receving sample 124: -16205, 15996
+fft buffer index: 121
+Receving sample 125: 18585, 32767
+fft buffer index: 122
+Receving sample 126: 31464, 29269
+fft buffer index: 123
+Receving sample 127: 31326, -32768
+fft buffer index: 124
+Receving sample 128: -27557, -32738
+fft buffer index: 125
+Receving sample 129: -32768, -10577
+fft buffer index: 126
+Receving sample 130: -8827, 31604
+fft buffer index: 127
+Receving sample 131: 29999, 32767
+fft buffer index: 128
+Receving sample 132: 32126, -23664
+fft buffer index: 129
+Receving sample 133: -23849, -13108
+fft buffer index: 130
+Receving sample 134: -7224, 32456
+fft buffer index: 131
+Receving sample 135: 28774, 32767
+fft buffer index: 132
+Receving sample 136: 32767, -32768
+fft buffer index: 133
+Receving sample 137: -30629, -28092
+fft buffer index: 134
+Receving sample 138: -32768, -149
+fft buffer index: 135
+Receving sample 139: 2188, 28026
+fft buffer index: 136
+Receving sample 140: 28393, 32763
+fft buffer index: 137
+Receving sample 141: 32767, -32768
+fft buffer index: 138
+Receving sample 142: -32768, -28267
+fft buffer index: 139
+Receving sample 143: -25705, 12031
+fft buffer index: 140
+Receving sample 144: 10444, 22816
+fft buffer index: 141
+Receving sample 145: 20905, -32768
+fft buffer index: 142
+Receving sample 146: -27642, -30578
+fft buffer index: 143
+Receving sample 147: -32768, 14294
+fft buffer index: 144
+Receving sample 148: 15576, 32767
+fft buffer index: 145
+Receving sample 149: 32767, 28652
+fft buffer index: 146
+Receving sample 150: 27683, -31994
+fft buffer index: 147
+Receving sample 151: -31848, -31114
+fft buffer index: 148
+Receving sample 152: -32768, -17962
+fft buffer index: 149
+Receving sample 153: -16676, 10383
+fft buffer index: 150
+Receving sample 154: 8983, 1107
+fft buffer index: 151
+Receving sample 155: 6651, -7628
+fft buffer index: 152
+Receving sample 156: -9572, 26268
+fft buffer index: 153
+Receving sample 157: 26663, 32377
+fft buffer index: 154
+Receving sample 158: 30248, 15478
+fft buffer index: 155
+Receving sample 159: 14689, -32768
+fft buffer index: 156
+Receving sample 160: -32768, -29721
+fft buffer index: 157
+Receving sample 161: -30588, -23682
+fft buffer index: 158
+Receving sample 162: -22675, 1637
+fft buffer index: 159
+Receving sample 163: -3054, 25856
+fft buffer index: 160
+Receving sample 164: 29394, 30151
+fft buffer index: 161
+Receving sample 165: 27451, 32767
+fft buffer index: 162
+Receving sample 166: 32479, -20040
+fft buffer index: 163
+Receving sample 167: -18252, -28499
+fft buffer index: 164
+Receving sample 168: -29561, -24368
+fft buffer index: 165
+Receving sample 169: -20251, 4798
+fft buffer index: 166
+Receving sample 170: 3849, -1286
+fft buffer index: 167
+Receving sample 171: 2085, -12084
+fft buffer index: 168
+Receving sample 172: -15199, 18306
+fft buffer index: 169
+Receving sample 173: 17472, 32767
+fft buffer index: 170
+Receving sample 174: 32767, 31378
+fft buffer index: 171
+Receving sample 175: 31812, -32768
+fft buffer index: 172
+Receving sample 176: -29571, -32768
+fft buffer index: 173
+Receving sample 177: -32768, -10175
+fft buffer index: 174
+Receving sample 178: -8990, 32576
+fft buffer index: 175
+Receving sample 179: 29269, 32174
+fft buffer index: 176
+Receving sample 180: 32767, -24560
+fft buffer index: 177
+Receving sample 181: -26547, -10827
+fft buffer index: 178
+Receving sample 182: -9156, 28090
+fft buffer index: 179
+Receving sample 183: 30876, 32767
+fft buffer index: 180
+Receving sample 184: 31309, -32768
+fft buffer index: 181
+Receving sample 185: -32768, -30432
+fft buffer index: 182
+Receving sample 186: -32768, 225
+fft buffer index: 183
+Receving sample 187: 2899, 29392
+fft buffer index: 184
+Receving sample 188: 27068, 32767
+fft buffer index: 185
+Receving sample 189: 32767, -32452
+fft buffer index: 186
+Receving sample 190: -32372, -26639
+fft buffer index: 187
+Receving sample 191: -28081, 11619
+fft buffer index: 188
+Receving sample 192: 11212, 24122
+fft buffer index: 189
+Receving sample 193: 19660, -32768
+fft buffer index: 190
+Receving sample 194: -30526, -31550
+fft buffer index: 191
+Receving sample 195: -32768, 12125
+fft buffer index: 192
+Receving sample 196: 15060, 32405
+fft buffer index: 193
+Receving sample 197: 31835, 30216
+fft buffer index: 194
+Receving sample 198: 31461, -32768
+fft buffer index: 195
+Receving sample 199: -31187, -32768
+fft buffer index: 196
+Receving sample 200: -32768, -14462
+fft buffer index: 197
+Receving sample 201: -13672, 11702
+fft buffer index: 198
+Receving sample 202: 8979, -2253
+fft buffer index: 199
+Receving sample 203: 2791, -5733
+fft buffer index: 200
+Receving sample 204: -8712, 28529
+fft buffer index: 201
+Receving sample 205: 27309, 29871
+fft buffer index: 202
+Receving sample 206: 27712, 15708
+fft buffer index: 203
+Receving sample 207: 15195, -32768
+fft buffer index: 204
+Receving sample 208: -32441, -30641
+fft buffer index: 205
+Receving sample 209: -30942, -23813
+fft buffer index: 206
+Receving sample 210: -22447, 1908
+fft buffer index: 207
+Receving sample 211: -2820, 25698
+fft buffer index: 208
+Receving sample 212: 29318, 30120
+fft buffer index: 209
+Receving sample 213: 27941, 32352
+fft buffer index: 210
+Receving sample 214: 32018, -19722
+fft buffer index: 211
+Receving sample 215: -18595, -28262
+fft buffer index: 212
+Receving sample 216: -28675, -25030
+fft buffer index: 213
+Receving sample 217: -20327, 5247
+fft buffer index: 214
+Receving sample 218: 3205, -1051
+fft buffer index: 215
+Receving sample 219: 2304, -12564
+fft buffer index: 216
+Receving sample 220: -15088, 18573
+fft buffer index: 217
+Receving sample 221: 17185, 32767
+fft buffer index: 218
+Receving sample 222: 32767, 31250
+fft buffer index: 219
+Receving sample 223: 31905, -32768
+fft buffer index: 220
+Receving sample 224: -29418, -32768
+fft buffer index: 221
+Receving sample 225: -32768, -10155
+fft buffer index: 222
+Receving sample 226: -9033, 32631
+fft buffer index: 223
+Receving sample 227: 29329, 32111
+fft buffer index: 224
+Receving sample 228: 32767, -24551
+fft buffer index: 225
+Receving sample 229: -26516, -10852
+fft buffer index: 226
+Receving sample 230: -9161, 28122
+fft buffer index: 227
+Receving sample 231: 30854, 32767
+fft buffer index: 228
+Receving sample 232: 31374, -32768
+fft buffer index: 229
+Receving sample 233: -32768, -30395
+fft buffer index: 230
+Receving sample 234: -32768, 222
+fft buffer index: 231
+Receving sample 235: 2883, 29385
+fft buffer index: 232
+Receving sample 236: 27074, 32767
+fft buffer index: 233
+Receving sample 237: 32767, -32482
+fft buffer index: 234
+Receving sample 238: -32401, -26619
+fft buffer index: 235
+Receving sample 239: -28091, 11632
+fft buffer index: 236
+Receving sample 240: 11240, 24095
+fft buffer index: 237
+Receving sample 241: 19652, -32768
+fft buffer index: 238
+Receving sample 242: -30534, -31544
+fft buffer index: 239
+Receving sample 243: -32768, 12120
+fft buffer index: 240
+Receving sample 244: 15060, 32406
+fft buffer index: 241
+Receving sample 245: 31837, 30214
+fft buffer index: 242
+Receving sample 246: 31459, -32768
+fft buffer index: 243
+Receving sample 247: -31187, -32768
+fft buffer index: 244
+Receving sample 248: -32768, -14462
+fft buffer index: 245

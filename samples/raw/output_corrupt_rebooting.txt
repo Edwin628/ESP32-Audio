@@ -1,0 +1,258 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Successfully initialize I2S!
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 0 allocated 6200 min_free 0
+    largest_free_block 0 alloc_blocks 44 free_blocks 0 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 0 allocated 14916 min_free 0
+    largest_free_block 0 alloc_blocks 62 free_blocks 0 total_blocks 62
+  At 0x3ffca710 len 88304 free 0 allocated 83588 min_free 0
+    largest_free_block 0 alloc_blocks 240 free_blocks 0 total_blocks 240
+  At 0x3ffe0440 len 15072 free 2104 allocated 11148 min_free 32
+    largest_free_block 404 alloc_blocks 87 free_blocks 12 total_blocks 99
+  At 0x3ffe4350 len 113840 free 102412 allocated 10496 min_free 101156
+    largest_free_block 98292 alloc_blocks 3 free_blocks 2 total_blocks 5
+  Totals:
+    free 104524 allocated 126352 min_free 101196 largest_free_block 98292
+
+a
+
+
+Backtrace: 0x407531d2:0x3ffbea5c |<-CORRUPTED
+
+
+
+i
+
+
+Backtrace: 0x400df90c:0x3ffbe84c |<-CORRUPTED
+
+
+
+
+Backtrace: 0x7b0bc2b7:0x4a320abd |<-CORRUPTED
+
+
+
+
+ELF file SHA256: 7f13cae7c6659b64
+
+Re-entered core dump! Exception happened during core dump!
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Successfully initialize I2S!
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 0 allocated 6200 min_free 0
+    largest_free_block 0 alloc_blocks 44 free_blocks 0 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 0 allocated 14756 min_free 0
+    largest_free_block 0 alloc_blocks 72 free_blocks 0 total_blocks 72
+  At 0x3ffca710 len 88304 free 0 allocated 83748 min_free 0
+    largest_free_block 0 alloc_blocks 230 free_blocks 0 total_blocks 230
+  At 0x3ffe0440 len 15072 free 2104 allocated 11148 min_free 32
+    largest_free_block 404 alloc_blocks 87 free_blocks 12 total_blocks 99
+  At 0x3ffe4350 len 113840 free 102412 allocated 10496 min_free 101156
+    largest_free_block 98292 alloc_blocks 3 free_blocks 2 total_blocks 5
+  Totals:
+    free 104524 allocated 126352 min_free 101196 largest_free_block 98292
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Backtrace: 0x400df07c:0x3ffc5830 0x400df098:0x3ffc5850 0x400df1b7:0x3ffc5870 0x400df5e3:0x3ffc58e0 0x400839c5:0x3ffc5930 0x40084a0c:0x3ffc5950 0x400df07c:0x3ffc5a10 0x400df098:0x3ffc5a30 0x400df1b7:0x3ffc5a50 0x400df5e3:0x3ffc5ac0 0x400839c5:0x3ffc5b10 0x40084a0c:0x3ffc5b30 0x400df07c:0x3ffc5bf0 0x400df098:0x3ffc5c10 0x400df1b7:0x3ffc5c30 0x400df5e3:0x3ffc5ca0 0x400839c5:0x3ffc5cf0 0x40084a0c:0x3ffc5d10 0x400df07c:0x3ffc5dd0 0x400df098:0x3ffc5df0 0x400df1b7:0x3ffc5e10 0x400df5e3:0x3ffc5e80 0x400839c5:0x3ffc5ed0 0x40084a0c:0x3ffc5ef0 0x400df07c:0x3ffc5fb0 0x400df098:0x3ffc5fd0 0x400df1b7:0x3ffc5ff0 0x400df5e3:0x3ffc6060 0x400839c5:0x3ffc60b0 0x40084a0c:0x3ffc60d0 0x400df07c:0x3ffc6190 0x400df098:0x3ffc61b0 0x400df1b7:0x3ffc61d0 0x400df5e3:0x3ffc6240 0x400839c5:0x3ffc6290 0x40084a0c:0x3ffc62b0 0x400df07c:0x3ffc6370 0x400df098:0x3ffc6390 0x400df1b7:0x3ffc63b0 0x400df5e3:0x3ffc6420 0x400839c5:0x3ffc6470 0x40084a0c:0x3ffc6490 0x400df07c:0x3ffc6550 0x400df098:0x3ffc6570 0x400df1b7:0x3ffc6590 0x400df5e3:0x3ffc6600 0x400839c5:0x3ffc6650 0x40084a0c:0x3ffc6670 0x400df07c:0x3ffc6730 0x400df098:0x3ffc6750 0x400df1b7:0x3ffc6770 0x400df5e3:0x3ffc67e0 0x400839c5:0x3ffc6830 0x40084a0c:0x3ffc6850 0x400df07c:0x3ffc6910 0x400df098:0x3ffc6930 0x400df1b7:0x3ffc6950 0x400df5e3:0x3ffc69c0 0x400839c5:0x3ffc6a10 0x40084a0c:0x3ffc6a30 0x400df07c:0x3ffc6af0 0x400df098:0x3ffc6b10 0x400df1b7:0x3ffc6b30 0x400df5e3:0x3ffc6ba0 0x400839c5:0x3ffc6bf0 0x40084a0c:0x3ffc6c10 0x400df07c:0x3ffc6cd0 0x400df098:0x3ffc6cf0 0x400df1b7:0x3ffc6d10 0x400df5e3:0x3ffc6d80 0x400839c5:0x3ffc6dd0 0x40084a0c:0x3ffc6df0 0x400df07c:0x3ffc6eb0 0x400df098:0x3ffc6ed0 0x400df1b7:0x3ffc6ef0 0x400df5e3:0x3ffc6f60 0x400839c5:0x3ffc6fb0 0x40084a0c:0x3ffc6fd0 0x400df07c:0x3ffc7090 0x400df098:0x3ffc70b0 0x400df1b7:0x3ffc70d0 0x400df5e3:0x3ffc7140 0x400839c5:0x3ffc7190 0x40084a0c:0x3ffc71b0 0x400df07c:0x3ffc7270 0x400df098:0x3ffc7290 0x400df1b7:0x3ffc72b0 0x400df5e3:0x3ffc7320 0x400839c5:0x3ffc7370 0x40084a0c:0x3ffc7390 0x400df07c:0x3ffc7450 0x400df098:0x3ffc7470 0x400df1b7:0x3ffc7490 0x400df5e3:0x3ffc7500 0x400839c5:0x3ffc7550 0x40084a0c:0x3ffc7570 0x400df07c:0x3ffc7630 0x400df098:0x3ffc7650 0x400df1b7:0x3ffc7670 0x400df5e3:0x3ffc76e0 0x400839c5:0x3ffc7730 |<-CONTINUES
+
+
+
+
+Backtrace: 0x400df07c:0x3ffc5830 0x400df098:0x3ffc5850 0x400df1b7:0x3ffc5870 0x400df5e3:0x3ffc58e0 0x400839c5:0x3ffc5930 0x40084a0c:0x3ffc5950 0x400df07c:0x3ffc5a10 0x400df098:0x3ffc5a30 0x400df1b7:0x3ffc5a50 0x400df5e3:0x3ffc5ac0 0x400839c5:0x3ffc5b10 0x40084a0c:0x3ffc5b30 0x400df07c:0x3ffc5bf0 0x400df098:0x3ffc5c10 0x400df1b7:0x3ffc5c30 0x400df5e3:0x3ffc5ca0 0x400839c5:0x3ffc5cf0 0x40084a0c:0x3ffc5d10 0x400df07c:0x3ffc5dd0 0x400df098:0x3ffc5df0 0x400df1b7:0x3ffc5e10 0x400df5e3:0x3ffc5e80 0x400839c5:0x3ffc5ed0 0x40084a0c:0x3ffc5ef0 0x400df07c:0x3ffc5fb0 0x400df098:0x3ffc5fd0 0x400df1b7:0x3ffc5ff0 0x400df5e3:0x3ffc6060 0x400839c5:0x3ffc60b0 0x40084a0c:0x3ffc60d0 0x400df07c:0x3ffc6190 0x400df098:0x3ffc61b0 0x400df1b7:0x3ffc61d0 0x400df5e3:0x3ffc6240 0x400839c5:0x3ffc6290 0x40084a0c:0x3ffc62b0 0x400df07c:0x3ffc6370 0x400df098:0x3ffc6390 0x400df1b7:0x3ffc63b0 0x400df5e3:0x3ffc6420 0x400839c5:0x3ffc6470 0x40084a0c:0x3ffc6490 0x400df07c:0x3ffc6550 0x400df098:0x3ffc6570 0x400df1b7:0x3ffc6590 0x400df5e3:0x3ffc6600 0x400839c5:0x3ffc6650 0x40084a0c:0x3ffc6670 0x400df07c:0x3ffc6730 0x400df098:0x3ffc6750 0x400df1b7:0x3ffc6770 0x400df5e3:0x3ffc67e0 0x400839c5:0x3ffc6830 0x40084a0c:0x3ffc6850 0x400df07c:0x3ffc6910 0x400df098:0x3ffc6930 0x400df1b7:0x3ffc6950 0x400df5e3:0x3ffc69c0 0x400839c5:0x3ffc6a10 0x40084a0c:0x3ffc6a30 0x400df07c:0x3ffc6af0 0x400df098:0x3ffc6b10 0x400df1b7:0x3ffc6b30 0x400df5e3:0x3ffc6ba0 0x400839c5:0x3ffc6bf0 0x40084a0c:0x3ffc6c10 0x400df07c:0x3ffc6cd0 0x400df098:0x3ffc6cf0 0x400df1b7:0x3ffc6d10 0x400df5e3:0x3ffc6d80 0x400839c5:0x3ffc6dd0 0x40084a0c:0x3ffc6df0 0x400df07c:0x3ffc6eb0 0x400df098:0x3ffc6ed0 0x400df1b7:0x3ffc6ef0 0x400df5e3:0x3ffc6f60 0x400839c5:0x3ffc6fb0 0x40084a0c:0x3ffc6fd0 0x400df07c:0x3ffc7090 0x400df098:0x3ffc70b0 0x400df1b7:0x3ffc70d0 0x400df5e3:0x3ffc7140 0x400839c5:0x3ffc7190 0x40084a0c:0x3ffc71b0 0x400df07c:0x3ffc7270 0x400df098:0x3ffc7290 0x400df1b7:0x3ffc72b0 0x400df5e3:0x3ffc7320 0x400839c5:0x3ffc7370 0x40084a0c:0x3ffc7390 0x400df07c:0x3ffc7450 0x400df098:0x3ffc7470 0x400df1b7:0x3ffc7490 0x400df5e3:0x3ffc7500 0x400839c5:0x3ffc7550 0x40084a0c:0x3ffc7570 0x400df07c:0x3ffc7630 0x400df098:0x3ffc7650 0x400df1b7:0x3ffc7670 0x400df5e3:0x3ffc76e0 0x400839c5:0x3ffc7730 |<-CONTINUES
+
+
+
+
+ELF file SHA256: ffffffffffffffff
+
+Re-entered core dump! Exception happened during core dump!
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Successfully initialize I2S!
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 0 allocated 6200 min_free 0
+    largest_free_block 0 alloc_blocks 44 free_blocks 0 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 0 allocated 14916 min_free 0
+    largest_free_block 0 alloc_blocks 62 free_blocks 0 total_blocks 62
+  At 0x3ffca710 len 88304 free 0 allocated 83588 min_free 0
+    largest_free_block 0 alloc_blocks 240 free_blocks 0 total_blocks 240
+  At 0x3ffe0440 len 15072 free 2104 allocated 11148 min_free 32
+    largest_free_block 404 alloc_blocks 87 free_blocks 12 total_blocks 99
+  At 0x3ffe4350 len 113840 free 102412 allocated 10496 min_free 101156
+    largest_free_block 98292 alloc_blocks 3 free_blocks 2 total_blocks 5
+  Totals:
+    free 104524 allocated 126352 min_free 101196 largest_free_block 98292
+
+
+
+
+
+
+ets Jul 29 2019 12:21:46
+
+rst:0x7 (TG0WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Successfully initialize I2S!
+Heap info:
+Heap summary for capabilities 0x00001000:
+  At 0x3ffaff10 len 240 free 8 allocated 4 min_free 8
+    largest_free_block 0 alloc_blocks 1 free_blocks 1 total_blocks 2
+  At 0x3ffb6388 len 7288 free 0 allocated 6200 min_free 0
+    largest_free_block 0 alloc_blocks 44 free_blocks 0 total_blocks 44
+  At 0x3ffb9a20 len 16648 free 0 allocated 14916 min_free 0
+    largest_free_block 0 alloc_blocks 62 free_blocks 0 total_blocks 62
+  At 0x3ffca710 len 88304 free 0 allocated 83588 min_free 0
+    largest_free_block 0 alloc_blocks 240 free_blocks 0 total_blocks 240
+  At 0x3ffe0440 len 15072 free 2104 allocated 11148 min_free 32
+    largest_free_block 404 alloc_blocks 87 free_blocks 12 total_blocks 99
+  At 0x3ffe4350 len 113840 free 102412 allocated 10496 min_free 101156
+    largest_free_block 98292 alloc_blocks 3 free_blocks 2 total_blocks 5
+  Totals:
+    free 104524 allocated 126352 min_free 101196 largest_free_block 98292
+
+a
+
+
+Backtrace: 0x407bc6e7:0x3ffbea5c |<-CORRUPTED
+
+
+
+i
+
+
+Backtrace: 0x400df90c:0x3ffbe84c |<-CORRUPTED
+
+
+
+f
+
+
+Backtrace: 0x400df90c:0x3ffbe63c |<-CORRUPTED
+
+
+
+f
+
+
+Backtrace: 0x400df90c:0x3ffbe42c |<-CORRUPTED
+
+
+
+f
+
+
+Backtrace: 0x400df90c:0x3ffbe21c |<-CORRUPTED
+
+
+
+f
+
+
+Backtrace: 0x400df90c:0x3ffbe00c |<-CORRUPTED
+
+
